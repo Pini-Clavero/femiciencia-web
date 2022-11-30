@@ -21,7 +21,7 @@ window.addEventListener('scroll', mostrarScroll);
 let news = [  
     {
         id:0,
-        img: "../media/ilustraciones/astronomia.webp",
+        img:"../media/ilustraciones/astronomia.webp",
         titulo: "I - ASTRONOMÍA",
         contenido: `<p>Lo primero que hicimos cuando decidimos entrevistar a dos astrónomas contemporáneas fue rastrear en Google a sus colegas del pasado, porque honestamente nosotras tampoco las conocíamos. ¿Y adivinen qué? desde <strong>Hipatia de Alejandría</strong> (s. IV - V) - una de las primeras mujeres astrónomas documentada - no encontramos más femeneidades hasta mediados del siglo XVIII (por supuesto sin olvidar a <strong>Fátima de Madrid</strong> - X-XI).  Claro que esto no es casual, porque durante cientos de años pareciera ser que la historia de la ciencia estuvo únicamente escrita por varones. <br><br>
         ¿Dónde estaban las mujeres? ¿En sus casas, relegadas a tareas de cuidado? Esta sería una respuesta válida para la época, pero existieron mujeres que se dedicaron al campo de la astronomía. Por ejemplo: <strong>Maria Eimmart</strong> (contemporánea de Galileo Galilei), <strong>Caroline Lucrecia Herschel</strong> (1759 - 1848), primera astrónoma en cobrar un salario por su profesión, y <strong>Maria Mitchell</strong> (1818 - 1889), una de las pioneras en la lucha por el mismo salario que sus colegas varones - hasta ese momento, cobraba solo un tercio de la remuneración por el mismo trabajo. <br><br>
@@ -61,7 +61,7 @@ let news = [
     },
     {
         id:1,
-        img:"../media/ilustraciones/Filosofia_Judith_Butler.webp",
+        img:"../media/ilustraciones/filosofia_judith_butler.webp",
         titulo: "II - FILOSOFÍA",
         contenido: `<p>En esta entrega vamos a hablar de filósofas. Seguro, al pensar en esta ciencia crítica, te remontes a la Grecia antigua, donde esos barbudos canosos que viste en esculturas se paseaban semidesnudos cuestionándose sobre el origen del universo, el cosmos, la naturaleza o la vida después de la muerte. <br><br>
         Probablemente pienses en la filosofía como una asignatura más en universidades y colegios. Quizás te resuenan nombres como Sócrates, Platón, Aristóteles, Pitágoras, Santo Tomás, Descartes, Hegel, Marx, Nietzsche, Camus, Sartre, Foucault, y más recientemente filósofos “rockstars” de la pandemia y las redes sociales como Byung-Chul Han o Žižek. Ahora pensá en alguna filósofa conocida… ¿Alguna vez te preguntaste por qué si decimos “filosofía” solo pensamos en varones? ¿Acaso las feminidades no participamos en la construcción de esta disciplina? ¿Por qué no hay filósofas en los planes de estudio?<br><br>
@@ -109,7 +109,7 @@ let news = [
     },
     {
         id:2,
-        img: "../media/ilustraciones/quimica.webp",
+        img:"../media/ilustraciones/quimica.webp",
         titulo: "III - QUÍMICA",
         contenido: `<p>En esta oportunidad, hablaremos sobre las mujeres y feminidades químicas de ayer y hoy. Sería un poco trillado comenzar este Newsletter hablando de <strong>Marie Sklodowska Curie</strong> (1867 - 1934) -pero adivinen qué: sí, arrancamos por ahí-. ¿Les suena ese nombre? Bueno, ELLA -así, con mayúsculas- fue la primera mujer en ganar no solo uno, sino dos premios Nobel y la única en recibirlos en dos disciplinas científicas distintas. Al primer Nobel lo ganó en la disciplina de física (1903) junto a su esposo Pierre Curie, mientras su segundo galardón fue para química (1911). Sin embargo, Marie Sklodowska Curie fue una privilegiada para la época, ya que las mujeres en ese momento tenían vedado el acceso al conocimiento. <br><br>
         Leyendo la página de Wikipedia que resume la historia de la química de la humanidad nos preguntamos: ¿Hubo otras mujeres destacadas en las ciencias químicas antes de Marie Sklodowska Curie? Por supuesto que sí, de hecho hicieron sus contribuciones al campo antes de la introducción de la química moderna, realizada por <strong>Marie Anne Pierrette Paulze</strong> (1758 - 1836). Ella fue investigadora, ilustradora y coautora del “Tratado de química de Lavoisier”, considerado el primer libro de la ciencia química.
@@ -191,7 +191,7 @@ let news = [
     },
     {
         id:3,
-        img:"../media/ilustraciones/Ciencia_politica_Mujeres_votando_en_las_elecciones_de_1945.webp",
+        img:"../media/ilustraciones/ciencia_politica_mujeres_votando_en_las_elecciones_de_1945.webp",
         titulo: "IV - CIENCIA POLÍTICA",
         contenido: `<p>En este cuarto encuentro, queremos hablarles sobre aquella ciencia abocada al análisis y estudio de las relaciones de poder, los sistemas políticos y organizativos, las prácticas y teorías gubernamentales a nivel local, estatal, nacional e internacional. En resumen, queremos hablarles de la Ciencia Política -y más aún de mujeres y feminidades en esta ciencia-. <br><br>
         En sus orígenes, la Ciencia Política se nutrió de otras ciencias sociales como la Filosofía, la Economía, la Sociología, la Antropología y el Derecho. También, podemos rastrear y encontrar sus bases en lo que ahora comprendemos como Filosofía Política.  Por tratarse de una ciencia ligada a la práctica política y de gobierno, cuando hablamos de Ciencia Política podemos referirnos tanto a politólogas académicas como a feminidades en puestos de representatividad y activismo político. <br><br>
@@ -257,7 +257,7 @@ let news = [
     },
     {
         id:4,
-        img: "../media/ilustraciones/LGBTIQ.webp",
+        img:"../media/ilustraciones/lgbtiq.webp",
         titulo: "V - ESPECIAL LGBTIQ+",
         contenido:`<p>Todos los 28 de junio se conmemora el Día Internacional del Orgullo LGBTIQ+. Año a año, el hito de la <strong>revuelta de Stonewall</strong> de 1969, es motivo de marchas, movilizaciones y diversos eventos en todos los países del mundo. En Argentina, la primera marcha del Orgullo se realizó el 2 de julio de 1992, con una organización mayoritariamente conformada por la Comunidad Homosexual Argentina (CHA), liderada por Carlos Jáuregui. Nota de color: la estación de subterráneo de la línea H en CABA de calles Pueyrredón y Santa Fe lleva su nombre. <br><br>
         Cuando vemos fotos de la primera marcha del Orgullo LGBTIQ+ realizada en Buenos Aires, vemos también los carteles de organizaciones como Transexuales por el Derecho a la Vida y la Identidad (Transdevi), la Sociedad de Integración Gay Lésbica Argentina (SIGLA), Investigación en Sexualidad e Interacción Social (ISIS), Cuadernos de Existencia Lesbiana y la Iglesia de la Comunidad Metropolitana (ICM). En aquel momento, la mera visibilidad disidente no solo representaba un riesgo político y legal, sino de existencia. Después de todo, el retorno de la democracia y los años subsiguientes nos enseñaron que en épocas de dictadura hubo un ensañamiento especial con integrantes de la comunidad LGBTIQ+.<br><br>
@@ -304,7 +304,7 @@ let news = [
     },
     {
         id:5,
-        img: "../media/ilustraciones/medicina.webp",
+        img:"../media/ilustraciones/medicina.webp",
         titulo: "VI - MEDICINA",
         contenido:`<p>Cuando empezamos a escribir este newsletter, lo primero que se nos vino a la mente, fue que a las mujeres y feminidades nos costó ganar nuestro espacio en la Medicina - bueno, como en casi todas las disciplinas-. De hecho, reafirmamos nuestro lugar con base en la lucha de muchxs que nos precedieron en la historia. <br><br>
         Históricamente relegadas a las tareas de cuidado, nos hicieron creer que el amor era base y fundamento para un destino ceñido a la custodia de otrxs. Como dice un libro de texto de 1848 (autor no encontrado) sobre obstetricia: <i>'La cabeza de la mujer era demasiado pequeña para el intelecto, pero lo suficientemente grande para el amor'.</i> -Increíble pero cierto: con bases de ese tipo, mujeres y feminidades no se consideraban aptas para la práctica de la Medicina y las escuelas tampoco las admitían. <br><br>                         
@@ -371,7 +371,7 @@ let news = [
     }, 
     {
         id: 6,
-        img:"../media/ilustraciones/antropologia.webp" ,
+        img:"../media/ilustraciones/antropologia.webp",
         titulo:"VII - Antropología",
         contenido: `<p class="first-chilgitd">Seguramente has escuchado hablar de la Antropología como la ciencia que estudia “al hombre” o al ser humano de forma integral. Si bien se inscribe en las ciencias sociales, esta disciplina posee una diversidad de ramas, cuya pertinencia va desde el ámbito sociocultural al de la salud.<br><br>
         Ante todo, para esbozar una primera definición de esta ciencia, es vital abordar su principal problema de conocimiento, y es que, la primera pregunta de la Antropología es la pregunta por el Otro -categoría que, a los fines aclaratorios de ser un newsletter sobre género, comprendemos también como Otra u Otrx-.
@@ -441,7 +441,7 @@ let news = [
     },
     {
         id: 7,
-        img:"../media/ilustraciones/brujas.webp" ,
+        img:"../media/ilustraciones/brujas.webp",
         titulo:"VIII -Brujas",
         contenido: ` <p class="first-child">Como sabrás, la temporada de fines de octubre y principios de noviembre se caracteriza por la llegada de una festividad algo controversial. Si, hablamos de Halloween (originalmente Samhain), esa celebración de origen celta que emigró hacia distintos países del continente americano, para luego popularizarse y adquirir el sinónimo de <i>“Noche de Brujas”.</i><br><br>
         El “Samhain”, se consolidó como la fiesta de fin del año celta, celebrada cada 31 de octubre para festejar el punto cúlmine de la cosecha anual. Durante la festividad, se ofrendaban alimentos y dulces a lxs muertxs, que se creía, regresaban a la tierra para el día de la fecha. Con la popularización de Halloween durante las inmigraciones europeas de 1820 a 1930, la festividad perdió las características de su ritual purificador, y se transformó en un ambiente de distensión que comúnmente implica fiestas de disfraces, diversiones de infancias y maratones de películas de horror.  <br><br>
@@ -477,7 +477,7 @@ let news = [
     },
     {
         id: 8,
-        img:"../media/ilustraciones/educacion-ambiental.webp" ,
+        img:"../media/ilustraciones/educacion-ambiental.webp",
         titulo:"IX - Educación Ambiental",
         contenido: `<p class="first-child">Como saben, los incendios forestales en Argentina coparon las agendas informativas de este último tiempo. A distancia y con angustia atravesada en la garganta, vivimos el minuto a minuto de la pérdida y el daño irreversible a nuestra flora y fauna nativas. Vimos también cajonear proyectos de ley, cuyas políticas públicas duermen en el senado con una comodidad casi envidiable. <strong>Por eso, este es un newsletter urgente.</strong><br><br>
         La Cumbre de Estocolmo (Suecia), celebrada por las Naciones Unidas en 1972, determinó la relevancia mundial de la Educación Ambiental para la preservación del ambiente y los recursos naturales. En Argentina, la Ley Yolanda (Ley n.º 27592, sancionada en el año 2020) tiene como principal objetivo <i>garantizar la formación integral en ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, para las personas que se desempeñan en la función pública.</i> Sin embargo, aún no se logra implementar al 100% en las áreas de gobierno. <br><br>
@@ -528,7 +528,7 @@ let news = [
     },
     {
         id: 9,
-        img: "../media/ilustraciones/historia.webp",
+        img:"../media/ilustraciones/historia.webp",
         titulo: "X - Historia",
         contenido:`<p class="first-child">Antes de empezar, queremos contarte que al iniciar la búsqueda de referentxs en el tema, pusimos en el buscador de Google: <i>“Mujeres historiadoras”</i> , en español e inglés. Para sorpresa de nadie, en las sugerencias el buscador nos mostró el adjetivo<i> “hot” </i>-del inglés <i>“caliente”</i> -. Es decir, que las mujeres no solo debemos hacer demostraciones de genialidad en el mundo académico sino que, además, debemos estar <i>“buenas”</i>  y nuestros cuerpos deben corresponder a cánones de belleza casi inalcanzables. ¿No será mucho? <br> <br>
         En estos días reflexionamos que tal vez, si nosotras fuéramos quienes contáramos la historia, podríamos aparecer más -y <i>“mejor”</i> - representadas en hechos históricos como, por ejemplo, el que se conmemoró ayer. <br><br>
@@ -583,7 +583,7 @@ let news = [
     },
     {
         id: 10,
-        img: "../media/ilustraciones/apesardemisexo-web.webp",
+        img:"../media/ilustraciones/apesardemisexo-web.webp",
         titulo: "XI - A pesar de mi sexo",
         contenido: `<p class="first-child">La historia que vamos a contar inicia en el año 2021, cuando dos jóvenes investigadoras decidieron sentarse a escribir sobre la vida universitaria de las mujeres y su activismo político desde 1947. <br><br>
         <strong>“A pesar de mi sexo”</strong> terminó de imprimirse en abril de este 2022 y pertenece a la editorial de la Universidad Nacional de Rosario (UNR). Su prólogo, escrito por su gran madrina Dora Barrancos, nos advierte: “Estos apuntes desafían a las nuevas inscripciones feministas manteniendo la radicalidad de los orígenes –porque mientras haya patriarcado y capitalismo habrá que ser impertinentes– (...)”.<br><br>
