@@ -21,7 +21,7 @@ window.addEventListener('scroll', mostrarScroll);
 let news = [  
     {
         id:0,
-        img: "../media/ilustraciones/astronomía.webp",
+        img: "../media/ilustraciones/astronomia.webp",
         titulo: "I - ASTRONOMÍA",
         contenido: `<p>Lo primero que hicimos cuando decidimos entrevistar a dos astrónomas contemporáneas fue rastrear en Google a sus colegas del pasado, porque honestamente nosotras tampoco las conocíamos. ¿Y adivinen qué? desde <strong>Hipatia de Alejandría</strong> (s. IV - V) - una de las primeras mujeres astrónomas documentada - no encontramos más femeneidades hasta mediados del siglo XVIII (por supuesto sin olvidar a <strong>Fátima de Madrid</strong> - X-XI).  Claro que esto no es casual, porque durante cientos de años pareciera ser que la historia de la ciencia estuvo únicamente escrita por varones. <br><br>
         ¿Dónde estaban las mujeres? ¿En sus casas, relegadas a tareas de cuidado? Esta sería una respuesta válida para la época, pero existieron mujeres que se dedicaron al campo de la astronomía. Por ejemplo: <strong>Maria Eimmart</strong> (contemporánea de Galileo Galilei), <strong>Caroline Lucrecia Herschel</strong> (1759 - 1848), primera astrónoma en cobrar un salario por su profesión, y <strong>Maria Mitchell</strong> (1818 - 1889), una de las pioneras en la lucha por el mismo salario que sus colegas varones - hasta ese momento, cobraba solo un tercio de la remuneración por el mismo trabajo. <br><br>
@@ -371,7 +371,7 @@ let news = [
     }, 
     {
         id: 6,
-        img:"../media/ilustraciones/antropología.webp" ,
+        img:"../media/ilustraciones/antropologia.webp" ,
         titulo:"VII - Antropología",
         contenido: `<p class="first-chilgitd">Seguramente has escuchado hablar de la Antropología como la ciencia que estudia “al hombre” o al ser humano de forma integral. Si bien se inscribe en las ciencias sociales, esta disciplina posee una diversidad de ramas, cuya pertinencia va desde el ámbito sociocultural al de la salud.<br><br>
         Ante todo, para esbozar una primera definición de esta ciencia, es vital abordar su principal problema de conocimiento, y es que, la primera pregunta de la Antropología es la pregunta por el Otro -categoría que, a los fines aclaratorios de ser un newsletter sobre género, comprendemos también como Otra u Otrx-.
@@ -477,7 +477,7 @@ let news = [
     },
     {
         id: 8,
-        img:"../media/ilustraciones/educación-ambiental.webp" ,
+        img:"../media/ilustraciones/educacion-ambiental.webp" ,
         titulo:"IX - Educación Ambiental",
         contenido: `<p class="first-child">Como saben, los incendios forestales en Argentina coparon las agendas informativas de este último tiempo. A distancia y con angustia atravesada en la garganta, vivimos el minuto a minuto de la pérdida y el daño irreversible a nuestra flora y fauna nativas. Vimos también cajonear proyectos de ley, cuyas políticas públicas duermen en el senado con una comodidad casi envidiable. <strong>Por eso, este es un newsletter urgente.</strong><br><br>
         La Cumbre de Estocolmo (Suecia), celebrada por las Naciones Unidas en 1972, determinó la relevancia mundial de la Educación Ambiental para la preservación del ambiente y los recursos naturales. En Argentina, la Ley Yolanda (Ley n.º 27592, sancionada en el año 2020) tiene como principal objetivo <i>garantizar la formación integral en ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, para las personas que se desempeñan en la función pública.</i> Sin embargo, aún no se logra implementar al 100% en las áreas de gobierno. <br><br>
