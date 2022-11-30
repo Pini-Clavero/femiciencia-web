@@ -61,7 +61,7 @@ let news = [
     },
     {
         id:1,
-        img:"https://images.pexels.com/photos/1244705/pexels-photo-1244705.jpeg?cs=srgb&dl=pexels-dominika-roseclay-1244705.jpg&fm=jpg",
+        img:"../media/ilustraciones/Filosofia_Judith_Butler.webp",
         titulo: "II - FILOSOFÍA",
         contenido: `<p>En esta entrega vamos a hablar de filósofas. Seguro, al pensar en esta ciencia crítica, te remontes a la Grecia antigua, donde esos barbudos canosos que viste en esculturas se paseaban semidesnudos cuestionándose sobre el origen del universo, el cosmos, la naturaleza o la vida después de la muerte. <br><br>
         Probablemente pienses en la filosofía como una asignatura más en universidades y colegios. Quizás te resuenan nombres como Sócrates, Platón, Aristóteles, Pitágoras, Santo Tomás, Descartes, Hegel, Marx, Nietzsche, Camus, Sartre, Foucault, y más recientemente filósofos “rockstars” de la pandemia y las redes sociales como Byung-Chul Han o Žižek. Ahora pensá en alguna filósofa conocida… ¿Alguna vez te preguntaste por qué si decimos “filosofía” solo pensamos en varones? ¿Acaso las feminidades no participamos en la construcción de esta disciplina? ¿Por qué no hay filósofas en los planes de estudio?<br><br>
@@ -191,7 +191,7 @@ let news = [
     },
     {
         id:3,
-        img:"https://images.pexels.com/photos/4427506/pexels-photo-4427506.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img:"../media/ilustraciones/Ciencia_politica_Mujeres_votando_en_las_elecciones_de_1945.webp",
         titulo: "IV - CIENCIA POLÍTICA",
         contenido: `<p>En este cuarto encuentro, queremos hablarles sobre aquella ciencia abocada al análisis y estudio de las relaciones de poder, los sistemas políticos y organizativos, las prácticas y teorías gubernamentales a nivel local, estatal, nacional e internacional. En resumen, queremos hablarles de la Ciencia Política -y más aún de mujeres y feminidades en esta ciencia-. <br><br>
         En sus orígenes, la Ciencia Política se nutrió de otras ciencias sociales como la Filosofía, la Economía, la Sociología, la Antropología y el Derecho. También, podemos rastrear y encontrar sus bases en lo que ahora comprendemos como Filosofía Política.  Por tratarse de una ciencia ligada a la práctica política y de gobierno, cuando hablamos de Ciencia Política podemos referirnos tanto a politólogas académicas como a feminidades en puestos de representatividad y activismo político. <br><br>
@@ -257,7 +257,7 @@ let news = [
     },
     {
         id:4,
-        img: "https://images.pexels.com/photos/1209843/pexels-photo-1209843.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        img: "../media/ilustraciones/LGBTIQ.webp",
         titulo: "V - ESPECIAL LGBTIQ+",
         contenido:`<p>Todos los 28 de junio se conmemora el Día Internacional del Orgullo LGBTIQ+. Año a año, el hito de la <strong>revuelta de Stonewall</strong> de 1969, es motivo de marchas, movilizaciones y diversos eventos en todos los países del mundo. En Argentina, la primera marcha del Orgullo se realizó el 2 de julio de 1992, con una organización mayoritariamente conformada por la Comunidad Homosexual Argentina (CHA), liderada por Carlos Jáuregui. Nota de color: la estación de subterráneo de la línea H en CABA de calles Pueyrredón y Santa Fe lleva su nombre. <br><br>
         Cuando vemos fotos de la primera marcha del Orgullo LGBTIQ+ realizada en Buenos Aires, vemos también los carteles de organizaciones como Transexuales por el Derecho a la Vida y la Identidad (Transdevi), la Sociedad de Integración Gay Lésbica Argentina (SIGLA), Investigación en Sexualidad e Interacción Social (ISIS), Cuadernos de Existencia Lesbiana y la Iglesia de la Comunidad Metropolitana (ICM). En aquel momento, la mera visibilidad disidente no solo representaba un riesgo político y legal, sino de existencia. Después de todo, el retorno de la democracia y los años subsiguientes nos enseñaron que en épocas de dictadura hubo un ensañamiento especial con integrantes de la comunidad LGBTIQ+.<br><br>
@@ -373,7 +373,7 @@ let news = [
         id: 6,
         img:"../media/ilustraciones/antropología.webp" ,
         titulo:"VII - Antropología",
-        contenido: `<p class="first-child">Seguramente has escuchado hablar de la Antropología como la ciencia que estudia “al hombre” o al ser humano de forma integral. Si bien se inscribe en las ciencias sociales, esta disciplina posee una diversidad de ramas, cuya pertinencia va desde el ámbito sociocultural al de la salud.<br><br>
+        contenido: `<p class="first-chilgitd">Seguramente has escuchado hablar de la Antropología como la ciencia que estudia “al hombre” o al ser humano de forma integral. Si bien se inscribe en las ciencias sociales, esta disciplina posee una diversidad de ramas, cuya pertinencia va desde el ámbito sociocultural al de la salud.<br><br>
         Ante todo, para esbozar una primera definición de esta ciencia, es vital abordar su principal problema de conocimiento, y es que, la primera pregunta de la Antropología es la pregunta por el Otro -categoría que, a los fines aclaratorios de ser un newsletter sobre género, comprendemos también como Otra u Otrx-.
         Es decir, que el problema inicial de conocimiento de esta ciencia subyace en la categoría de alteridad. Esto es, la inquietud por las variaciones entre las sociedades y la diversidad en la construcción de esas identidades otras. <br><br>
         Como en toda producción de conocimiento, su contexto histórico y social jugó un papel central en la consolidación de sus métodos de estudio, que no puede ignorarse si se quiere lograr su comprensión. En este sentido, podemos establecer tres momentos en los estudios antropológicos: uno primero, marcado por el evolucionismo del siglo XIX; un segundo periodo, enmarcado en las teorías de la diversidad cultural del periodo entre guerras mundiales, y un tercer momento que inició luego de la Segunda Guerra Mundial y se circunscribe en las teorías alternativas sobre la Otredad cultural.<br><br>
