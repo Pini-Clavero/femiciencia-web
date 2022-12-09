@@ -79,3 +79,9 @@ const thanks = document.querySelector('.thanks')
 
 /*FIN logica para que aparezca el mensaje de gracias por suscribirte cuando hago click en el boton*/
 
+/*Logica para que cada Newsletter tenga su propia pagina*/
+
+const port = process.env.PORT || 3000
+app.listen(port, () => {
+    console.log('Servidor Corriendo en el Puerto 3000');
+});
