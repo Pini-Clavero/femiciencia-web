@@ -128,3 +128,8 @@ p::selection, strong::selection, i::selection, br::selection,h1::selection, h2::
 .disclaimer {
     display: none;
 }
+
+.newsTamaño{ // no funciona, lo agregué en el HTML (mala práctica)
+    max-width: 800px;
+    margin: auto
+}
