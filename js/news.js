@@ -3,11 +3,11 @@
 
 let subir = document.querySelector('.boton-news-div');
 
-function mostrarScroll(){
+function mostrarScroll() {
     let scrollTop = document.documentElement.scrollTop
     let alturaFlecha = subir.offsetTop;
-    if(alturaFlecha +200< scrollTop ){
-        subir.style.display= 'block';
+    if (alturaFlecha + 200 < scrollTop) {
+        subir.style.display = 'block';
         subir.style.position = 'fixed';
     }
 }
@@ -18,10 +18,10 @@ window.addEventListener('scroll', mostrarScroll);
 
 /*INICIO array de newsletters */
 
-let news = [  
+let news = [
     {
-        id:0,
-        img:"../media/ilustraciones/astronomia.webp",
+        id: 0,
+        img: "../media/ilustraciones/astronomia.webp",
         titulo: "I - ASTRONOMÍA",
         contenido: `<p>Lo primero que hicimos cuando decidimos entrevistar a dos astrónomas contemporáneas fue rastrear en Google a sus colegas del pasado, porque honestamente nosotras tampoco las conocíamos. ¿Y adivinen qué? desde <strong>Hipatia de Alejandría</strong> (s. IV - V) - una de las primeras mujeres astrónomas documentada - no encontramos más femeneidades hasta mediados del siglo XVIII (por supuesto sin olvidar a <strong>Fátima de Madrid</strong> - X-XI).  Claro que esto no es casual, porque durante cientos de años pareciera ser que la historia de la ciencia estuvo únicamente escrita por varones. <br><br>
         ¿Dónde estaban las mujeres? ¿En sus casas, relegadas a tareas de cuidado? Esta sería una respuesta válida para la época, pero existieron mujeres que se dedicaron al campo de la astronomía. Por ejemplo: <strong>Maria Eimmart</strong> (contemporánea de Galileo Galilei), <strong>Caroline Lucrecia Herschel</strong> (1759 - 1848), primera astrónoma en cobrar un salario por su profesión, y <strong>Maria Mitchell</strong> (1818 - 1889), una de las pioneras en la lucha por el mismo salario que sus colegas varones - hasta ese momento, cobraba solo un tercio de la remuneración por el mismo trabajo. <br><br>
@@ -60,8 +60,8 @@ let news = [
         <i>¡Gracias por leernos, nos vemos!</i></p>`
     },
     {
-        id:1,
-        img:"../media/ilustraciones/filosofia_judith_butler.webp",
+        id: 1,
+        img: "../media/ilustraciones/filosofia_judith_butler.webp",
         titulo: "II - FILOSOFÍA",
         contenido: `<p>En esta entrega vamos a hablar de filósofas. Seguro, al pensar en esta ciencia crítica, te remontes a la Grecia antigua, donde esos barbudos canosos que viste en esculturas se paseaban semidesnudos cuestionándose sobre el origen del universo, el cosmos, la naturaleza o la vida después de la muerte. <br><br>
         Probablemente pienses en la filosofía como una asignatura más en universidades y colegios. Quizás te resuenan nombres como Sócrates, Platón, Aristóteles, Pitágoras, Santo Tomás, Descartes, Hegel, Marx, Nietzsche, Camus, Sartre, Foucault, y más recientemente filósofos “rockstars” de la pandemia y las redes sociales como Byung-Chul Han o Žižek. Ahora pensá en alguna filósofa conocida… ¿Alguna vez te preguntaste por qué si decimos “filosofía” solo pensamos en varones? ¿Acaso las feminidades no participamos en la construcción de esta disciplina? ¿Por qué no hay filósofas en los planes de estudio?<br><br>
@@ -108,8 +108,8 @@ let news = [
         Equipo de <strong>FEMICIENCIA</strong></p>`
     },
     {
-        id:2,
-        img:"../media/ilustraciones/quimica.webp",
+        id: 2,
+        img: "../media/ilustraciones/quimica.webp",
         titulo: "III - QUÍMICA",
         contenido: `<p>En esta oportunidad, hablaremos sobre las mujeres y feminidades químicas de ayer y hoy. Sería un poco trillado comenzar este Newsletter hablando de <strong>Marie Sklodowska Curie</strong> (1867 - 1934) -pero adivinen qué: sí, arrancamos por ahí-. ¿Les suena ese nombre? Bueno, ELLA -así, con mayúsculas- fue la primera mujer en ganar no solo uno, sino dos premios Nobel y la única en recibirlos en dos disciplinas científicas distintas. Al primer Nobel lo ganó en la disciplina de física (1903) junto a su esposo Pierre Curie, mientras su segundo galardón fue para química (1911). Sin embargo, Marie Sklodowska Curie fue una privilegiada para la época, ya que las mujeres en ese momento tenían vedado el acceso al conocimiento. <br><br>
         Leyendo la página de Wikipedia que resume la historia de la química de la humanidad nos preguntamos: ¿Hubo otras mujeres destacadas en las ciencias químicas antes de Marie Sklodowska Curie? Por supuesto que sí, de hecho hicieron sus contribuciones al campo antes de la introducción de la química moderna, realizada por <strong>Marie Anne Pierrette Paulze</strong> (1758 - 1836). Ella fue investigadora, ilustradora y coautora del “Tratado de química de Lavoisier”, considerado el primer libro de la ciencia química.
@@ -190,8 +190,8 @@ let news = [
         </p>`
     },
     {
-        id:3,
-        img:"../media/ilustraciones/ciencia_politica_mujeres_votando_en_las_elecciones_de_1945.webp",
+        id: 3,
+        img: "../media/ilustraciones/ciencia_politica_mujeres_votando_en_las_elecciones_de_1945.webp",
         titulo: "IV - CIENCIA POLÍTICA",
         contenido: `<p>En este cuarto encuentro, queremos hablarles sobre aquella ciencia abocada al análisis y estudio de las relaciones de poder, los sistemas políticos y organizativos, las prácticas y teorías gubernamentales a nivel local, estatal, nacional e internacional. En resumen, queremos hablarles de la Ciencia Política -y más aún de mujeres y feminidades en esta ciencia-. <br><br>
         En sus orígenes, la Ciencia Política se nutrió de otras ciencias sociales como la Filosofía, la Economía, la Sociología, la Antropología y el Derecho. También, podemos rastrear y encontrar sus bases en lo que ahora comprendemos como Filosofía Política.  Por tratarse de una ciencia ligada a la práctica política y de gobierno, cuando hablamos de Ciencia Política podemos referirnos tanto a politólogas académicas como a feminidades en puestos de representatividad y activismo político. <br><br>
@@ -256,10 +256,10 @@ let news = [
         Equipo de <strong>FEMICIENCIA</strong></p>`
     },
     {
-        id:4,
-        img:"../media/ilustraciones/lgbtiq.webp",
+        id: 4,
+        img: "../media/ilustraciones/lgbtiq.webp",
         titulo: "V - ESPECIAL LGBTIQ+",
-        contenido:`<p>Todos los 28 de junio se conmemora el Día Internacional del Orgullo LGBTIQ+. Año a año, el hito de la <strong>revuelta de Stonewall</strong> de 1969, es motivo de marchas, movilizaciones y diversos eventos en todos los países del mundo. En Argentina, la primera marcha del Orgullo se realizó el 2 de julio de 1992, con una organización mayoritariamente conformada por la Comunidad Homosexual Argentina (CHA), liderada por Carlos Jáuregui. Nota de color: la estación de subterráneo de la línea H en CABA de calles Pueyrredón y Santa Fe lleva su nombre. <br><br>
+        contenido: `<p>Todos los 28 de junio se conmemora el Día Internacional del Orgullo LGBTIQ+. Año a año, el hito de la <strong>revuelta de Stonewall</strong> de 1969, es motivo de marchas, movilizaciones y diversos eventos en todos los países del mundo. En Argentina, la primera marcha del Orgullo se realizó el 2 de julio de 1992, con una organización mayoritariamente conformada por la Comunidad Homosexual Argentina (CHA), liderada por Carlos Jáuregui. Nota de color: la estación de subterráneo de la línea H en CABA de calles Pueyrredón y Santa Fe lleva su nombre. <br><br>
         Cuando vemos fotos de la primera marcha del Orgullo LGBTIQ+ realizada en Buenos Aires, vemos también los carteles de organizaciones como Transexuales por el Derecho a la Vida y la Identidad (Transdevi), la Sociedad de Integración Gay Lésbica Argentina (SIGLA), Investigación en Sexualidad e Interacción Social (ISIS), Cuadernos de Existencia Lesbiana y la Iglesia de la Comunidad Metropolitana (ICM). En aquel momento, la mera visibilidad disidente no solo representaba un riesgo político y legal, sino de existencia. Después de todo, el retorno de la democracia y los años subsiguientes nos enseñaron que en épocas de dictadura hubo un ensañamiento especial con integrantes de la comunidad LGBTIQ+.<br><br>
         Sabemos que la historia del colectivo LGBTIQ+ en Argentina es muy extensa, y en esta edición no será nuestro objetivo hacer una genealogía. Sí, en cambio, nos parece importante aludir a políticas de nuestro país contrarias  a la heteronorma, y son estos los casos de las normativas: <strong>Ley 26.618 de Matrimonio Igualitario</strong>  (2010), la <strong>Ley 26.743 de Identidad de Género</strong> (2012), la <strong>Ley 26.791 contra crímenes de odio</strong> (2012), <strong>Ley Micaela de Capacitación Obligatoria en Género para todas las personas que integran los tres poderes del Estado 27.499</strong> (2018) y la reciente conquista de la <strong>Ley de Cupo Laboral Trans- Travesti</strong> (2021).<br><br>
         El debate, discusión y sanción de estas normativas, fue producto de innumerables luchas libradas en el espacio público de parte de los colectivos de mujeres y disidencias. Una vez más, como lo vimos anteriormente en este newsletter, los cambios fácticos en nuestra realidad no llegan sin los desacuerdos, movilizaciones y la política dispuesta como herramienta de transformación.<br><br>
@@ -303,10 +303,10 @@ let news = [
         </p>`
     },
     {
-        id:5,
-        img:"../media/ilustraciones/medicina.webp",
+        id: 5,
+        img: "../media/ilustraciones/medicina.webp",
         titulo: "VI - MEDICINA",
-        contenido:`<p>Cuando empezamos a escribir este newsletter, lo primero que se nos vino a la mente, fue que a las mujeres y feminidades nos costó ganar nuestro espacio en la Medicina - bueno, como en casi todas las disciplinas-. De hecho, reafirmamos nuestro lugar con base en la lucha de muchxs que nos precedieron en la historia. <br><br>
+        contenido: `<p>Cuando empezamos a escribir este newsletter, lo primero que se nos vino a la mente, fue que a las mujeres y feminidades nos costó ganar nuestro espacio en la Medicina - bueno, como en casi todas las disciplinas-. De hecho, reafirmamos nuestro lugar con base en la lucha de muchxs que nos precedieron en la historia. <br><br>
         Históricamente relegadas a las tareas de cuidado, nos hicieron creer que el amor era base y fundamento para un destino ceñido a la custodia de otrxs. Como dice un libro de texto de 1848 (autor no encontrado) sobre obstetricia: <i>'La cabeza de la mujer era demasiado pequeña para el intelecto, pero lo suficientemente grande para el amor'.</i> -Increíble pero cierto: con bases de ese tipo, mujeres y feminidades no se consideraban aptas para la práctica de la Medicina y las escuelas tampoco las admitían. <br><br>                         
         Abocadas al oficio de parteras durante siglos, las mujeres se dedicaban a socorrerse entre sí durante los nacimientos, ya que el trabajo de parto se consideraba demasiado "sucio y degradante" como para ser practicado por un varón. De hecho,  no fue hasta el siglo XIX que las masculinidades se iniciaron en la obstetricia y ginecología. <br><br>
         Hoy podemos decir que somos médicas y accedemos a las universidades. Nosotras, que anteriormente nos enfrentamos a la lucha por los estudios formales universitarios, el sufragio universal y la autonomía sobre nuestros cuerpos en la libertad reproductiva. Nosotras, que como se documenta en la historia universal, pasamos por una larga lista de varas discriminatorias, como por ejemplo aquella de 1421 cuando se elevó la petición a Enrique V de Inglaterra para evitar que las mujeres ejercieran la medicina. <br><br>
@@ -368,11 +368,11 @@ let news = [
         Cuidate, cuidá al resto.</i><br><br>
         Equipo de <strong>FEMICIENCIA</strong>
         </p>`
-    }, 
+    },
     {
         id: 6,
-        img:"../media/ilustraciones/antropologia.webp",
-        titulo:"VII - Antropología",
+        img: "../media/ilustraciones/antropologia.webp",
+        titulo: "VII - Antropología",
         contenido: `<p class="first-chilgitd">Seguramente has escuchado hablar de la Antropología como la ciencia que estudia “al hombre” o al ser humano de forma integral. Si bien se inscribe en las ciencias sociales, esta disciplina posee una diversidad de ramas, cuya pertinencia va desde el ámbito sociocultural al de la salud.<br><br>
         Ante todo, para esbozar una primera definición de esta ciencia, es vital abordar su principal problema de conocimiento, y es que, la primera pregunta de la Antropología es la pregunta por el Otro -categoría que, a los fines aclaratorios de ser un newsletter sobre género, comprendemos también como Otra u Otrx-.
         Es decir, que el problema inicial de conocimiento de esta ciencia subyace en la categoría de alteridad. Esto es, la inquietud por las variaciones entre las sociedades y la diversidad en la construcción de esas identidades otras. <br><br>
@@ -441,8 +441,8 @@ let news = [
     },
     {
         id: 7,
-        img:"../media/ilustraciones/brujas.webp",
-        titulo:"VIII -Brujas",
+        img: "../media/ilustraciones/brujas.webp",
+        titulo: "VIII -Brujas",
         contenido: ` <p class="first-child">Como sabrás, la temporada de fines de octubre y principios de noviembre se caracteriza por la llegada de una festividad algo controversial. Si, hablamos de Halloween (originalmente Samhain), esa celebración de origen celta que emigró hacia distintos países del continente americano, para luego popularizarse y adquirir el sinónimo de <i>“Noche de Brujas”.</i><br><br>
         El “Samhain”, se consolidó como la fiesta de fin del año celta, celebrada cada 31 de octubre para festejar el punto cúlmine de la cosecha anual. Durante la festividad, se ofrendaban alimentos y dulces a lxs muertxs, que se creía, regresaban a la tierra para el día de la fecha. Con la popularización de Halloween durante las inmigraciones europeas de 1820 a 1930, la festividad perdió las características de su ritual purificador, y se transformó en un ambiente de distensión que comúnmente implica fiestas de disfraces, diversiones de infancias y maratones de películas de horror.  <br><br>
         Durante este tiempo, las <strong>“brujas”</strong> se transformaron en el eslogan y la figura caricaturizada del Halloween. Una nariz grande, un par de verrugas, ojos saltones, una cabellera añeja y un gato negro, que generalmente acompaña sus rituales satánicos junto a un gran caldero. Las brujas siempre estuvieron presentes en nuestras vidas, en los libros de cuentos, y en las películas de la infancia. Pero, ¿quiénes son las brujas? ¿Por qué las representamos así?<br><br>
@@ -477,8 +477,8 @@ let news = [
     },
     {
         id: 8,
-        img:"../media/ilustraciones/educacion-ambiental.webp",
-        titulo:"IX - Educación Ambiental",
+        img: "../media/ilustraciones/educacion-ambiental.webp",
+        titulo: "IX - Educación Ambiental",
         contenido: `<p class="first-child">Como saben, los incendios forestales en Argentina coparon las agendas informativas de este último tiempo. A distancia y con angustia atravesada en la garganta, vivimos el minuto a minuto de la pérdida y el daño irreversible a nuestra flora y fauna nativas. Vimos también cajonear proyectos de ley, cuyas políticas públicas duermen en el senado con una comodidad casi envidiable. <strong>Por eso, este es un newsletter urgente.</strong><br><br>
         La Cumbre de Estocolmo (Suecia), celebrada por las Naciones Unidas en 1972, determinó la relevancia mundial de la Educación Ambiental para la preservación del ambiente y los recursos naturales. En Argentina, la Ley Yolanda (Ley n.º 27592, sancionada en el año 2020) tiene como principal objetivo <i>garantizar la formación integral en ambiente, con perspectiva de desarrollo sostenible y con especial énfasis en cambio climático, para las personas que se desempeñan en la función pública.</i> Sin embargo, aún no se logra implementar al 100% en las áreas de gobierno. <br><br>
         Nuestrxs lectorxs saben que en este Newsletter recorremos la historia de la ciencia y la participación de las feminidades en ella. Es imperioso contar que esta Ley, se denomina de esta manera en honor a <strong>Yolanda Ortiz</strong> (1926 - 2019),  doctora en Química especializada en Toxicología, que en 1973 se convirtió en la primera secretaria de Recursos Naturales y Ambiente Humano de nuestro país y de América Latina, siendo designada por el gobierno de Juan Domingo Perón.<br><br>
@@ -528,9 +528,9 @@ let news = [
     },
     {
         id: 9,
-        img:"../media/ilustraciones/historia.webp",
+        img: "../media/ilustraciones/historia.webp",
         titulo: "X - Historia",
-        contenido:`<p class="first-child">Antes de empezar, queremos contarte que al iniciar la búsqueda de referentxs en el tema, pusimos en el buscador de Google: <i>“Mujeres historiadoras”</i> , en español e inglés. Para sorpresa de nadie, en las sugerencias el buscador nos mostró el adjetivo<i> “hot” </i>-del inglés <i>“caliente”</i> -. Es decir, que las mujeres no solo debemos hacer demostraciones de genialidad en el mundo académico sino que, además, debemos estar <i>“buenas”</i>  y nuestros cuerpos deben corresponder a cánones de belleza casi inalcanzables. ¿No será mucho? <br> <br>
+        contenido: `<p class="first-child">Antes de empezar, queremos contarte que al iniciar la búsqueda de referentxs en el tema, pusimos en el buscador de Google: <i>“Mujeres historiadoras”</i> , en español e inglés. Para sorpresa de nadie, en las sugerencias el buscador nos mostró el adjetivo<i> “hot” </i>-del inglés <i>“caliente”</i> -. Es decir, que las mujeres no solo debemos hacer demostraciones de genialidad en el mundo académico sino que, además, debemos estar <i>“buenas”</i>  y nuestros cuerpos deben corresponder a cánones de belleza casi inalcanzables. ¿No será mucho? <br> <br>
         En estos días reflexionamos que tal vez, si nosotras fuéramos quienes contáramos la historia, podríamos aparecer más -y <i>“mejor”</i> - representadas en hechos históricos como, por ejemplo, el que se conmemoró ayer. <br><br>
         Sucede que siempre fuimos ubicadas como la esposa, la hija o la que hacía trabajos de cuidado y asistencia. Cuando éramos definidas de esa forma, lo éramos en función de datos de color que nos patalogizaban, humillaban o sexualizaban. Todos ellos, roles y estereotipos que invisibilizaron a feminidades y disidencias con roles protagónicos y esenciales en la historia universal, latinoamericana y Argentina. <br><br>
         Para que no dar lugar a dudas, te presentamos algunxs:
@@ -583,7 +583,7 @@ let news = [
     },
     {
         id: 10,
-        img:"../media/ilustraciones/apesardemisexo-web.webp",
+        img: "../media/ilustraciones/apesardemisexo-web.webp",
         titulo: "XI - A pesar de mi sexo",
         contenido: `<p class="first-child">La historia que vamos a contar inicia en el año 2021, cuando dos jóvenes investigadoras decidieron sentarse a escribir sobre la vida universitaria de las mujeres y su activismo político desde 1947. <br><br>
         <strong>“A pesar de mi sexo”</strong> terminó de imprimirse en abril de este 2022 y pertenece a la editorial de la Universidad Nacional de Rosario (UNR). Su prólogo, escrito por su gran madrina Dora Barrancos, nos advierte: “Estos apuntes desafían a las nuevas inscripciones feministas manteniendo la radicalidad de los orígenes –porque mientras haya patriarcado y capitalismo habrá que ser impertinentes– (...)”.<br><br>
@@ -731,11 +731,13 @@ let news = [
         
         <br> 
         <center>
-        <img src="../media/ilustraciones/XIII/5_soledad_leonardi.png" alt="Soledad Leonardi" style="max-width: 600px;">
+        <img class="imgWeb" src="../media/ilustraciones/XIII/5_soledad_leonardi.png" alt="Soledad Leonardi" style="max-width: 600px;">
+        
         </center>
         <br>
         <center>
-        <img src="../media/ilustraciones/XIII/6_celeste_medrano.png" alt="Celeste Medrano" style="max-width: 600px;">
+        <img class="imgWeb" src="../media/ilustraciones/XIII/6_celeste_medrano.png" alt="Celeste Medrano" style="max-width: 600px;">
+        
         </center>
         <br>
         </p>
@@ -784,6 +786,113 @@ let news = [
         <p>Como saben, Femiciencia es un medio autogestivo que se sostiene a pulmón de quienes lo trabajan y sus lectorxs. Y como todo es un logro comunitario, les agradecemos todo su apoyo y colaboración. </p>
         <p><Strong>Lxs esperamos en el 2023 con nuevos proyectos.</Strong></p>
         <p><u>¡Felices Fiestas!</u></p>`
+    },
+    {
+        id: 13,
+        img: "../media/ilustraciones/ilustracion_XIV_news_economiaFeminista.webp",
+        titulo: "XIV - Edición #8M: Eso que llaman amor es trabajo no pago.",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Iniciamos este #8M y nuestro primer newsletter del 2023 refiriéndonos a un tema que creemos imprescindible: la Economía (Feminista).<br>
+        <br>Al enunciar la palabra “economía” quizás nuestra mente se remonte a diversos discursos, investigaciones, finanzas, estadísticas, asignaturas educativas y problemáticas renombradas en los discursos mediáticos de nuestro país. <br>
+        <br>Lo cierto, es que por su etimología -del griego οἶκος oîkos 'casa' y νομός nomós 'regla/prescripción'- la palabra “economía” refiere a la “administración de la casa” (un dato no menor si tomamos en cuenta que dicha ´administración´ hace al trabajo doméstico y a las tareas de cuidado que mayoritariamente recae sobre mujeres, feminidades y disidencias).<br>
+        <br>Sucede que la ciencia económica, inaugurada y definida por Adam Smith (1776) como la encargada de “analizar el comportamiento y las elecciones del hombre en un contexto de escasez de recursos”, rara vez tomó entre sus referentxs a quienes se cargan al hombro todas las actividades de necesidad permanente.<br> 
+        <br>Cuando hablamos de <strong>“trabajo doméstico”</strong> y <strong>“tareas de cuidado”</strong> no sólo nos referimos a las actividades de limpieza, cocina y mantenimiento del hogar, sino al cuidado y acompañamiento a infancias, ancianidades y enfermxs. <strong>*Ahora, te proponemos un ejercicio*:</strong> recordá y pensá en quién/quiénes fueron/son las personas que te cuidan/cuidaron. Probablemente, llegues a la conclusión de que siempre hubo mujeres y feminidades implicadas<br>
+        <br>Lo cierto es que ningunx de nosotrxs sería capaz de leer este Newsletter sin antes haber sido objeto de cuidado. Pero esta inequidad no es gratuita: deviene en la renombrada <i>“doble” jornada laboral, techos de cristal, feminización de la pobreza, suelos y pisos pegajosos</i>. <br>
+        <br>Este trabajo no remunerado e imprescindible para la sostenibilidad de la vida, no es tenido en cuenta por la economía tradicional, que coloca en el sector de la ´inactividad´ a quienes no generan ingresos financieros, pero sí reivindicado por la <strong>ECONOMÍA FEMINISTA</strong>.<br>
+        <br>Pese a ser lxs principales encargadxs del hogar, quienes “paran la olla” y administran recursos para garantizar la existencia, mujeres, feminidades y disidencias no agotan cupos de participación en puestos de gestión y opinión sobre economía en nuestro país. De hecho, desde que se fundó en 1854, el Ministerio de Economía de la Nación tuvo 129 ministrxs de lxs que sólo dos fueron mujeres: Felisa Miceli (2005) y Silvina Batakis (2022).<br>
+        <br>
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <br>
+        Si hace tiempo que estás suscriptx a Femiciencia, habrás notado que el trabajo de cuidado y la doble jornada laboral son temas que nos ocupan e interesan especialmente. No hay manera de desarrollar el papel de mujeres, feminidades y disidencias en las ciencias sin corresponsabilidad, ni un sistema integral de cuidados que lo sostenga. Para hablar de economía feminista y reinvidicar este #8M invitamos a dos referentas del ámbito de las políticas públicas y los medios de comunicación: <a href="https://www.instagram.com/metxi0/" style="color: #8000FF;">Mercedes D'Alessandro</a> y <a href="https://www.instagram.com/candelaria.botto/" style="color: #8000FF;">Candelaria Botto</a>.<br>
+        <br> 
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XIV/1_mercedes_dalessandro.jpg" alt="Mercedes D'Alessandro" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XIV/2_mercedes_dalessandro.jpg" alt="Mercedes D'Alessandro" style="max-width: 290px;padding: 5px;">
+        <a href="https://www.instagram.com/metxi0/" style="color: black; font-size: 11px;display: block;">Mercedes D'Alessandro</a>
+        <p><br></p>
+        </div>
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XIV/3_candelaria_botto.jpg" alt="Candelaria Botto" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XIV/4_candelaria_botto.jpg" alt="Candelaria Botto" style="max-width: 290px;padding: 5px;">
+        <a href="https://www.instagram.com/candelaria.botto/" style="color: black; font-size: 11px;display: block;">Candelaria Botto</a>
+        <p><br></p>
+        </div>
+
+
+        <p class="preguntas-news"><Strong>¿Por qué tomaste la decisión de estudiar economía? </Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> Yo soy de Misiones, estaba terminando la secundaria y vino un primo mío y me dijo ¿y qué vas a estudiar? Yo no tenía ni idea, pero en absoluto, no vengo de una familia de intelectuales ni nada por el estilo. Él me contó que estudiaba Ciencias Políticas y entonces le dije que me anotara. Cuando empecé me vine de Posadas a Buenos Aires, como muchos en esa época. En el primer año tuve economía y me enamoré, así que me cambié a Economía. Ahí estuve muy feliz, pero después tuve una crisis con la carrera porque me parecía demasiado abstracta; mucha matemática, mucha modelización, a mí me encanta la matemática pero no era lo que yo quería, yo quería hablar de pobreza, distribución, de los problemas sociales que veía a mi alrededor. Así que empecé filosofía, como una carrera paralela. Un año y pico hice ambas carreras y ahí llegó una materia que fue la que creo que me rescató, Epistemología de la Economía. Empecé a trabajar más estos temas y aparecieron otras materias, como Historia del Pensamiento Económico con un profesor que para mí fue muy importante, Pablo Levín, y volví a la economía pero desde otro lugar. Bueno, de hecho Epistemología de la Economía es la materia que di en mi carrera académica, o sea, fui profesora adjunta, y mi tesis doctoral es sobre las finanzas, la crisis financiera del 2008, y ahí fue donde di mis primeros pasos en la economía.</i></p>
+        <p><Strong>Candelaria:</Strong> <i> Bueno, yo estudié economía básicamente porque soy de la generación del 2001, nací en el '91, y para esa época tenía 10 años y mis padres eran ambos docentes. Quería entender el porqué de la crisis; en realidad, muy ingenuamente, quería entender cómo funcionaba el mundo y creía que la economía era una parte importante de él. Creo que nos pasa un poco a todos los que estudiamos ciencias sociales que entramos con la ingenuidad de creer que vamos a descubrir algo que es sencillo y en realidad es muy complejo.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>Sabemos que en el sentido común la economía es una carrera masculinizada, a diferencia de otras disciplinas humanísticas que tienen mayor presencia de mujeres en sus aulas. ¿Considerás que esta apreciación es correcta? ¿Fue así cuando estudiaste? </Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> En las aulas la composición es bastante pareja, el 45 %, 55%, y a veces en algunas carreras o universidades, más. Las referencias económicas sí son varones, si nosotras miramos quiénes son los que discuten economía en los medios, la mayoría son varones. También sucede en las cátedras; la mayor parte de los jefes de trabajos prácticos, profesores adjuntos, líderes de centro de investigación, etcétera, son varones. Yo fui directora de la carrera de Economía Política de la Universidad General Sarmiento y ahora estoy dirigiendo la carrera de Economía de la Universidad Metropolitana de la Educación del Trabajo de la UNED y es una anomalía que haya mujeres directoras de carreras de economía porque es un ámbito masculinizado, pero como digo, no tanto en el aula como en lo visible. También están masculinizadas las bibliotecas; si yo le pregunto a cualquier persona a la que le gusta la economía por economistas, lo primero se le viene a la mente son un montón de nombres de varones.</i></p>
+        <p><Strong>Candelaria:</Strong> <i> Sí, de hecho yo estudié en la Universidad de Buenos Aires y en la carrera de Economía más o menos el 30% eran mujeres. O sea que no, no estamos en paridad, se notaba también en las aulas. Lo interesante es que la Facultad de Ciencias Económicas es una facultad que con sus cinco carreras tiene un promedio más paritario entre varones y mujeres, pero principalmente por la carrera de Contabilidad y Administración. Entonces sucedió que en los primeros años del ciclo general las aulas eran más paritarias y luego, a medida que te ibas metiendo en las materias más específicas, veías más varones que mujeres.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>Mientras estudiabas, ¿tuviste acceso a material de estudio que nombre a mujeres y disidencias que hayan sido referentxs en el área económica? </Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> Tenía profes mujeres, pero no sé si eran mis referentes, no sé si decía “yo quiero ser como….” Pero sí hoy, por ejemplo, hay mujeres que me gustan, de las que admiro su trabajo y me parece interesante lo que hacen, no solamente en el campo de la economía, sino en otros sectores. Hoy en la economía encuentro muchas más mujeres que admiro que en otro momento de mi vida.</i></p>
+        <p><Strong>Candelaria:</Strong> <i> No, en general se lee principalmente a varones. Yo me acuerdo de que la primera mujer economista sobre la que leí en la carrera fue Joan Robinson, que es conocida porque estaba casada con el Dr. Robinson. Ella es una académica muy, muy brillante de la escuela postkeynesiana, pero es presentada muchas veces como “la mujer de”. Después de eso, no mucho más. Toda la información de economía feminista vino por fuera del plan de estudios y de la universidad formal, aunque la gente con la que trabajé sí salió de esa casa de estudios. Bueno, cuando estudiaba, Axel Kicillof era ministro y dentro de la carrera se menospreciaba mucho a Mercedes D’ Alessandro, que también es economista, doctora en economía, y se decía que era la ex novia de Axel y que “estaba enojada con él”. Bueno, todas reproducciones de estereotipos de una “mala ex”, pero para mí era una referente porque era la docente de Epistemología de la Ciencia y por ella fue que empecé a estudiar más economía feminista.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong> ¿Cómo fue concluir la carrera universitaria y enfrentarte al mundo laboral? ¿Qué lugar ocupó la militancia política y feminista? </Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> Durante toda la carrera tuve que trabajar para poder afrontar mis estudios y subsistir. Me recibí en el año 2001, el año de la peor crisis económica que tuvo nuestro país, entonces era un momento muy particular para mí. Vivía sola, tenía una beca de investigación y daba clases particulares pero me tuve que ir a vivir con una amiga porque no me alcanzaba y porque era difícil conseguir trabajo en esa época. Entonces la inserción laboral mía llegó un poco más tarde, lo que hice por mucho tiempo fue subsistir; con becas por proyectos de investigación, dando clases particulares y luego dando clases en la universidad. A Epistemología de Economía la di ad honorem un tiempo hasta que conseguí que me paguen un sueldo. Me recibí a los 23 años y ya estaba dando clases de dos materias como ayudante, y luego ya recibida me quedé a cargo de los cursos, Epistemología de la Economía, que era de la carrera de Economía, y Economía en el Ciclo común básico (CBC) de la UBA. Años después recién pude empezar a trabajar en el Ministerio de Economía, en ese momento como asesora en el equipo de cuentas internacionales, y en ese sentido era una persona agradecida de la vida por tener un laburo, tener trabajo ya era un montón. 
+            <br>La militancia política estuvo en toda mi carrera, yo milité siempre en organizaciones estudiantiles y luego en la gremial docente. Siempre  tuve participación política muy activa y la militancia feminista llegó más tarde, yo soy una feminista del Ni Una Menos (2015), recién ahí para mí aparece la militancia feminista. 
+            <br>Unos años antes del Ni Una Menos hubo un caso de violencia en la Facultad de Ciencias Económicas; el director del departamento de Economía tenía muchas denuncias de abuso y de acoso, entre las personas acosadas estaba yo también, entonces eso hizo que empecemos a debatir el tema de la violencia de género en la universidad y también nos abrió paso a crear por primera vez la materia Economía y Género, que empezó siendo una optativa con pocos estudiantes y ahora tiene muchos.</i></p>
+        <p><Strong>Candelaria:</Strong> <i> Yo siempre trabajé y estudié, desde los 16, y empecé a trabajar como economista en el mundo docente. Es un espacio bastante feminizado pero después, cuando me pasé al mundo de las consultorías y sobre todo cuando entré al mundo de la comunicación, sí eran mucho más marcados los espacios masculinizados. Yo militaba en la universidad en una agrupación de izquierda dentro de la facultad, así que tenía bastantes herramientas. También la militancia suele ser un espacio bastante masculinizado, o por lo menos lo era en ese tiempo. Creo que cada una va desarrollando herramientas para, no sé si adaptarse, pero sí para sobrevivir en esos espacios tan varoniles.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong> ¿Considerás que hay equidad de género en tu ámbito laboral actual?</Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> La equidad está siempre en los cargos o en los rangos más bajos. Las mujeres aparecemos preparando informes, juntando datos, sirviendo el café y poniendo cara de buenas amigas, pero cuando uno va creciendo en la jerarquía, las mujeres van desapareciendo.
+            <br>Eso es algo que sí sucede en todos lados, te sucede en la academia; hay ayudantes, jefas de trabajos prácticos, pero no profesoras adjuntas titulares de cátedra o directoras de centro de investigación. En la investigación científica también, la mayor parte de los proyectos están dirigidos por varones. En el Ministerio de Economía, la verdad que directoras mujeres éramos un montón, pero en Argentina, Ministras de Economía hubo dos nada más, en toda la historia. En la jerarquía las mujeres desaparecen.
+            <br>La economía en sí misma no es una carrera masculinizada, en una ciencia social las mujeres tenemos mayor participación que en las exactas. Pero como en todos lados, el techo de cristal es el que te aparece sobre todo en los momentos de la maternidad, un momento que expulsa a muchas mujeres de las aulas, de los trabajos, de la participación y exposición pública, de la política. No hemos logrado todavía dar una respuesta que permita conciliar la maternidad con un cargo de liderazgo y de presencia pública. Es muy difícil, y las que lo hacen, cuentan con muchísimo apoyo de sus redes de cuidado que pueden ser pagas o no pagas. Esto se vuelve algo muy exclusivo también, porque quien pueda acceder a tener esas redes y ese apoyo puede tomar ciertos roles y quienes no, no. 
+            <br>En ese sentido también todo lo que forma parte de las relaciones personales dentro de un ámbito académico laboral o profesional se pierde; por ejemplo, irte a tomar algo después de la oficina con tus compañeros y compañeras. Si tenés un bebé de un año, probablemente no te vayas a tomar algo después de la oficina. Una madre soltera tampoco va a tener mucho espacio de after office, y lo digo porque hay veces que esas cosas se minimizan, pero la verdad es que en esos vínculos personales, en el partido de fútbol, el asado, el viaje para el congreso o lo que sea, hay muchas oportunidades laborales. Muchas veces las becas tienen plazos que no se corren si estás embarazada o vas a parir.  Bueno, eso empezó a cambiar con la llegada de mujeres en los distritos de ciencia. También hay licencias de paternidad para los varones que hacen ciencia y hay estudios que te muestran que en la licencia los tipos se ponen a terminar el paper que tienen atrasado y no a cuidar el bebé.</i></p>
+        <p><Strong>Candelaria:</Strong> <i> No, la verdad es que yo me dedico principalmente al mundo de la comunicación donde la mayoría son varones, además de que es un mundo muy precarizado donde no hay una transparencia de los salarios e ingresos que ganamos como para poder decir que todos y todas ganamos lo mismo. Y se ven esas situaciones de varones que son amigos y trabajan hace mucho o se conocen de otros espacios y van a jugar juntos a la pelota y una queda por fuera de ese “networking”. En el mundo de las ONG u organizaciones de la sociedad civil sí hay más paridad porque bueno, Ecofeminita trabaja como una organización feminista así que nos rodeamos de ese tipo de organizaciones. Ahí sí vemos no solamente equidad de género sino también una búsqueda activa de mejorar las condiciones por fuera de ese espacio.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong> Sabemos que realizaste trabajos en docencia e investigación, ¿qué temas abordaste en esos proyectos de investigación científica? </Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> En la época en que me dediqué a la academia mi tema fue la epistemología de la economía. Es un área que trabaja los fundamentos filosóficos de las teorías económicas y eso fue lo que siempre me interesó, de hecho sobre esto versa mi doctorado. También trabajé mucho sobre esto aplicado a teorías económicas latinoamericanas. Siempre desde esa perspectiva; cuál es el rol del individuo, de la lucha de clases, cómo se configura el Estado, cómo se organizan los elementos conceptuales dentro de las teorías y qué implica eso en términos de la acción política y las transformaciones sociales. Ese fue siempre mi eje.
+        <br>Después me pasé al activismo y la academia quedó un poco postergada, me enfoqué más en la parte de divulgación. En el año 2015 el foco estuvo puesto en la difusión de eso que veníamos trabajando desde lo académico, que el debate conceptual tuviera también una llegada. Para mí es muy valioso también encontrar un tono en el cual la ciencia también pueda llegar a la gente y que no signifique perder el método o lo riguroso de la investigación científica. Entonces creo que en esa segunda parte para mí el foco estuvo en la democratización del acceso a la ciencia. Ahora quiero también que esto pueda llegar un poco más lejos que la Academia. 
+        <br>La última etapa diría que tiene que ver con cómo transformamos el Estado. Dejé Economía Femini(s)ta, que para mí es activismo, y se pusieron en marcha muchas de esas cosas que estuvimos trabajando y demandando. Abrir la Dirección de Economía, Igualdad y Género en el Ministerio de Economía era concretar todo ese camino que habíamos hecho pidiendo un espacio que piense las políticas económicas con perspectiva de género. Estuvimos trabajando con el presupuesto de género, con la incorporación de la propiedad de género en la tributación, que afecta la distribución de la riqueza, y dando debates para fortalecer a las mujeres que ocupan espacios en carteras económicas. La actividad académica y la producción académica es muy valiosa, pero que eso después pueda llegar a un público más amplio es algo fundamental, y utilizarlo para transformar las instituciones también, desde mi perspectiva.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>Sos una de las pocas mujeres en economía que tiene una alta presencia en redes y medios de comunicación nacionales, ¿cómo fue contribuir a derribar ese estereotipo de que la economía no es ‘cosa de mujeres’ mucho menos si son jóvenes? </Strong></p>
+        <p><Strong>Candelaria:</Strong> <i> Yo llegué a la presencia que tengo por el feminismo. Creo que soy la primera, no hay tantas economistas mujeres en los medios de comunicación (hay colegas como Estefanía Pozo o Paloma Bokser, pero son periodistas que hablan de economía). Le debo todo al feminismo, mi vida, pero mi vida profesional también en esta pelea que hacemos por mayor representación femenina. Se abren cupos y espacios y sé que soy muy “la primera en” porque necesitan una mujer, entonces me llaman a mí. Eso me ha abierto muchas puertas y creo que es tarea de todas las que entramos así, por cupo, (y lo digo orgullosamente, porque parece que significa que nos falta mérito, pero justamente no nos falta el mérito, nos falta el espacio) hacer que haya más representación de mujeres y diversidades. Es difícil, porque yo he tenido entrevistas de trabajo donde básicamente me han dicho “te llamamos porque necesitamos una mujer”, y es duro escuchar eso. Pero bueno, creo que una después demuestra lo que sabe y en general, cuando te comparás relativamente con tus compañeros varones, no sé si una tiene un síndrome del impostor o qué, pero vas mejor preparada.</i>.</p>
+        <br>
+
+        <p class="preguntas-news"><Strong>Como siempre, el 8M nos convoca a una jornada de reflexión sobre la desigualdad económica y precarización en la vida de las mujeres. ¿Cuáles son los lugares comunes que la economía feminista debe disputarle a la economía tradicional? </Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> Viene a disputarle cosas que van más allá del feminismo o de una reivindicación de que las mujeres tenemos que formar parte en iguales posibilidades que los varones en la participación económica. Tiene que ver, sobre todo, con cerrar brechas de desigualdad. Cuando hablamos de desigualdad a nivel general estamos hablando de “hay muchos pobres, pocos ricos”, pero además, las mujeres son la mayoría de los pobres y la minoría en los ricos. Entonces la economía feminista viene a disputar un orden social. A mí me gusta como le dice Silvia Federici, que es la “revolución en el punto cero”. Si cambiamos la lógica, el cómo nos organizamos desde adentro de la casa, cambia todo, porque no solamente se trata de “vos lavás más los platos y yo entonces tengo más tiempo”, sino que cambia también quién cuida, cómo y cuáles son los objetivos de ese cuidado. ¿Qué queremos desarrollar y a costa de qué? ¿Es válido pensar el crecimiento económico sin contemplar la economía de los cuidados y la distribución de la riqueza?</i></p>
+        <p><Strong>Candelaria:</Strong> <i> Yo creo que las disputas más importantes tienen que ver con los conceptos básicos, con qué entendemos por trabajo y qué no, qué es economía y qué no, una discusión que estuvo muy presente en la pandemia y su consecuente cuarentena cuando “se frenó el mundo productivo”, pero dentro de los hogares no solo siguió vivo sino que se incrementó. No, no se frenó la economía sino un aspecto de la economía; no se frenó el trabajo sino una parte del trabajo, y el trabajo de los hogares y cuidados se mantuvo y aumentó. Creo que esas discusiones que parecen muy básicas son las que después se derraman en el resto de las cosas que decimos y que además son disputas del sentido común, que son las más importantes.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>¿Qué papel tienen el trabajo de cuidado y el reconocimiento de la feminización de la pobreza en la agenda política y económica de la argentina actual?</Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> Creo que la crisis económica que estamos viviendo hoy, no solo a nivel país sino a nivel internacional, nos hace actuar buscando dar respuestas rápido, y en esa prisa vamos perdiendo profundidad, y creo que estos temas han quedado un poco rezagados en la agenda. Parecía que iban a tener más fuerza y centralidad pero los temas de las mujeres y ellas mismas  están quedando rezagadas en términos de su participación como voz pública. Hay mujeres, pero no mujeres que hablen con un discurso feminista. Hoy eso no está políticamente tan presente. Estos tiempos de crisis nos vuelven más conservadores, y el conservadurismo te hace buscar respuestas que vos ya conocés y que sabés que no funcionan, pero es muy difícil disputar las herramientas en un contexto en el que ”se te está hundiendo el barco”. </i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>¿Cómo debería ser la enseñanza de una economía atravesada por la perspectiva de género en sus contenidos y planes de estudio? ¿Creés importante indagar e investigar el papel de las mujeres y disidencias que fueron invisibilizadas en este?</Strong></p>
+        <p><Strong>Candelaria:</Strong> <i> No sé si pasa en todas las carreras, pero en Economía hay una visión muy eurocentrista, no se ven muchos autores latinoamericanos ni producciones de economistas de Argentina, que hay un montón. Sin dudas hay que mejorar el plan de estudios, desde la bibliografía hasta pensar en cómo incluir los problemas actuales que tienen que ver con las tareas de cuidado, no solo por el activismo feminista sino porque hay un cambio demográfico en el mundo que hace que los organismos internacionales y los países en general se pregunten cómo vamos a sostener las sociedades que están envejeciendo y para las que no vamos a tener gente que la cuide. También en cuanto a los problemas ambientales; saber que vivimos en un mundo que es insostenible en los términos que se propone. Entonces, creo que es una ciencia que tiene que responder más a las preguntas actuales.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>Sabemos que integrás el proyecto Ecofeminita, que tiene el lema “Conocimiento crítico, feminista e independiente para construir una sociedad igualitaria”. Se destacó la investigación que desarrollaron sobre el costo de menstruar y la campaña “MenstruAcción”. En este sentido, creemos importante señalar que hay otros aspectos que hacen a la feminización de la pobreza, y que no están ligados a las tareas de cuidado sino a nuestra condición cíclica. ¿Cómo creés que se está desarrollando este aspecto en la agenda política y económica actual?</Strong></p>
+        <p><Strong>Candelaria:</Strong> <i> MenstruAcción es un proyecto que tenemos desde 2017 y hemos avanzado mucho sobre algunas ordenanzas, sobre todo municipales y algunas legislaciones provinciales. Hacemos foco más que nada en la desigualdad económica que genera un gasto obligatorio para todas las personas que menstrúan en productos de gestión menstrual, que no tienen ningún tipo de provisión gratuita en ningún centro. Después, hay otras discusiones que tienen que ver con licencias para personas menstruantes pero es un poco problemático ese punto, porque naturalizar que la menstruación va a ser algo doloroso es preocupante, en términos de lo que se conceptualiza. Creo que hay que sostener que cada una vive la menstruación según su cuerpo, con corporalidades y ciclos distintos, y hacer en foco en la necesidad de políticas públicas para la provisión gratuita para que nadie tenga que poner en riesgo su salud o faltar al trabajo o a la escuela porque no puede pagar productos de gestión menstrual.</i></p>
+        <br>
+
+        <p class="preguntas-news"><Strong>Las edades de quienes integramos Femiciencia van desde los 25 a los 33 años. En algunos casos, toda referencia a la economía nos llega como “asunto pendiente”, una herramienta que consideramos clave para el análisis de la realidad y para el manejo de nuestras finanzas. ¿Creés que existen impedimentos o barreras para el entendimiento y manejo de la economía? ¿Cuáles serían las posibles soluciones o herramientas pedagógicas para solventar esta falta?</Strong></p>
+        <p><Strong>Mercedes:</Strong> <i> Yo creo que la economía se presenta muchas veces como si fuera un discurso sobre las finanzas, la deuda, las tasas de interés… Pero la economía es mucho más amplia que eso y las mujeres tenemos que saber que nosotras somos las principales artífices de la economía. Y eso es una de las cosas que la economía feminista pone sobre la mesa. Economía también es cómo se organiza un hogar, cómo se organiza una comunidad, cómo se organiza un barrio para satisfacer las necesidades: que los chicos vayan a la escuela, que tengan comida, que se recicle, que haya limpieza barrial, etc. Lo que tenemos que hacer es apropiarnos un poco más de lo económico y el lenguaje económico, y no caer en esas falsas expectativas de que la economía solamente es el mundo de las finanzas, que también lo es, pero tenemos que dar pasitos para empezar a incorporar esas herramientas que nos hacen pensar que no entendemos nada pero cualquier mujer que organiza y planifica la alimentación de su hogar y su familia o los gastos que realiza en su casa, está teniendo una aproximación financiera. Hay herramientas de la matemática o del cálculo que se pueden aplicar para mejorar cómo se organiza una compra o un préstamo. Hay que perderle un poco el miedo y empezar a leer y opinar más, total creo que lo único que tienen los varones de ventaja en eso es que dicen cualquier cosa, se equivocan y después fingen demencia. Nosotras podemos agarrar, decir cualquier cosa y equivocarnos, empezar a aprender de esos errores para mejorar.</i>.</p>
+        <p><Strong>Candelaria:</Strong> <i> Cuando vemos quiénes toman las decisiones de consumo, en general suelen ser las mujeres porque son las que gestionan los ingresos dentro de los hogares, pero eso no se traduce en que también sean quienes tomen las decisiones de inversión o “más pesadas” en relación al consumo. Hay un manejo cotidiano de la economía que hacemos todos y todas, y sobre todo en los sectores más vulnerados económicamente está muy presente porque estirar el presupuesto para que alcance o hacer que más chicos puedan comer en un comedor con la misma cantidad de comida, son decisiones económicas y de asignación de recursos. Entonces, por un lado creo que no reconocemos la economía que llevamos adelante en nuestro día a día, y, por el otro, hay una carga negativa con relación al dinero y las mujeres. Cuando se interesan por dinero es mal visto, es porque son más “frías” y “calculadoras” y entran todas las imposiciones negativas porque en realidad no nos corresponde, ellos toman las decisiones económicas y tienen la responsabilidad de velar por el dinero, por el poder.
+            <br>En general, hablar de dinero es mal visto en esta sociedad. Uno no le pregunta a su compañero cuánto gana, hay un recelo en cuanto a las cuestiones monetarias que en realidad nos quita potencia, porque en realidad si uno supiera cuánto gana el resto de sus compañeros sería más fácil negociar mejores salarios, pero son herramientas que nos van quitando y que es importante recuperarlas. Al fin y al cabo uno trabaja por plata y uno la necesita para vivir y sobrevivir cada mes, y negar eso es negar nuestra condición como trabajadores y trabajadoras. Creo que hay que amigarse con entender al dinero como un medio, ni más ni menos, para la realización de lo que queramos hacer. Ahí el concepto de autonomía económica me parece muy importante porque podemos querer hacer muchas cosas y tener un montón de deseos, nobles o no, pero en este sistema si no tenés el poder económico no lo vas a poder llevar adelante.
+            <br>Creo que hay un punto de educación financiera básica que es necesario pensar desde las escuelas, formación ciudadana si se quiere, para entender el funcionamiento del sistema. Yo soy hija del polimodal, entonces tuve economía y me enseñaron cómo funciona el sistema financiero, pero sé que no es la norma. Creo que son las escuelas a las que les corresponde hacerlo, porque sino queda en la voluntad individual dedicarse a esas cuestiones. Las redes sociales también sirven como democratización de ese conocimiento, intentan responder a esa pregunta que tenemos todos y todas, que es cómo ser adultos responsables, básicamente.</i></p>
+        <br>
+
+
+        <hr class="linea-divisoria">
+        <br>
+        <p>Para ir terminando con el newsletter les queremos comentar que muy pronto se vienen novedades con los <a href="https://femiciencia.com/pages/wikiaportes.html" style="color: #8000FF;">Wikiaportes de Femiciencia en Wikipedia</a>. ¡Estén atentxs!. </p> 
+        <p>Como saben, Femiciencia es un medio autogestivo que se sostiene gracias a sus colaboradorxs y sus lectorxs. ¡Siempre estamos agradecidxs de su apoyo a lo largo de estos 2 años de Femiciencia que estamos cumpliendo hoy!</p>
+        <p><Strong>⚠️⚠️ Antes ⚠️⚠️ queremos contarte que habilitamos una breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <br>¡Tus respuestas son muy valiosas para el proyecto!
+        </Strong></p>
+        <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
     }
 
 ]
@@ -792,45 +901,46 @@ let news = [
 /* INICIO Logica para renderizar las newsletter*/
 
 /* ------------------------- funcion para atrapar el evento de clickeado ------------------------- */
-function atraparIdBotonClickeado(){
+function atraparIdBotonClickeado() {
     //agarro todos los botones
     const botones = document.querySelectorAll('.columna-1 a');
-for (let i = 0; i < botones.length; i++) {
-    botones[i].addEventListener('click', e => {
-        //accedo al id que tiene el boton clickeado
-        const id = e.target.getAttribute("id");
-        //lo guardo en localStorage para usarlo en otro html
-        localStorage.setItem('idBotonClickeado', id);
+    for (let i = 0; i < botones.length; i++) {
+        botones[i].addEventListener('click', e => {
+            //accedo al id que tiene el boton clickeado
+            const id = e.target.getAttribute("id");
+            //lo guardo en localStorage para usarlo en otro html
+            localStorage.setItem('idBotonClickeado', id);
+        }
+        )
     }
-    )}
 };
 
 /* ---------------- funcion para renderizar la new dependiendo donde se hace click --------------------- */
 
-function renderizarNew(news){
+function renderizarNew(news) {
     //agarro donde voy a renderizar
-        const nodoTitulo = document.querySelector('.titulo');
-        const nodoImagen = document.querySelector('.img');
-        const nodoContenido = document.querySelector('.contenido');
-        // console.log(nodoTitulo);
-        // console.log(nodoContenido);
-        // console.log(nodoImagen);
+    const nodoTitulo = document.querySelector('.titulo');
+    const nodoImagen = document.querySelector('.img');
+    const nodoContenido = document.querySelector('.contenido');
+    // console.log(nodoTitulo);
+    // console.log(nodoContenido);
+    // console.log(nodoImagen);
     //accedo a la variable guardada en ls y la guardo para poner trabajar con ella
-        let idBotonClickeado = parseInt(localStorage.getItem("idBotonClickeado"));
-        // console.log(idBotonClickeado);
+    let idBotonClickeado = parseInt(localStorage.getItem("idBotonClickeado"));
+    // console.log(idBotonClickeado);
     //borro los nodos
-        nodoTitulo.innerHTML = "";
-        nodoContenido.innerHTML = "";
-        nodoImagen.innerHTML = "";
+    nodoTitulo.innerHTML = "";
+    nodoContenido.innerHTML = "";
+    nodoImagen.innerHTML = "";
     //se va a renderizar la new que coincida con el id de boton
-        for (let i = 0; i < news.length; i++) {
-            // console.log(news[i].id);
-            if(idBotonClickeado == news[i].id){
+    for (let i = 0; i < news.length; i++) {
+        // console.log(news[i].id);
+        if (idBotonClickeado == news[i].id) {
             nodoTitulo.innerHTML += `${news[i].titulo}`;
             nodoContenido.innerHTML += `${news[i].contenido}`
             nodoImagen.innerHTML += `<img src=${news[i].img}>`;
-            }
-        }      
+        }
+    }
 };
 
 atraparIdBotonClickeado();
