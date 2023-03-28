@@ -889,7 +889,7 @@ let news = [
         <br>
         <p>Para ir terminando con el newsletter les queremos comentar que muy pronto se vienen novedades con los <a href="https://femiciencia.com/pages/wikiaportes.html" style="color: #8000FF;">Wikiaportes de Femiciencia en Wikipedia</a>. ¡Estén atentxs!. </p> 
         <p>Como saben, Femiciencia es un medio autogestivo que se sostiene gracias a sus colaboradorxs y sus lectorxs. ¡Siempre estamos agradecidxs de su apoyo a lo largo de estos 2 años de Femiciencia que estamos cumpliendo hoy!</p>
-        <p><Strong>⚠️⚠️ Antes ⚠️⚠️ queremos contarte que habilitamos una breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <p><Strong>⚠️⚠️ Atención ⚠️⚠️ Queremos contarte que habilitamos una breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
         <br>¡Tus respuestas son muy valiosas para el proyecto!
         </Strong></p>
         <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
