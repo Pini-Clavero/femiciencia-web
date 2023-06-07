@@ -804,18 +804,18 @@ let news = [
         <hr class="linea-divisoria">
         <br>
         <br>
-        Si hace tiempo que estás suscriptx a Femiciencia, habrás notado que el trabajo de cuidado y la doble jornada laboral son temas que nos ocupan e interesan especialmente. No hay manera de desarrollar el papel de mujeres, feminidades y disidencias en las ciencias sin corresponsabilidad, ni un sistema integral de cuidados que lo sostenga. Para hablar de economía feminista y reinvidicar este #8M invitamos a dos referentas del ámbito de las políticas públicas y los medios de comunicación: <a href="https://www.instagram.com/metxi0/" style="color: #8000FF;">Mercedes D'Alessandro</a> y <a href="https://www.instagram.com/candelaria.botto/" style="color: #8000FF;">Candelaria Botto</a>.<br>
+        Si hace tiempo que estás suscriptx a Femiciencia, habrás notado que el trabajo de cuidado y la doble jornada laboral son temas que nos ocupan e interesan especialmente. No hay manera de desarrollar el papel de mujeres, feminidades y disidencias en las ciencias sin corresponsabilidad, ni un sistema integral de cuidados que lo sostenga. Para hablar de economía feminista y reinvidicar este #8M invitamos a dos referentas del ámbito de las políticas públicas y los medios de comunicación: <a href="https://www.instagram.com/metxi0/" target="_blank" style="color: #8000FF;">Mercedes D'Alessandro</a> y <a href="https://www.instagram.com/candelaria.botto/" target="_blank" style="color: #8000FF;">Candelaria Botto</a>.<br>
         <br> 
         <div style="max-width: 600px; text-align:center">
         <img src="../media/ilustraciones/XIV/1_mercedes_dalessandro.jpg" alt="Mercedes D'Alessandro" style="max-width: 290px;padding: 5px;">
         <img src="../media/ilustraciones/XIV/2_mercedes_dalessandro.jpg" alt="Mercedes D'Alessandro" style="max-width: 290px;padding: 5px;">
-        <a href="https://www.instagram.com/metxi0/" style="color: black; font-size: 11px;display: block;">Mercedes D'Alessandro</a>
+        <a href="https://www.instagram.com/metxi0/" target="_blank" style="color: black; font-size: 11px;display: block;">Mercedes D'Alessandro</a>
         <p><br></p>
         </div>
         <div style="max-width: 600px; text-align:center">
         <img src="../media/ilustraciones/XIV/3_candelaria_botto.jpg" alt="Candelaria Botto" style="max-width: 290px;padding: 5px;">
         <img src="../media/ilustraciones/XIV/4_candelaria_botto.jpg" alt="Candelaria Botto" style="max-width: 290px;padding: 5px;">
-        <a href="https://www.instagram.com/candelaria.botto/" style="color: black; font-size: 11px;display: block;">Candelaria Botto</a>
+        <a href="https://www.instagram.com/candelaria.botto/" target="_blank" style="color: black; font-size: 11px;display: block;">Candelaria Botto</a>
         <p><br></p>
         </div>
 
