@@ -893,6 +893,83 @@ let news = [
         <br>¡Tus respuestas son muy valiosas para el proyecto!
         </Strong></p>
         <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
+    },
+    {
+        id: 14,
+        img: "../media/ilustraciones/ilustracion_XV.webp",
+        titulo: "¿Quiénes -paran- la olla?",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Hoy queremos hablarte de un tema que nos ocupa y preocupa a diario: la alimentación. <br>
+        <br>Desde que nacemos, la comida es fuente energética imprescindible para nuestras actividades diarias. No hay crecimiento ni desarrollo físico sin los alimentos y tampoco hay fuentes de energía para aprender, trabajar y pensar.<br>
+        <br>Cuando desde Femiciencia nos sentamos a reflexionar sobre la alimentación, dos ejes centrales de abordaje llamaron nuestra atención: por un lado, la problemática de la malnutrición encausada en la crisis económica, que golpea principalmente a los sectores populares. Por otro lado, un eje basado en estereotipos de género que exaltan el culto a la delgadez y las consecuencias que se inscriben en los cuerpos y las mentes.<br>
+        <br>En esta primera parte del newsletter vamos a hablar sobre <strong>Ollas Populares</strong>.<br></p>
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <br>
+        <p>Como instancia de participación comunitaria y vecinal, las ollas “comunes” o “populares” surgieron para resolver las necesidades alimenticias de los sectores vulnerables de la sociedad. Fuertes crisis económicas como las de 1930, 1982, 2001 y la reciente pandemia de Covid-19 evidenciaron la necesidad de elaborar planes comunitarios para resolver la comida diaria de los sectores populares.<br>
+        <br>En este contexto, entran en juego la economía del cuidado y el trabajo no remunerado. El calor de la cocina, la elaboración de las viandas y la compra de alimentos para preparar la olla. En cada crisis social y económica, cobra relevancia el rol de las organizaciones sociales y movimientos políticos para llevar la canasta básica a los sectores donde el Estado no llega. <br>
+        <br>No por crítica ni por capricho, mujeres y feminidades son quienes en su mayoría toman la posta para hacer aquello que se les adjudicó en la historia del patriarcado: economizar alimentos y parar la olla. Por esto, y porque <i><strong>consideramos que el conocimiento también se construye en las calles, la experiencia y la afectividad</strong>, entrevistamos a Ada</i>, referenta de la organización de ollas populares del Movimiento de Trabajadores Excluidos (MTE). <br></p>
+        <br> 
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XV/ada1.webp" alt="Ada - Referenta del MTE" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XV/ada2.webp" alt="Ada - Referenta del MTE" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Ada - Referenta del MTE</h4>
+        <p><br></p>
+        </div>
+
+        <br> 
+        <p class="preguntas-news"><Strong>¿Cómo comenzó tu trabajo en la organización de ollas populares y que motivó tu participación?</Strong></p>
+        <p><i>La organización de las ollas populares comenzó en el 2020 porque había mucha necesidad. Bajo tal necesidad, desde la organización MTE se comenzó con la gestión para conseguir alimentos que pudieran servir como materia prima para la organización de la olla. Dábamos de comer a las personas que se encontraban viviendo en la calle, y también hacíamos bolsas, canastas y cajas que dejábamos en las puertas para tratar de no tener contacto con las personas, debido al aislamiento que surgió como consecuencia de la pandemia. </i>
+        <br>
+        <i>Primero, éramos los profesores del Bachillerato Popular Vientos del Pueblo, quienes estábamos encargados de la organización de la olla, éramos 4 o 5. Nos costó y fue duro porque no es lo mismo cocinar para pocos en casa, que hacerlo en las ollas grandes, ya que había mucha necesidad. </i></p>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>¿Cuáles son las principales necesidades de las personas que reciben ayuda de las ollas populares y cómo ha cambiado esa necesidad a lo largo del tiempo? ¿Creés que la situación ha empeorado o mejorado en los últimos años?</Strong></p>
+        <p><i>Durante estos tres años de organización notamos que las personas que asisten a nuestra olla popular están esperanzadas por la llegada de ese día (lunes y miércoles: días de gestión de la olla). Preparan el tupper y saben que van a tener para llevar a sus casas y resolver también la comida de sus hijxs. Incluso nos preguntan si los feriados trabajamos, y la mayoría de las veces sí lo hacemos. A veces, también nos preguntan si sabemos dónde pueden conseguir comida durante la noche o qué otras sedes de repartición de alimentos conocemos. Viven el día a día y programan dónde conseguir la comida para el día siguiente. Observamos que desde el 2020 la situación empeoró, antes venía menos gente</i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>Como mujer, ¿has enfrentado algún desafío específico al organizar las ollas populares? ¿Has encontrado apoyo de otras personas en el barrio o en las organizaciones políticas? ¿Podría decirse que la gestión de ollas populares es un trabajo del que se encargan solo mujeres? </Strong></p>
+        <p><i>Los desafíos fueron varios, tener que enfrentarnos con las personas en la calle, a veces tratar con personas que tienen adicciones o consumos problemáticos. </i>
+        <br>
+        <i>Al inicio yo era la única mujer, hoy en día somos muchos más y participamos hombres y mujeres de igual manera. Hay personas que se quedan en la cocina, otras salen a repartir, otras entregan los números, otras las frutas y el pan.</i></p>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>¿Cómo se financia la organización de las ollas populares? ¿Dependen de donaciones, colaboraciones o recursos propios?</Strong></p>
+        <p><i>Recibimos alimentos del gobierno. A su vez, nosotros ayudamos a otras organizaciones y comedores que ofrecen comida para personas que están en situación de calle. </i>
+        <br>
+        <i>Cada mes, el gobierno nacional nos envía bolsas de arroz, de fideos, de azúcar, entre otros alimentos. Con eso nos organizamos y cocinamos los días lunes y miércoles. Nuestros platos también incluyen carne roja y pollo. </i>
+        <br>
+        <i>Además, tuvimos el apoyo de vecinos de un edificio cercano, que nos ayudaron con los gastos de gas, aportaron bandejas y alimentos como polenta y lentejas. En el barrio también nos proporcionan ropa y otras cosas.</i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>¿Hay otras organizaciones de base o individuos en el barrio que están trabajando para abordar esta problemática? ¿Han colaborado alguna vez juntxs en proyectos o iniciativas?</Strong></p>
+        <p><i>Otro grupo que se encuentra dentro de MTE hace ollas populares los días viernes y en el barrio también trabaja el Movimiento Evita.</i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>¿Hay registro de cuál es la situación laboral y habitacional de las personas o familias que alimentan?</Strong></p>
+        <p><i>La mayoría son personas que se encuentran en situación de calle, hay padres o madres que piden 6 bandejas para su familia. Se comprende que es una necesidad que tienen las familias, porque para acceder a los alimentos tienen que acercarse temprano a sacar el número, hacer una fila, y recién después tienen las bandejas o el tupper.</i>
+        <br>
+        <i>Desde la organización de la olla también se les brinda ayuda integral, ya sea en cuestiones relacionadas con la salud, como la inscripción a campañas de vacunación y también a subsidios de servicios. Brindamos una ayuda integral, no sólo de comida. Incluso si vemos que empieza a faltar alguna abuela que viene siempre, empezamos a indagar en por qué no lo hace, si le está pasando algo u ocurre algún inconveniente. </i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>¿Cómo pueden involucrarse y colaborar en las ollas populares las personas que deseen hacerlo?</Strong></p>
+        <p><i>Hay varias personas que vienen a dejar donaciones, ropa y alimentos como arroz o pan rallado. Toda ayuda siempre es bienvenida.</i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>¿Qué te motiva a vos, Ada, a realizar este trabajo que es inmenso y no se trata solo de brindar comida, sino de acompañar?</Strong></p>
+        <p><i>Ver a las personas y las necesidades que están pasando. De nuestra parte lo hacemos con mucho gusto, es muy lindo dar apoyo y ver el agradecimiento en las personas que lo reciben. Todos los compañeros lo hacemos con mucho gusto.</i></p>
+        <br><br> 
+
+        <hr class="linea-divisoria">
+        <br>
+        <p>Agradecemos a Ada por colaborar y participar de esta edición de Femiciencia, también a quienes siguen este proyecto. </p> 
+        <p>Hasta acá esta primera parte de nuestro newsletter sobre Alimentación, nos encontramos próximamente para la siguiente edición. </p>
+        <p>Abrazo 💚 </p> 
+        <br>
+        <p><Strong>⚠️⚠️ Recordatorio ⚠️⚠️ Sigue habilitada nuestra breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <br>¡Tus respuestas son muy valiosas para el proyecto!
+        </Strong></p>
+        <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
     }
 
 ]
