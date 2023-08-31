@@ -970,6 +970,75 @@ let news = [
         <br>¡Tus respuestas son muy valiosas para el proyecto!
         </Strong></p>
         <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
+    },
+    {
+        id: 15,
+        img: "../media/ilustraciones/ilustracion_XV.webp",
+        titulo: "Comer, vigilar y ¿culpar(se)?",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Bienvenidx a la segunda parte de nuestro newsletter sobre alimentación. Como anticipamos, este segmento se centrará en la diversidad de cuerpxs, los estereotipos de belleza, los planes nutricionales y en cómo las experiencias de género permean nuestras conductas alimentarias. <br>
+        <br>Desde nuestra infancia, mujeres y feminidades consumimos constantemente ideales de belleza basados en el culto a la delgadez. Históricamente, a través de dispositivos de comunicación masiva como el cine, la televisión y las redes sociales, la industria cultural asoció la figura de “la buena chica” a la de una mujer joven y centrada en el cuidado de su cuerpo. Para ser buenas, además de ser sumisas, tenemos que ser mínimas, ¡y entrar en tallas de ropas que ni existen! Son ejemplos antagónicos de estos algunas mujeres “villanas” de Disney como Úrsula -la bruja del mar en la Sirenita- y la Reina de Corazones -de Alicia en el País de las Maravillas-.<br>
+        <br>Gran parte de la peligrosidad de estos ideales de belleza inalcanzables - pero por los cuales estamos bombardeadas constantemente - desemboca en trastornos alimentarios, dietas restrictivas, operaciones estéticas que pueden ser peligrosas, culpabilidad y entrenamientos exhaustivos para “vigilar” y “castigar” la alimentación propia y ajena. Para que a pesar de hacer todo eso y más, y que nuestros análisis médicos den bien, nunca estemos conformes. Para hablar de este tema dialogamos con <strong>Milagros Gudiño</strong>, Licenciada en Nutrición (UNL) y dedicada a la Psiconutrición y a los trastornos de conducta alimentaria (TCA).<br>
+        <br></p>
+        <br>
+        <hr class="linea-divisoria">
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XV/milagros_gudiño1.webp" alt="Milagros Gudiño" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XV/milagros_gudiño2.webp" alt="Milagros Gudiño" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Milagros Gudiño</h4>
+        <p><br></p>
+        </div>
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Qué te llevó a elegir la carrera de Nutrición? ¿Qué carreras universitarias transitaste? ¿Cómo llegaste a especializarte en Psiconutrición?</Strong></p>
+        <p><i>En realidad yo estaba entre estudiar medicina o nutrición. Como me costaba decidirme, porque también existe el pensamiento de que la medicina es mejor que la nutrición, empecé a hacer el ingreso de medicina al mismo tiempo que me anoté en la carrera de nutrición. Con estas profesiones podía continuar estando cerca de las personas y pudiendo dar una mano desde el conocimiento. </i>
+        <br>
+        <i>En todas las carreras que tienen que ver con la salud nos enseñan muy poco sobre cómo llevar la práctica delante de un ser humano, la práctica codo a codo con otra persona es totalmente distinta a lo que uno estudió en realidad. Empecé a formarme mucho más en psicología vinculada. Pensé en estudiar la carrera de psicología y me di cuenta de que no era necesario, que estudiando cada vez más sobre esto vinculado a la nutrición iba a encontrar lo que estaba buscando. </i>
+        <br>
+        <i>Es imposible para mí separar lo individual, lo que somos como personas, de nuestra forma de ejercer la profesión. Es lo mismo que trabajo en la alimentación: comemos como somos, no podemos escindirnos de lo que está pasando en el plato y en la comida. Entonces si yo me olvido de la historia que tengo, de lo que a mí me pasó a la hora de armar un plato, y veo un plato que para mí no tiene ningún tipo de sentido y no me representa, no voy a querer comerlo, no me va a motivar el cuerpo. Probablemente active algunos sistemas de defensas y yo esté estresado al momento de comerlo, y lo que yo esperaba que pase con ese plato no va a pasar.   </i></p>
+        <br><br> 
+
+        <br> 
+        <p class="preguntas-news"><Strong>¿Cómo influyen los estereotipos de belleza y los estándares hegemónicos en la alimentación hoy en día en la Argentina? ¿Los estándares por quiénes están planteados o para qué están? ¿O por qué existen?</Strong></p>
+        <p><i>Es importante entender que eso viene de una cuestión comercial donde si yo sé que solo el 5% de la población realmente está representado por una hegemonía corporal, por ejemplo, y que el resto no va a llegar, pero que en algún punto en el mercado les hago creer que sí, las personas van a ir constantemente buscando esos productos. El mercado sabe que nunca van a llegar, que a veces se sienten más insatisfechos y cada vez aparecen más cosas en el mercado para cubrir esa insatisfacción o ese vacío. Eso para entender de dónde aparece y para qué está creado, y lo otro es que claramente no hay forma de que nosotros podamos controlar el cuerpo. Entonces voy a perseguir una hegemonía creyendo que eso me va a traer todo lo que estoy buscando y llego, pero no siento nada de lo que esperaba sentir… y me desmorono. En realidad creo que se trata de que si yo no sé quién soy ni qué necesito, no sé poner los límites para no cargar con cosas que no son mías. Por ejemplo: quizás alguien me hizo una torta y yo la acepto sin sentir hambre ni deseo. Pero digestivamente para mí no es lo mismo lidiar con haber comido algo que no necesitaba y que por eso el hambre que podría haber sentido media hora después no la haya sentido. Entonces tampoco puedo identificar mis necesidades o gestionarlas, y tampoco sé, por ejemplo, cuándo me voy a llenar si estoy comiendo sin hambre. Si yo no sé quién soy, no sé pedir lo que necesito ni  buscar lo que necesito, tampoco sé poner un límite ahí y eso genera un daño en la salud. </i>
+        </p>
+        <br><br> 
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Creés que las experiencias de género también atraviesan nuestras conductas alimentarias?</Strong></p>
+        <p><i>Muchísimo, primero porque para mí las dietas son el sedante político más grande que hay y que más que nada está orientado hacia las mujeres.  </i>
+        <br>
+        <i>También, aunque uno no lo crea yo sigo viendo hogares donde a las niñas no se les pregunta qué quieren comer, pero a los niños sí. He tenido niñas en el consultorio que me dicen, “no, yo no puedo decir qué quiero comer porque mi mamá solamente le pregunta a mi hermano, y cocina lo que él dice”. Otras cuestiones que siguen pasando es que una mamá está todo el día cocinando comidas más caseras o suculentas para el hombre, pero ella se sienta a comer una ensalada. Ni hablar si se arregló y se pintó para eso. El mensaje que queda es que hay una persona en la mesa que merece comer algo distinto que el resto. </i>
+        <br>
+        <i>Entonces para mí las mesas tienen que ser lugares donde todos sintamos que estamos al mismo nivel. Cada uno sabe qué necesita, qué le hace bien, qué va a comer y lo trae a la mesa a compartir, y todos podemos acceder a lo que está ahí de la misma manera. Yo accedo a probar lo que el otro trajo y comparto lo mío. Hay una cuestión muy difícil que tiene que ver con las etiquetas en cuanto a la alimentación, porque si una persona dice “yo soy vegana”, quizás ni se le pregunta qué quiere comer, sino que le dicen “bueno, acá te compramos la comida para vos, comela”. En realidad a la comida vegana la puede comer cualquiera y sería algo que se podría compartir entre todos, ¿no? Aparece una barrera que tiene que ver muchas veces con la etiqueta. Eso pasa con todo: pasa con personas que dicen “estoy a dieta”, “estoy yendo al nutricionista” y el resto cree tener el derecho a opinar sobre qué está haciendo con su cuerpo, con su alimentación. En ese sentido las etiquetas generan bastante daño. </i></p>
+        <br><br> 
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Creés que es posible cambiar nuestros hábitos alimentarios para lograr una alimentación sana si constantemente desde pequeñxs estamos bombardeadxs por marketing y recomendaciones que van en contra de la misma?</Strong></p>
+        <p><i>Yo creo que poder, se puede. Obviamente, para algunos es más difícil, si yo no tuve una educación base hay cosas que van a costar más, pero no quiere decir que no se pueda. Cada uno a su ritmo, tratando de mirar más para adentro y observar el crecimiento para no quedarme con lo que no estoy pudiendo hacer. Si yo miro mi día a día y digo “uy, ayer comía medio tomate y hoy estoy comiendo un tomate entero” para mí es un montón. Hay que entender a la alimentación, a la salud y a los hábitos como una forma de vivir. Yo no puedo proponerme hacer algo por un tiempo y después soltarlo porque no sirve para nada. No importa en qué etapa del proceso esté, pero sí que me enfoque en lo que pueda. Primero tengo que entender cómo funciono yo, porque si no entiendo cómo funciono, jamás podré entender qué hacer con lo que tengo. </i>
+        <br>
+        <i>Creo que, desde mi lugar, lo que trato de estimular es la capacidad crítica de cada uno, ya que es imposible estar en la cabeza o en el sentir de cada persona. Si hay algo que nos hace ruido, que nos genera incomodidad, sufrimiento o tristeza, por ahí no es. Si nos vinculamos con la comida y algo de todo eso aparece, algo hay que cambiar. En el vínculo con el cuerpo y con la comida tiene que haber siempre libertad, felicidad, tranquilidad, placer, crecimiento, ganas de experimentar y probar más, amplitud, nunca sacar y restringir.  </i></p>
+        <br><br> 
+        
+        <br> 
+        <p class="preguntas-news"><Strong>Según la página de datos estadísticos <a href="https://www.humanprogress.org/" target="_blank" style="color: #8000FF;">"HumanProgress"</a> Argentina es uno de los países con mayor prevalencia de desórdenes alimentarios en Latinoamérica. ¿Qué cambios considerás que tendrían que llevarse adelante para que esto mejore?</Strong></p>
+        <p><i>Somos el segundo país con más trastornos alimentarios. Creo que es algo de lo que no se habla mucho. En cuanto a cuestiones de salud pública y abordaje de la salud, constantemente escuchamos hablar de la lucha contra la obesidad y el sobrepeso. Después de muchos años de estudiar la historia y de dónde viene todo eso, entendí que hay un mercado muy grande atrás, y que conviene que cada vez haya personas más gordas, más enfermas y más insatisfechas. Todo el sistema está creado para eso, las mismas dietas o abordajes para luchar contra eso son las que hacen que las personas estén cada vez peor.  </i>
+        <br>
+        <i>El etiquetado frontal de alimentos, para las personas que tienen trastornos de alimentación, es lo más dañino que puede haber. Esto se debe a que se centra la responsabilidad en las individualidades, es un “yo ya te avisé que todo lo que está acá no es consumible. Si lo consumís es cosa tuya”. </i>
+        <br>
+        <i>Creo que es muy difícil ir contra un mercado tan fuerte. Lo que podemos hacer es apelar a lo que cada uno puede hacer desde su lugar para estar cada vez mejor y tratar de bloquear un poco estas cuestiones. Cada vez más trastornos alimentarios tienen que ver con que el vínculo de las personas con el alimento y con el cuerpo va empeorando. Al menos en mis espacios de consulta, el 95% de las personas con las cuales trabajo tienen un trastorno alimentario en distintas instancias. Tampoco creo mucho en la etiqueta del trastorno alimentario como bulimia y anorexia únicamente, hoy hay mucha más diversidad. <strong>Para mí el trastorno alimentario es que una persona no pueda tener un vínculo natural con el cuerpo y con la alimentación</strong>. Hay personas que ni siquiera toman agua y están internadas en un hospital, y personas que pesan 120 kilos con anorexia, pero son tratadas como si tuvieran sobrepeso. Cada vez les generan más daño a su salud y les cuesta mejorar, pero de esto no se habla porque no conviene, pero está cada vez más presente. </i></p>
+        <br><br> 
+        
+
+        <hr class="linea-divisoria">
+        <br>
+        <p>Agradecemos a Milagros por colaborar y participar de esta edición de Femiciencia, también a quienes siguen este proyecto. </p> 
+        <p>Hasta acá esta primera parte de nuestro newsletter sobre Alimentación, nos encontramos próximamente para la siguiente edición. </p>
+        <p>Abrazo 💚 </p> 
+        <br>
+        <p><Strong>⚠️⚠️ Recordatorio ⚠️⚠️ Sigue habilitada nuestra breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <br>¡Tus respuestas son muy valiosas para el proyecto!
+        </Strong></p>
+        <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
     }
 
 ]
