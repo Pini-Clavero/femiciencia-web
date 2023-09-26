@@ -1004,9 +1004,10 @@ footer .rigths-container .footer-dev a {
 .videoABC{
   display: block;
   text-align: center;
+  margin: 5%;
 }
 .videoABC iframe{
-  width: 60%;
+  width: 80%;
   height: 34vw;
   border: 10px solid #3FB6B0;
   margin: 40px 0 40px 0;
