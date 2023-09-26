@@ -1012,7 +1012,7 @@ footer .rigths-container .footer-dev a {
   margin: 40px 0 40px 0;
 }
 
-/*segundo abcedario*/
+/*galeria abcedario*/
 .titular_galeria {
   padding: 15px;
 }
@@ -1040,6 +1040,26 @@ footer .rigths-container .footer-dev a {
 .lightbox__image {
   max-width: 100%;
   max-height: 100%;
+}
+
+/*download abecedario*/
+.downloadABC {
+  display: inline-block;
+  list-style: none;
+  padding: 20px;
+  color: #3FB6B0;
+  font-family: Inter, sans-serif;
+  font-size: 25px;
+  text-align: center;
+}
+.downloadABC:hover {
+  color: #5CB235;
+}
+
+.image-downloadABC {
+  width: 250px;
+  padding: 50px 20px 0px 20px;
+
 }
 /* Fin abecedario*/
 
