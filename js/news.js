@@ -1039,6 +1039,157 @@ let news = [
         <br>¡Tus respuestas son muy valiosas para el proyecto!
         </Strong></p>
         <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
+    },
+    {
+        id: 16,
+        img: "../media/ilustraciones/ilustracion_XVI.webp",
+        titulo: "Abecedario ilustrado de flora, fauna y funga nativa del centro de Argentina",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Queremos arrancar contándote que este newsletter es súper especial para nosotrxs. Es nuestra excusa para presentarte la culminación de un proyecto en el que hemos trabajado por mucho tiempo. Tuvo sus altibajos, pero hoy finalmente podemos compartir nuestra alegría.  <br>
+        <br>Este proyecto no es ni nada más ni nada menos que nuestro <strong>Abecedario ilustrado de Flora, Fauna y Funga Nativa del centro de Argentina</strong>. Está ilustrado a mano y fue realizado en colaboración con Proyecto Sibylla (de Irene Behrens, <a href="https://www.instagram.com/irene_behrens/" target="_blank" style="color: #8000FF;">@irene_behrens</a> en Instagram). Es de descarga gratuita y abierto para todo público, con la finalidad de que acompañe a las infancias en el aprendizaje de las letras que componen nuestro abecedario. Todo esto, mientras conocen la flora, fauna y funga autóctona de nuestro territorio. <br>
+        Se encuentra disponible para descargar en nuestra página web (<a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">www.femiciencia.com/pages/abecedarioNativas.html</a>). Podés compartirlo con quien quieras, ¡nosotrxs más que agradecidxs!<br>
+        <br>Realizar este abecedario llevó mucho tiempo, la autogestión implica la coordinación del trabajo voluntario de muchas personas, que manejan distintos tiempos y agendas diversas. Esto no hubiera sido posible sin la pasión, la dedicación y la tozudez de una de las integrantes de Femiciencia: <strong>Ana Clara Denaro</strong>. Por eso, para presentar este trabajo le hicimos una entrevista a ella, la creadora del ABC.<br>
+        <br></p>
+        <br>
+        <hr class="linea-divisoria">
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XVI/ana_clara_denaro1.webp" alt="Ana Clara Denaro" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XVI/ana_clara_denaro2.webp" alt="Ana Clara Denaro" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Ana Clara Denaro</h4>
+        <p><br></p>
+        </div>
+
+        <p>Ana es Licenciada en Ciencias Biológicas, egresada de la Universidad Nacional de San Luis (UNSL) y Diplomada Superior en Comunicación Pública de las Ciencias (UNICEN). Actualmente cursa el cuarto año de su Beca Doctoral en CONICET y estudia un profesorado universitario (UNNE).  Quienes la conocemos, sabemos que decir “Anita” es también decir compromiso, entrega, aprendizaje, comprensión de la otredad y sobre todo, ganas de poner el conocimiento al servicio del resto. <br>
+        <br>En general, Anita habita procesos de aprendizaje continuo, no para la apropiación individual del conocimiento, sino para su convite: socializar y expulsar al espacio público eso que tanto le apasiona: la ciencia. “democratizar el conocimiento”, es acaso su objetivo y frase más reiterada, no sólo en el discurso sino en lo cotidiano. Por todo eso, hablar de comunicación pública de las ciencias y de este abecedario es un poco también hablar de Anita, pero para que la conozcas un poco más, le preguntamos:<br>
+        <br></p>
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Cómo surgió la idea de crear un abecedario de flora, fauna y funga nativa?</Strong></p>
+        <p><strong>Ana:</strong><i> Esta es una idea que surgió en el primer curso de Comunicación Pública de las Ciencias (CPC) que tomé como estudiante de grado en el año 2019, en donde además de haber sido el primer acercamiento que yo tuve a esta disciplina, quizás también fue el punto de partida para intentar entender un poco mejor qué era comunicar la ciencia y también intentar desarmar lo que yo creía que era comunicar la ciencia. En ese curso, en uno de los prácticos finales teníamos que proponer una pieza comunicacional, y el docente de esa materia, que es Antonio Mangione, nos incitó a romper con lo más conocido, que podía ser formato podcast o alguna publicación en red social. Nos insistió bastante con explorar otras formas de comunicar y la verdad que no recuerdo el momento exacto en el que dijimos que íbamos a hacer un abecedario, que fue un poco el resultado de este proceso.</i>
+        <br>
+        <i>En esta búsqueda de pensar la pieza comunicacional, junto al resto de lxs biológxs que estábamos en el proyecto, lo que más nos movilizó fue esta idea -que a los biólogxs siempre nos mueve- que es la conservación de la biodiversidad, la apropiación de la conservación de la biodiversidad por parte de todxs. Incentivar esas prácticas. </i>
+        <br>
+        <i>Hay una frase que es un poco cliché, que dice que no podemos conservar lo que no conocemos. Entonces, por ahí pensamos, que partiendo de este objetivo de la conservación de la flora, fauna y funga nativa, podíamos promover el conocimiento de las especies locales, y nos enfocamos más que nada en repensar las narrativas que condicionan lo que conocemos y aprendemos porque una de las primeras cosas que aprendemos en la escuela son las letras, y esas letras tienen muchas veces ilustraciones de animales, oso panda, león, que no estamos cerca de conocer y no forman parte de nuestro entorno regional y local. Entonces un poco fue un planteo en ese sentido, quizás en ese momento no le pudimos dar tantísimo marco, pero sí tuvimos en cuenta que había ciertas inquietudes de docentes que habían comentado que también el material didáctico para enseñar la biodiversidad es escaso, y, frente a eso, al conocer esa problemática o inquietud, nos cerró por todos lados la propuesta del abecedario.</i>
+        <br>
+        <i>Obvio en ese curso de grado no lo concretamos, sólo le dimos un marco teórico, algo escueto, y la primera propuesta de las letras, pero no lo pudimos hacer. Creo que habíamos hecho las letras con una ilustración en paint, que nos dejaba sacarle el fondo a ciertas imágenes de Google. Nuestra intención fue presentar un borrador en ese momento, pero la verdad que quedó ahí. </i></p>
+        <br><br> 
+
+        <br> 
+        <p class="preguntas-news"><Strong>¿Cuánto tiempo llevó la realización del proyecto?</Strong></p>
+        <p><strong>Ana:</strong><i> Ese proyecto quedó un poco estancado, la verdad fue algo que siempre consideré necesario e importante. Después comenzamos con el proyecto de Femiciencia en el 2021, que surgió con el principal objetivo de comunicar los contextos en los que hacían ciencia las feminidades y disidencias, entonces también era un poco disruptivo en relación con los productos que más conocemos en cuanto a la comunicación pública de las ciencias.</i>
+        <br>
+        <i>Un año después de que ya estábamos en Femiciencia quise retomar esto, que si bien no es comunicar el contexto en el que hacemos ciencia las feminidades y disidencias, se me ocurrió que al ya tener una estructura armada - del proyecto de CPC, 2019 - iba a ser más fácil comenzar a gestionarlo. Hablé con las personas que hicieron conmigo ese proyecto en 2019 y me dijeron que estaban re contentxs de poder darle continuidad y que si yo estaba con ganas de retomarlo, bienvenido sea. Comenzamos a gestionar todo y desde ahí estuvimos dos años más para terminar de gestar el proyecto. </i>
+        </p>
+        <br><br> 
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Por qué la realización de un abecedario puede enmarcarse en una acción de la comunicación pública de las ciencias?</Strong></p>
+        <p><strong>Ana:</strong><i> La realidad es que hay ciertas acciones que se hacen más desde el campo de la didáctica, que se encuentran quizás en la misma esfera de acciones que se hacen desde la comunicación pública de las ciencias. Las personas que se dedican a la comunicación pública de las ciencias siempre intentan marcar un límite, porque si todo es CPC nada lo es. Entonces, desde Femiciencia, cuando surgió la posibilidad de hacer CPC con un poco más de marco teórico sobre los modelos, lo que se comunica y qué es lo que se comunica, hicimos ciertas encuestas en Instagram a las personas que nos siguen poniendo los nombres de distintas especies, y nos dimos cuenta de que el conocimiento de las especies exóticas era mucho mayor en comparación con las nativas. Nosotras acá nos empezamos a volcar un poco en algunas teorías que hablan sobre la mercantilización de la biodiversidad, sobre la colonización epistemológica y científica de los países de la periferia. Por eso, le agregamos un enfoque político al abecedario, porque más allá de lo que mencioné anteriormente, que era el objetivo de la valorización de la biota nativa, también conocer lo que nos rodea es parte de nuestra herencia, nuestro folklore y nuestras raíces, es un patrimonio biocultural y crea un sentido de pertenencia hacia donde vivimos. </i>
+        <br>
+        <i>Esta es una opinión personal, pero yo he hablado mucho con grupos que no se dedican ni a la biología ni a la ciencia y noto que hay una falta de identidad cuando, por ejemplo, se menciona que van a ver un león en un zoológico y no un animal nativo en un Parque Nacional. Es como que la identidad cultural no está del todo construida y el sentido de pertenencia está socavado. </i>
+        <br>
+        <i>¿Por qué creo que es una herramienta de CPC? Porque como dije, comunicar la ciencia no es sólo comunicar resultados, sino también contextos, tiene que estar presente en todas las partes de la producción del conocimiento científico, desde quién financia y hace visible eso. Creo que el hecho de que un niño o una niña pueda en los primeros años de primaria aprender la flora, fauna y funga nativa genera cultura científica. Porque esto nos hace comprender más allá del funcionamiento del entorno que nos rodea, nos hace situarnos críticamente desde lo regional para entender qué es lo que podemos hacer en materia de, por ejemplo, generar acciones para conservar la laguna que está en nuestro barrio, o para entender por qué es importante un Parque Nacional. Yo creo que contribuye a esa generación de cultura científica hasta en un sentido político, de reivindicación de esta pieza como una pieza promotora de nociones críticas. </i>
+        <br>
+        <i>Y yendo hacia los modelos de CPC, con la creación de esta pieza lo que queremos es subrayar el carácter multidimensional y contextual, y poder mirar esto como un cauce que se estableció para que la población pueda alcanzar una comprensión crítica de los fenómenos científicos, es un granito de arena que estamos aportando.</i>
+        <br>
+        <i>Por otra parte, para enmarcarlo dentro de la CPC se utiliza como marco teórico la “Analogía de las Vocales” propuesta por Burns (2003), que indica cinco principios a la hora de comunicar la ciencia: awareness (toma de conciencia); enjoyment (entretenimiento); interest (interés); opinion-forming (formación de opinión); understanding (comprensión).</i>
+        <br>
+        <i>Además, considero que, si bien el abecedario está planteado en primera instancia para ser un material didáctico, es un proyecto con muchas ideas futuras sobre su implementación: puede ser utilizado en ferias de ciencia, en talleres y encuentros de ciencia en plazas, puede ser en primera instancia para infancias pero luego también para docentes como herramienta didáctica.</i></p>
+        <br><br> 
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Qué “llegada” se espera para el abecedario? ¿Tiene un público determinado? ¿Quiénes pueden acceder?</Strong></p>
+        <p><strong>Ana:</strong><i> Los principales públicos para los que se piensa son, en primera instancia, infancias de primer y segundo grado de primaria. Además incorporamos a lxs docentes porque, en primer lugar, van a ser quienes propongan esta herramienta en el espacio áulico. También porque nuestra idea es, no sólo presentar el abecedario y que quede colgado en un espacio digital, sino gestionarlo, poder hacer talleres en donde se presente como una herramienta didáctica y que luego vaya teniendo una continuidad con lxs docentes, que pueda ser utilizado en ferias de ciencia, en plazas, en actividades de extensión. Es decir, todas esas otras posibles aplicaciones que no tenemos tan definidas, pero sí tenemos definido que esta es la iniciativa, es el comienzo y puntapié para empezar a gestionar este proyecto y que queremos que esté en todos lados y ocuparnos también de esa gestión.</i>
+        <br>
+        <i>El abecedario está disponible en nuestra web para ser descargado de forma gratuita, a futuro se espera que sea presentado en formato para colorear. Nuestra idea no es lucrar con esta pieza, sino que cualquier persona pueda descargarlo y utilizarlo. Más aún queremos hacer esa articulación para que esté, para que se conozca que existe, que sea fácil la descarga, que no haya que depositar una gran cantidad de esfuerzo para obtener la pieza porque eso desmotiva en el proceso. Además, esperamos que empiece a circular en el boca a boca, y queremos realizar esa inserción con docentes en las escuelas, con la comunidad educativa, científica y con los públicos en general.</i></p>
+        <br><br> 
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Hasta acá llegó este newsletter. Gracias por leernos una vez más y acompañarnos en la presentación de este abecedario. ¡Estamos muy felices! 💚 </p> 
+        <p>Y por último: <a href="https://www.instagram.com/reel/CxWHmzsPMJZ/?igshid=MzRlODBiNWFlZA==" target="_blank" style="color: #8000FF;">¡Feliz mes de la cultura científica!</a> </p>
+        <p>¡Un abrazo! </p>
+        <p>Equipo <strong>Femiciencia</strong></p> 
+        <br>
+        <p><Strong>⚠️⚠️ Recordatorio ⚠️⚠️ Sigue habilitada nuestra breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <br>¡Tus respuestas son muy valiosas para el proyecto!
+        </Strong></p>
+        <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
+    },
+    {
+        id: 17,
+        img: "../media/ilustraciones/ilustracion_XVII.webp",
+        titulo: "Comunicar(nos) - parte 1",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Bienvenidx a otro newsletter de Femiciencia. En este contexto político y social previo a las elecciones presidenciales queremos hablarte sobre <strong>comunicación pública de las ciencias</strong>.  <br>
+        <br>¿Por qué? Porque creemos que el desarrollo de nuestro sistema científico y tecnológico es clave para garantizar la soberanía de nuestro país. Ante la proliferación de discursos que proponen retroceder en los campos de la educación y la investigación científica, creemos que la comunicación pública de las ciencias se constituye como la herramienta idónea para restituir el lazo entre la comunidad científica y nuestras sociedades.  <br>
+        
+        <br>Para profundizar un poco más sobre este tema entrevistamos a una de las pioneras y referentas en la comunicación pública de las ciencias en Argentina, la gran <strong>Carina Cortassa</strong>. Ella es Doctora en Ciencia y Cultura por la Universidad Autónoma de Madrid, Máster en Ciencia, Tecnología y Sociedad por la Universidad de Salamanca y Licenciada en Comunicación Social por la Universidad Nacional de Entre Ríos. Es investigadora y docente, entre sus áreas de interés se encuentran los Estudios Sociales de la Ciencia y la Tecnología, la Percepción y Comunicación Públicas de la Ciencia y la Epistemología Social.<br>
+        
+        <br>Te invitamos a conocerla y a reflexionar con nosotrxs sobre qué es comunicar la ciencia, qué lugar ocupa en nuestra sociedad y qué condicionantes contextuales la atraviesan (o no).<br>
+        <br></p>
+
+        <hr class="linea-divisoria">
+        <br> 
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XVII/carina_cortassa1.webp" alt="Carina Cortassa" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XVII/carina_cortassa2.webp" alt="Carina Cortassa" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Carina Cortassa</h4>
+        <p><br></p>
+        </div>
+        
+        <p class="preguntas-news"><Strong>¿Cuál fue tu recorrido académico y de investigación?</Strong></p>
+        <p><i>Yo me gradué como Licenciada en Comunicación Social en la Facultad de Ciencias de la Educación en la Universidad Nacional de Entre Ríos (UNER), donde sigo trabajando. Entré a la facultad en 1989 y todavía no salí. Desde entonces trabajé primero en la cátedra Moledo - de Problemática en la Ciencia. </i>
+        <br>
+        <i>Leonardo Moledo fue un gran periodista y divulgador argentino de las ciencias y uno de los iniciadores del campo del periodismo científico en nuestro país. Trabajé como su ayudante durante mis últimos años de carrera, hice mi tesis con él y me quedé trabajando en su cátedra. Tuve la oportunidad de irme en el 2002 a la Universidad de Salamanca (España) para hacer mi maestría en Ciencia, Tecnología y Sociedad. Allí me integré hasta la actualidad en el Instituto de Estudios de Ciencia y Tecnología. Luego regresé a Argentina y tuve que esperar un par de años más hasta que me saliera la beca doctoral y volví a España a hacer mi doctorado en Ciencia y Cultura en la Universidad Autónoma de Madrid. Regresé al país en el 2010 por una beca de reinserción de CONICET con aplicación en el centro REDES (Buenos Aires), el Centro de Estudio sobre Ciencias, Desarrollo y Educación Superior. Me quedé en Buenos Aires trabajando allí y en mi cátedra en la UNER de Problemática de la Ciencia, en la que después de muchos años pude concursar y ya ser profesora titular.</i>
+        </p>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>¿Por qué elegiste dedicarte a la comunicación pública de las ciencias?</Strong></p>
+        <p><i>Para mí hubo una persona que fue muy clave en mi carrera, Leonardo Moledo. Cuando estaba terminando la carrera de Licenciatura en Comunicación Social, cursé esta materia que estaba en quinto año, a la par que iba haciendo las prácticas curriculares, y dije: “¡esto es!”. </i>
+        <br>
+        <i>Teníamos una formación bastante anticientífica en nuestra carrera, atravesada por un discurso posmoderno, muy contrario a ciertas ideas de lo que se identifica como el momento de la posmodernidad. Ese año conocí a Leonardo, trabajamos casi cinco años juntos, él era físico y matemático de formación, pero se dedicó a la divulgación y a la literatura. Hice mi tesina de grado con él, y un día me planté y le dije que quería ser su ayudante de cátedra, porque no tenía. Estuvimos negociando mucho tiempo porque él pensaba que tener una ayudante de cátedra iba a hacer un engorro adicional, entonces yo le dije: “Poneme unos meses a prueba, y si vemos que más o menos nos arreglamos mutuamente, seguimos adelante”. Y así fue que seguimos, mientras dirigía mi tesina de grado en simultáneo. Cuando terminé la carrera en el ‘96 ya nos habíamos puesto de acuerdo y concursé el cargo de ayudante. Allí fue que me interesé sobre todo por los estudios de ciencia, tecnología y sociedad (cts), primero por la epistemología y segundo por el campo cts.</i>
+        <br>
+        <i>Después, por derivación dentro del campo cts, mi formación y la figura de Leonardo, me centré en la comunicación científica. Hay algo que me gustaría valorar: la relación intergeneracional maestra/maestro, discípulo/discípula, cuando tenés la suerte de encontrar a alguien que realmente hace una diferencia en tu carrera. Yo trato de cultivar la relación con las personas que hacen tesis conmigo o que trabajan dentro del equipo de investigación. Me parece que si una tuvo la posibilidad de tener esa experiencia, está bueno poder reproducirla. El campo académico es muy duro, suele ser muy expulsivo por muchas cosas; por ejemplo, por los temas que tratan ustedes en Femiciencia, cuando sos mujer o cuando provenís del interior y de una facultad que nadie conoce. Un día fui a un congreso de la Universidad Nacional de Córdoba y alguien dijo: “UNER, ¿Qué hay ahí que a nosotros nos interese?”. Entonces hay que ayudar porque uno ya recorrió esas cosas, si mal que bien la sorteaste, bueno, ayudemos a la próxima generación.  </i></p>
+        <br><br>  
+        
+        <p class="preguntas-news"><Strong> ¿Cuál crees que sea la relevancia o influencia de la comunicación pública de las ciencias en nuestras sociedades? 
+        Respecto a esto, ¿Cómo ves a Argentina respecto al resto de Latinoamérica?</Strong></p>
+        <p><i>El campo de Comunicación Pública de la Ciencia creció muchísimo en Argentina durante los últimos 10 o 15 años, como campo de prácticas, de investigación y de formación. Hay oferta de formación de posgrado, cinco carreras en todo el país y están creciendo más. Ya somos muchos equipos de investigación los que funcionamos en redes, formales e informales, y presentamos proyectos juntos. Una instancia que contribuyó a aglutinarnos mucho fue la realización del COPUCI (Congreso Internacional de Comunicación Pública de la Ciencia) que se desarrolla cada dos años, del cual ustedes participaron en el último que fue en Bariloche.</i>
+        <br>
+        <i>En cuanto a cómo impacta en la sociedad, creo que en estos días estamos asistiendo a una de las consecuencias de no haber hecho lo suficiente en este sentido. Una de las patas del surgimiento de nuestro campo fue en la década de los ‘80 en el Reino Unido, cuando en pleno gobierno neocón la comunidad científica británica percibió que sin apoyo y sin alianzas con la sociedad iba a ser muy difícil responder a los ataques y deslegitimación pública que estaba haciendo el neoconservadurismo. Ellos encargaron un informe a un genetista, el informe Bodmer, y la conclusión fue esa: mientras las comunidades científicas no establezcan alianzas con la sociedad a través de la comunicación y la comprensión pública de la ciencia, va a ser muy difícil poder responder a las críticas y a los recortes y todo lo que se está discutiendo en estos días. Una de las citas más utilizadas en el campo a nivel mundial desde 1985 es “los científicos deben aprender a comunicarse con los públicos, deben estar dispuestos a hacerlo y más aún deben considerarlo como su obligación”.</i>
+        <br>
+        <i>Nosotrxs estamos metidos en medio de una tormenta y ahora parece que toda la comunidad científica se dio cuenta de que necesitamos una alianza con la sociedad. Para quienes remamos en dulce de leche desde hace 20 años es algo así como decirles “hey, se los venimos avisando, lo estaban haciendo pero no lo suficiente.”. Esa es la importancia política y cultural que tiene la comunicación de la ciencia; tener una ciudadanía científica sólida, potente, que comprenda lo que es el valor del desarrollo científico y tecnológico para un país, que entienda que es una inversión y no un gasto, que es un área estratégica de desarrollo.</i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>¿Cómo podemos pensar la comunicación pública de las ciencias desde la transversalización del género? ¿Creés que hay avances en materia de comunicación con perspectiva de género y ciencia o aún nos falta desarrollar este terreno? </Strong></p>
+        <p><i>Yo creo que hay experiencias que están nutriendo esa posibilidad y esa transversalización. La experiencia de Femiciencia, la edición de algunas recomendaciones que se están realizando desde las redes de periodismo científico, las redes de divulgación, etc. buscan lograr esa transversalización de la dimensión no solo de géneros sino también de diversidades sexogenéricas, y eso fue un tema importante en el último COPUCI. Sin embargo, me parece que nos hace falta muchísimo más trabajo. Es decir, si bien en Argentina hemos tenido un crecimiento importante durante los últimos años, ha sido un crecimiento que tendió, como en todo campo incipiente, a concentrarse en consolidar el concepto, las prácticas, la investigación. Ahora ya tenemos consolidado el campo de la comunicación científica: empecemos a ver cómo integramos dentro de ese campo la perspectiva de las comunidades vulnerables, por ejemplo, la perspectiva de género o la perspectiva de otros colectivos que también son públicos de las ciencias o que son miembros de nuestra sociedad y que no siempre están suficientemente consideradas y considerados dentro del diseño de nuestras prácticas y la investigación.</i>
+        <br>
+        <i>Creo que de a poco y a medida que la perspectiva de género se vaya extendiendo en los estudios CTS en Argentina, se va a ir abonando el camino. Como sabemos, es lento llevarla y transversalizarla en casi todos los ámbitos en los que nos movemos, entonces bueno: trabajo, trabajo y trabajo, y más experiencias y laburos como el de Femiciencia.  </i></p>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>En el actual contexto político y electoral ¿Creés que la comunicación pública de la ciencia tiene el potencial de disputar el actual terreno político y electoral? ¿Creés que lxs comunicadorxs podemos deconstruir el concepto inserto de ciencia como “gasto público”?</Strong></p>
+        <p><i>Creo que desde hace algunos años, por suerte, la ciencia se instaló un poco en la agenda de las elecciones. Eso es importante, era algo bastante impensado en algún momento pero ya es un tema de discusión durante las campañas; se presentan propuestas, se sabe o se pregunta a las candidatas y a los candidatos que piensan hacer. Este sacudón que estamos viviendo me parece que tiene que servir para profundizar en esa línea, ¿no? De que el trabajo como comunicadoras y comunicadores de la ciencia tiene que ser poner al alcance de la sociedad no solo descubrimientos, avances y logros sino intentar ir cimentando cada vez más un concepto profundo de lo que es el valor del desarrollo científico y tecnológico para el desarrollo integral; social, cultural, político y económico.</i>
+        <br>
+        <i>En estos días estamos asistiendo a una defensa un poquito frenética y del tipo “aquí hay que mostrar que la ciencia es útil” y “hay que mostrar que la ciencia tiene réditos económicos”. Sí, la ciencia tiene réditos económicos y hace al desarrollo económico de un país pero no solamente eso; la ciencia consolida el debate racional, da y ofrece argumentos y evidencias en todos los ámbitos de la vida colectiva de la sociedad. Entonces, por ejemplo, si tenemos que hablar de leyes, tenemos que hablar de que cualquier campo está atravesado por el conocimiento científico y tecnológico. Necesitamos de ese conocimiento, no solo para el desarrollo económico sino para un desarrollo integral, para la inclusión, para el diseño de políticas equitativas. Para eso tiene que servir la comunicación de la ciencia en un escenario político. </i></p>
+        <br>
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Y así de rápido llegamos al final de esta primera edición sobre comunicación pública de las ciencias. No queremos dejar de agradecer a Carina Cortassa por su participación, compromiso y apoyo a este proyecto.</p> 
+        <p>¡Nos vemos pronto! No te pierdas la segunda parte de esta edición sobre Comunicación Pública de las Ciencias.</p>
+        <p>Equipo <strong>Femiciencia</strong></p> 
+        <br>
+        <p style="color: #ff6666;">P/D: Hace poco salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. </p>
+        <br>
+        <p style="color: #c989d6;">P/D2: Les recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -renumerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs. 
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>
+
+        <br>
+        <p><Strong>⚠️⚠️ Recordatorio ⚠️⚠️ Sigue habilitada nuestra breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <br>¡Tus respuestas son muy valiosas para el proyecto!
+        </Strong></p>
+        <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
     }
 
 ]

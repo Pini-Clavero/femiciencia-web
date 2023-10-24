@@ -206,9 +206,6 @@ header .top-header h1 a img {
     display: flex;
   }
 }
-header nav {
-  /*boton burguer*/
-}
 header nav input {
   display: none;
 }
@@ -1000,74 +997,6 @@ footer .rigths-container .footer-dev a {
   border: 10px solid #3FB6B0;
 }
 
-/* ABECEDARIO */
-.videoABC{
-  display: block;
-  text-align: center;
-  margin: 5%;
-}
-.videoABC iframe{
-  width: 80%;
-  height: 34vw;
-  border: 10px solid #3FB6B0;
-  margin: 40px 0 40px 0;
-}
-
-/*galeria abcedario*/
-.titular_galeria {
-  padding: 15px;
-}
-.container-galeria {
-  width: 100%;
-  min-height: 50vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 40px 4%;
-}
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(125px,1fr));
-  grid-gap: 10px;
-}
-.gallery img {
-  width: 100%;
-}
-.lightbox {
-  max-width: 100%; /* Ajusta el valor según tus preferencias */
-  max-height: 80vh; /* Ajusta el valor según tus preferencias */
-}
-
-.lightbox__image {
-  max-width: 100%;
-  max-height: 100%;
-}
-
-/*download abecedario*/
-.downloadABC {
-  display: inline-block;
-  list-style: none;
-  padding: 20px ;
-  color: #3FB6B0;
-  font-family: Inter, sans-serif;
-  font-size: 26px;
-  text-align: center;
-}
-.downloadABC:hover {
-  color: #5CB235;
-}
-
-.image-downloadABC {
-  width: 250px;
-  padding: 50px 20px 0px 20px;
-
-}
-@media screen and (max-width: 768px) {
-  .gallery {
-    grid-template-columns: repeat(auto-fit, minmax(80px,1fr));
-  }
-}
-/* Fin abecedario*/
 
 @media screen and (max-width: 920px) {
   .body-news-individuales section.container div.row .columna-news .img img {
@@ -1218,3 +1147,91 @@ body {
     font-size: 16px;
   }
 }/*# sourceMappingURL=style.css.map */
+
+/* ABECEDARIO */
+.videoABC{
+  display: block;
+  text-align: center;
+  margin: 5%;
+}
+.movil_videoABC{
+  display: none;
+}
+.videoABC iframe{
+  width: 80%;
+  height: 41.5vw;
+  border: 10px solid #3FB6B0;
+  margin: 40px 0 40px 0;
+}
+
+/*galeria abcedario*/
+.titular_galeria {
+  padding: 15px;
+}
+.container-galeria {
+  width: 100%;
+  min-height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 4%;
+}
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(125px,1fr));
+  grid-gap: 10px;
+}
+.gallery img {
+  width: 100%;
+}
+.lightbox {
+  max-width: 100%; /* Ajusta el valor según tus preferencias */
+  max-height: 80vh; /* Ajusta el valor según tus preferencias */
+}
+
+.lightbox__image {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+/*download abecedario*/
+.downloadABC {
+  display: inline-block;
+  list-style: none;
+  padding: 20px ;
+  color: #3FB6B0;
+  font-family: Inter, sans-serif;
+  font-size: 26px;
+  text-align: center;
+}
+.downloadABC:hover {
+  color: #5CB235;
+}
+
+.image-downloadABC {
+  width: 250px;
+  padding: 50px 20px 0px 20px;
+
+}
+
+@media screen and (max-width: 768px) {
+  .gallery {
+    grid-template-columns: repeat(auto-fit, minmax(80px,1fr));
+  }
+  .videoABC iframe{
+    display: none;
+  }
+  .movil_videoABC{
+    display: block;
+    text-align: center;
+    margin: 5%;
+  }
+  
+  .movil_videoABC iframe{
+    width: 80vw;
+    height: 138vw;
+    border: 10px solid #3FB6B0;
+    margin: 40px 0 40px 0;
+  }
+}
+/* Fin abecedario*/
