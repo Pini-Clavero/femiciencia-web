@@ -820,6 +820,12 @@ footer .rigths-container .footer-dev a {
   margin-top: 85px;
   margin-bottom: 10%;
 }
+.team .ex_member{
+  background: none;
+}
+.team .team_member .ex_name{
+  color:#3FB6B0
+}
 .team .team_member p {
   color: white;
   font-size: 1rem;
