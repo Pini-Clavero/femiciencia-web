@@ -36,6 +36,7 @@ alertNoContent.addEventListener('click', function(){
 })
 /*FIN alerta de descargable*/
 
+
 /*INICIO menú fijo*/
 
 // Cuando se haga scroll en la pagina se ejecuta la funcion

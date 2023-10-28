@@ -212,6 +212,26 @@
 
     <!--JS-->
     <script src="js/app.js"></script>
+    <script>
+        /*INICIO alerta de Encuesta*/
+const alertEncuesta = document.querySelector("#alertEncuesta");
+
+document.addEventListener('DOMContentLoaded', function () {
+    Swal.fire({
+        title:'¿Ya respondiste la encuesta?',
+        html: '<strong><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" ; ">- Link de nuestra encuesta aquí -</a></strong>',
+        icon: 'question',
+        iconColor: '#4FAC24',
+        confirmButtonText: '¡SI!',
+        confirmButtonColor: '#4FAC24',
+        color: '#874F9D',
+        background: '#D3E4CD',
+        showCloseButton: true,
+        closeButtonColor: '#4FAC24'
+    })
+})
+/*FIN alerta de Encuesta*/
+    </script>
     
 </body>
 
