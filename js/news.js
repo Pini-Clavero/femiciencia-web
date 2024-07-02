@@ -1122,6 +1122,8 @@ let news = [
         contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Bienvenidx a otro newsletter de Femiciencia. En este contexto político y social previo a las elecciones presidenciales queremos hablarte sobre <strong>comunicación pública de las ciencias</strong>.  <br>
         <br>¿Por qué? Porque creemos que el desarrollo de nuestro sistema científico y tecnológico es clave para garantizar la soberanía de nuestro país. Ante la proliferación de discursos que proponen retroceder en los campos de la educación y la investigación científica, creemos que la comunicación pública de las ciencias se constituye como la herramienta idónea para restituir el lazo entre la comunidad científica y nuestras sociedades.  <br>
         
+        <br>Comúnmente se escucha cómo en los medios tradicionales se dice que comunicar las ciencias es “unir con un puente el mundo científico y los legos o personas comunes”. Sinceramente, a nosotrxs no nos gusta esa definición, ya que coloca a lxs cientificxs en un mundo aparte del resto de la sociedad. Sí creemos que comunicar ciencia es derribar muros (porque esos sí existen, aunque no siempre los veamos), derribar los muros de los laboratorios, de la universidad, de la investigación y colectivizar ese conocimiento construido por todxs. Conectarnos con lo que nos rodea, repensar definiciones, y construir otras nuevas.<br>
+        
         <br>Para profundizar un poco más sobre este tema entrevistamos a una de las pioneras y referentas en la comunicación pública de las ciencias en Argentina, la gran <strong>Carina Cortassa</strong>. Ella es Doctora en Ciencia y Cultura por la Universidad Autónoma de Madrid, Máster en Ciencia, Tecnología y Sociedad por la Universidad de Salamanca y Licenciada en Comunicación Social por la Universidad Nacional de Entre Ríos. Es investigadora y docente, entre sus áreas de interés se encuentran los Estudios Sociales de la Ciencia y la Tecnología, la Percepción y Comunicación Públicas de la Ciencia y la Epistemología Social.<br>
         
         <br>Te invitamos a conocerla y a reflexionar con nosotrxs sobre qué es comunicar la ciencia, qué lugar ocupa en nuestra sociedad y qué condicionantes contextuales la atraviesan (o no).<br>
@@ -1190,8 +1192,489 @@ let news = [
         <br>¡Tus respuestas son muy valiosas para el proyecto!
         </Strong></p>
         <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
-    }
+    },
+    {
+        id: 18,
+        img: "../media/ilustraciones/ilustracion_XVII.webp",
+        titulo: "Comunicar(nos) - parte 2",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Bienvenidx al segundo número de esta edición sobre <strong>comunicación pública de las ciencias</strong>, un espacio que destinamos a reflexionar sobre este ámbito del conocimiento y su vínculo con nuestras sociedades. <br>
+        <br>Hace unos días nos encontramos por este medio para compartirte nuestro diálogo con <a href="https://femiciencia.com/pages/newsletters.html" target="_blank" style="color: #8000FF;">Carina Cortassa</a>, y hoy queremos invitarte a conocer a otra gran profesional argentina del ámbito del periodismo científico y de la comunicación pública de las ciencias:<br>
+        
+        <br>Hablamos de <strong>Silvina Chaves</strong>. Doctora en Comunicación Social por la Universidad Nacional de Córdoba (UNC), Licenciada en Comunicación Social por la Universidad Nacional de San Luis (UNSL), Diplomada en Comunicación Científica, Médica y Ambiental por la Universidad Pompeu Fabra, y periodista y docente universitaria en asignaturas de periodismo científico en carreras de comunicación.<br>
+        
+        <br><a href="https://www.instagram.com/chaves.silvina/" target="_blank" style="color: #8000FF;">Silvina</a> es apasionada por la comunicación, pero sobre todo por la comunicación de las ciencias y la democratización del conocimiento. Su vasta experiencia en los distintos formatos periodísticos y la comunicación institucional también la llevaron a inquietarse por las formas de comunicar y la necesidad de incorporar la perspectiva de género a la comunicación de las ciencias. Te invitamos a leer nuestro intercambio:<br>
+        <br></p>
 
+        <hr class="linea-divisoria">
+        <br> 
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XVIII/silvina_chaves1.webp" alt="Silvina Chaves" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XVIII/silvina_chaves2.webp" alt="Silvina Chaves" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Silvina Chaves</h4>
+        <p><br></p>
+        </div>
+        
+        <p class="preguntas-news"><Strong>¿Cómo decidiste estudiar Comunicación Social y Periodismo? </Strong></p>
+        <p><i>Creo que lo tuve claro muy tempranamente. La escuela secundaria a la que iba, expedía el título “bachiller auxiliar en medios de comunicación social”. Pude tener, gracias a ello, mis primeros acercamientos a la gráfica, la radio y la televisión. Con 15 años ya sabía que estudiaría periodismo. Y, cuando empecé la universidad, en 1997, me inscribí en periodismo y en geología. Había algo en mí que me empujaba al mundo de las ciencias, pero aún no lo podía ver con claridad. </i>
+        <br>
+        <i>Creo que lo tuve claro muy tempranamente. La escuela secundaria a la que iba, expedía el título “bachiller auxiliar en medios de comunicación social”. Pude tener, gracias a ello, mis primeros acercamientos a la gráfica, la radio y la televisión. Con 15 años ya sabía que estudiaría periodismo. Y, cuando empecé la universidad, en 1997, me inscribí en periodismo y en geología. Había algo en mí que me empujaba al mundo de las ciencias, pero aún no lo podía ver con claridad. </i>
+        <br><br>
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XVIII/silvina_chaves3.webp" alt="Silvina Chaves" style="max-width: 100%;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Con Manuel Calvo Hernando en la UNSL. Año 2000</h4>
+        </p>
+        </div>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>¿Qué te llevó a dedicarte al periodismo científico y a la comunicación pública de las ciencias? ¿Cómo fue tu trayectoria profesional previa?</Strong></p>
+        <p><i>Si bien ese encuentro con Don Manuel fue fundamental, siempre fui muy lectora y curiosa, pero de niña crecí en un mundo sin internet y mi único contacto con la ciencia fue a través de revistas como Muy Interesante y los libros que leía en la biblioteca del Banco Provincia que estaba en el centro de San Luis. Me fascinaban las historias donde la ciencia era protagonista, pero por ese entonces no tenía idea de que existía la posibilidad de formarse en ese campo. Ya recibida, fui teniendo distintas experiencias laborales y tuve la posibilidad de acercarme a temas relacionados con distintas disciplinas científicas. </i>
+        <br>
+        <i>En 2003 empecé a trabajar en Radio Universidad y en ese entonces ya me tocaba entrevistar a científicos/as de la UNSL casi a diario. En 2007 empecé a trabajar en la Facultad de Ciencias Físico Matemáticas y Naturales y al transmitirle a las autoridades mi inquietud de armar un espacio específico para comunicar la ciencia, me dieron la enorme posibilidad de crear lo que se llamó en ese momento el Centro de Comunicación Científica. Desde este espacio organizamos seminarios para periodistas locales, capacitaciones y actividades para escuelas y públicos diversos. </i>
+        <br>
+        <i>Luego gané una beca para cursar un posgrado en Periodismo Científico en el Instituto Leloir y entonces finalmente pude tener contacto con periodistas y profesores de lujo que fueron mis docentes y que me contagiaron su amor por esta profesión. Ya después de eso no paré y aunque la vida profesional te va presentando distintos desafíos, siempre escribí y produje materiales comunicacionales sobre la ciencia local en distintos formatos. En el 2009 se me encomendó trabajar en el proyecto de creación del canal universitario y hasta el 2022 dirigí ese espacio donde hicimos muchas producciones con científicos y científicas de la UNSL y CONICET. Paralelamente, me desempeñé, y sigo haciéndolo, como docente responsable del Taller de Periodismo Científico en la Licenciatura en Periodismo.</i></p>
+        <br><br>  
+        
+        <p class="preguntas-news"><Strong>¿Qué experiencias rescatas del vínculo entre la docencia en las carreras de periodismo y la práctica laboral concreta en ámbitos de comunicación institucionales?</Strong></p>
+        <p>
+        <i>En el caso de las carreras de periodismo, creo que es muy positivo tener docentes que además de dedicarse a enseñar tengan (o hayan tenido) un ejercicio profesional, ya sea en medios o en organizaciones. Es, en mi opinión, un mix que potencia y enriquece el proceso de enseñanza porque – en mi caso- me ha permitido y me permite compartir en el aula experiencias, desafíos y obstáculos concretos y reales. Me posibilita, además, demostrar en la clase cómo lo que vemos en la teoría puede llevarse a cabo o puede concretarse en la práctica profesional. </i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>Sabemos que como profesora de Periodismo Científico, trabajas por la inclusión de la perspectiva de género en los programas de estudio. ¿Cómo abordas esta transversalización?</Strong></p>
+        <p><i>Es imposible no hacerlo. En ciencia, a lo largo de la historia, las mujeres científicas han sido invisibilizadas, desde Hipatia hasta Jocelyn Bell. Tenemos muchísimos ejemplos que merecen ser recuperados en el aula para exponer cómo solo por el hecho de nacer mujer la educación estuvo vedada para muchas de ellas. Formarse y hacer ciencia era para valientes y tenemos muchas mujeres científicas a quienes reivindicar, así como exponer la situación actual de las científicas a nivel de Iberoamérica, Argentina y también en San Luis. Analizamos los procesos de cambio que se han producido en los últimos tiempos, y reflexionamos sobre lo que resta por hacer. </i>
+        <br>
+        <i>Trabajamos este tema en la unidad introductoria de la materia y como ejercicio práctico los/as estudiantes tienen una charla con científicas, editoras de género o periodistas de ciencia en medios de comunicación específicos, de Argentina y el extranjero. Es un tema que los/as estudiantes aprovechan y agradecen, porque les es poco conocido.  </i></p>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>¿Creés que la práctica laboral en áreas institucionales habilita el entrecruzamiento de ciencia y género?</Strong></p>
+        <p>
+        <i>Sí, y cada vez más. Las instituciones, y particularmente las universidades, están siendo interpeladas todo el tiempo, primero desde adentro, por su propia comunidad. Ciertas prácticas que promovían desigualdades están siendo erradicadas y los espacios donde prevalecen son cuestionados y esas realidades, visibilizadas. Estas instituciones, enormes y complejas, están cambiando y mucho. Habrá quienes esperan que esa transformación sea más ágil, pero yo creo que estamos siendo testigos de un proceso muy relevante, de un cambio muy positivo. Y esta transformación se observa a nivel comunicacional. Cualquier web que abras de una universidad puede dar cuenta de que ese cambio es algo tangible. </i></p>
+        <br><br> 
+        
+        <p class="preguntas-news"><Strong>¿Puede decirse que hay equidad de género en ámbitos laborales de periodismo científico/comunicación de las ciencias?</Strong></p>
+        <p><i>Creo que sí. Es más, creo que hay muchas más mujeres que varones en el ámbito laboral del periodismo de ciencias. </i>
+        <br>
+        <i>Participo en dos redes de profesionales, una es la Red Argentina de Periodismo Científico (RADPC), integrada por periodistas de medios de todo el país y la otra, de creación más reciente, es la Red EsPeCie, integrada por periodistas y comunicadores de instituciones de CyT de Ushuaia a la Quiaca. En ambas, somos mayoría mujeres. Cabe preguntarse qué lugares de gestión ocupan las periodistas, comunicadoras o disidencias en puestos jerárquicos en medios o en organizaciones. Ese es un dato que no tengo. Sería interesante saberlo. </i></p>
+        <br><br> 
+
+        <p class="preguntas-news"><Strong>El actual contexto político y electoral evidenció la proliferación de discursos que enmarcan el quehacer científico en la categoría de “gasto público”. ¿Crees que el ejercicio del periodismo científico y de la comunicación pública de las ciencias pueda contribuir a deconstruir estas ideas en torno al sistema científico y tecnológico? </Strong></p>
+        <p><i>Estoy segura de que sí, pero creo que hay desafíos urgentes tanto para los profesionales del campo y los medios de comunicación, para las organizaciones de investigación, como también para el Estado.</i>
+        <br>
+        <i>El reto para comunicadores/as y periodistas es narrar la ciencia situada, contextualizada. Tenemos el privilegio de tener un sistema científico de relevancia. Contamos con científicos y científicas de reconocimiento a nivel global; no obstante, los medios tradicionales dedican poco espacio a contar la ciencia argentina. Esta aparece como nota de color o para explicar algún fenómeno natural del momento y muchas veces se consultan fuentes extranjeras. Hace falta más ciencia en los medios y se requiere que las empresas periodísticas incorporen profesionales especializados, que son muchos y muy buenos. </i>
+        <br>
+        <i>La investigación respecto de cómo se comunica la ciencia en nuestro país nos arroja información que debemos tomar y aplicar en nuestra tarea cotidiana. Hay un sesgo marcado hacia los resultados de la ciencia. Ponemos el foco en los hallazgos científicos, que claramente son importantes, pero no podemos omitir datos que permitan a los públicos comprender aspectos relevantes del quehacer científico. El acercamiento de muchas personas a temas de ciencia es, sobre todo, a través de los medios de comunicación, por tanto, esa comunicación debe contemplar información que transparente el proceso, que dé cuenta de los tiempos de la ciencia, de los desafíos y oportunidades que tiene hacer ciencia desde un país con el potencial de Argentina. La ciencia tiene que estar en la agenda social para que estos discursos que potencian las diferencias pero que tienen una base sostenida en la ignorancia, no tengan cabida en la sociedad. </i>
+        <br>
+        <i>En ese sentido, creo que las organizaciones de CyT deben redoblar los esfuerzos para potenciar sus espacios de comunicación y, por otra parte, es fundamental que la participación de la comunidad científica en acciones comunicacionales sea valorada en los procesos de evaluación y acreditación. </i>
+        <br>
+        <i>Podría extenderme mucho más sobre este tema porque estoy convencida de que tenemos muchas herramientas a la mano para generar cambios, para traccionar esos cambios, pero cierro diciendo que el Estado debería propiciar políticas de comunicación de la ciencia más federales. El centralismo sigue siendo una constante en nuestro país; ferias, eventos que acercan la ciencia a las infancias y a públicos jóvenes se concentran en Buenos Aires. Tenemos un país inmenso, con científicos/as en todo el territorio, pero algunas políticas públicas no cruzan la General Paz. Se requiere revertir estos problemas. Creo que es posible. </i></p>
+        <br>
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Agradecemos enormemente a Silvina Chaves por su tiempo y dedicación a participar de este número de Femiciencia. Llegado el final nos permitimos hacer una infidencia: una de nosotrxs tuvo el privilegio de ser estudiante de la asignatura de Periodismo Científico, a cargo de Silvina. Tenemos que decir que sus observaciones y comentarios de aliento siempre serán guía para el trabajo y continuidad de este proyecto</p> 
+        <p>Si llegaste hasta acá, te agradecemos la lectura atenta. Nos encontramos en la próxima edición y te mandamos un fuerte abrazo 💚</p>
+        <p>Equipo <strong>Femiciencia</strong></p> 
+        <br>
+        <p style="color: #ff6666;">P/D: Hace poco salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. </p>
+        <br>
+        <p style="color: #c989d6;">P/D2: Les recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -renumerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs. 
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>
+
+        <br>
+        <p><Strong>⚠️⚠️ Recordatorio ⚠️⚠️ Sigue habilitada nuestra breve encuesta y nos ayudaría mucho que participes. Queremos seguir creciendo, mejorar y adaptar el newsletter a los distintos públicos que nos leen. Para eso, necesitamos conocerte.
+        <br>¡Tus respuestas son muy valiosas para el proyecto!
+        </Strong></p>
+        <p style="text-align:center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdsdSRrJO76GnL-sxIerUlQF-NZZwG_bL9FU6ueknN914uGcw/viewform" target="_blank" style="color: #8000FF; ">- Link encuesta -</a></p>`
+    },
+    {
+        id: 19,
+        img: "../media/ilustraciones/ilustracion_XVIII.webp",
+        titulo: "La ciencia que no fue",
+        contenido: `<p class="first-child">Hola ¿Cómo estás? Bienvenidx a nuestra última edición del año, en la que vamos a abocarnos a reflexionar sobre “la ciencia que no fue”. <br>
+        <br>Quienes se dedican a la investigación, o estuvieron en contacto con mecanismos de producción y validación del conocimiento, tendrán presente que en general la ciencia que no da resultados "exitosos" no se comunica. Frente a los discursos actuales, que proponen que la productividad del quehacer científico se mida en "papers", no podemos evitar preguntarnos si esa medida no resulta obsoleta frente a lo que realmente significa realizar tareas de investigación científica y los desafíos a los que se enfrentan quienes trabajan en ciencia.<br>
+        
+        <br>Desde Femiciencia no solo entendemos la ciencia desde una visión utilitarista, sino también como una construcción cultural que nos permite avanzar como sociedad hacia un mundo más justo y equitativo. Por eso, para realizar esta entrega socializamos un formulario anónimo, para que de forma abierta el público pudiera contarnos sobre aquellos "fracasos científicos” que no derivaron en resultados "útiles" para ser publicados en repositorios académicos (entiéndase las comillas en tono de ironía).<br>
+        
+        <br>Pero antes de comentar lo que compartieron nuestrxs encuestadxs, queremos contarte sobre las discusiones actuales en comunicación pública de la ciencia, para repensar la forma en la que nos comunicamos. <br>
+        
+        <br>El <i>"giro comunicativo"</i> (Polino & Castelfranchi, 2021) nos habla de un modelo comunicacional en el que la comunicación  se concibe como un proceso integral que se da de forma simultánea a la investigación, y que desempeña roles pedagógicos, informativos, estratégicos, de marketing y políticos.
+        Antes de esta concepción, la comunicación de la ciencia y la tecnología se percibía principalmente como un proceso unidireccional en el que lxs científicxs y expertxs transmitían información al público. Esta comunicación solía ocurrir después de la investigación científica, con el propósito principal de difundir los resultados y conocimientos científicos - ¿te suena?-.<br>
+        El cambio al enfoque del <i>giro comunicativo</i> llevó a una mayor comprensión de la comunicación como un campo de lucha por el reconocimiento, la legitimidad y el poder político en asuntos científicos y tecnológicos.<br>
+        En términos políticos, el <i>"giro comunicativo"</i> en la ciencia y la tecnología implica que la comunicación no solo se utiliza para difundir conocimientos científicos, sino que también se convierte en un medio para influir en la agenda pública, la toma de decisiones y la asignación de recursos.<br>
+        Desde el <i>“giro comunicativo”</i> se destaca la función que tienen los organismos nacionales de ciencia y tecnología en la promoción del acceso a la cultura científica. Esto implica la implementación de acciones y estrategias como la organización de eventos, creación de contenidos y programas científicos para ámbitos mediáticos y educativos. También es central el rol de estos organismos en el diseño e implementación de políticas para el desarrollo de las ciencias en nuestra sociedad.<br>
+        
+        <br>Pero, como mencionamos anteriormente, si bien existe el <i>“giro comunicativo”</i>, aún perdura la comunicación de las ciencias basada en el principio de “transmitir” resultados científicos. <br>
+        En <i>“La noticia sobre ciencia: sesgo hacia la comunicación de los resultados sobre los procesos de la investigación científica”</i> publicado en el año 2021, el biólogo y comunicador de las ciencias, Antonio Mangione, explica que las actividades específicas de la investigación científica no suelen verse reflejadas en el desarrollo de las noticias sobre ciencia. Del trabajo se destaca que las noticias sobre ciencia tienden a enfocarse en los resultados de la investigación científica, dejando de lado los procesos involucrados en la generación de conocimiento científico. También, se propone que las narrativas sobre ciencia incorporen dimensiones desde el punto de vista epistemológico, abordando preguntas, elementos y relatos sobre el origen de las ideas, obstáculos epistemológicos y cuestionamientos a los procesos y abordajes de la ciencia. Además, se sugiere que la comunicación de las ciencias se haga pensada desde el contexto de producción de conocimiento científico, sosteniendo en el tiempo los distintos elementos que constituyen esos procesos (y de paso les contamos, a quienes <i>son nuevxs por aquí, que este marco teórico nos impulsó a crear el proyecto Femiciencia, hace casi tres años</i>). <br>
+
+        </p>
+
+        <hr class="linea-divisoria">
+        <br> 
+        <p><strong>A continuación, compartimos las reflexiones y experiencias de nuestrxs participantes:</strong>
+        <br> 
+
+        <br> 
+        <p><strong>X:</strong><i> “Intenté asociar variables ambientales (mediciones satelitales) a la estacionalidad de una enfermedad infecciosa respiratoria a través de reportes de casos de una base de datos internacional. La idea era explorar la correlación, para luego buscar el mecanismo responsable. Encontré correlación (no causalidad) con un índice poco intuitivo compuesto de varias mediciones, pero no con temperatura/humedad como imaginaba. No pude avanzar más, luego intenté con otra técnica, pero es trabajosa y controvertida. Otro: modelar el efecto de la estructura de contactos en una población en la propagación de una infección. El experto en redes generaba unas redes tan complejas para simular que luego no las pudo sistematizar y no pudimos entender por qué pasaba lo que pasaba. Cada simulación era costosísima computacionalmente y había que hacer miles para tener estadística”</i> (Ecoepidemiología matemática).
+        <br><br>  
+        
+        <p><strong>X:</strong><i> “En mi área de trabajo, donde los experimentos son  ´baratos´ (papel, electricidad y horas de trabajo) todo el tiempo surgen ideas que no prosperan. Alguna vez le dediqué semanas a estudiar una cantidad para estimar eficientemente la ´discordia cuántica´. Resultó al final que la discordia cuántica, que se creía tenía ciertas propiedades útiles, al final no las tenía, y no tenía entonces mucho sentido calcularla. En todo caso, ese trabajo se capitalizó en aprendizaje de técnicas matemáticas que han servido para resolver otros problemas”</i>. (Teoría de la información cuántica).
+        <br><br>  
+        
+        <p><strong>X:</strong><i> “Comencé a trabajar en un laboratorio de cultivos, lamentablemente sola. Comenzamos a tener un sinnúmero de contaminaciones hasta que detectamos que eran las mismas instalaciones las que tenían hongos ambientales, eso me llevó seis meses. Una vez solucionado el problema, me puse manos a la obra para trabajar en un sistema de cultivos celulares que forman estructuras en 3D. Salían hermosos, súper redonditos, pero de un día a otro dejé de lograr formarlos. Me tomó todo 1 año volver a obtenerlos. En todos esos meses intermedios hice ensayo tras ensayo, cambiando parámetros y tratando de descifrar qué era lo que había cambiado. Finalmente, lo identifiqué y ahora por fin me pongo por primera vez a trabajar en mi tesis. La misma se basa en utilizar estas estructuras en 3D como modelo in vitro de tumor avascular. Lo que busco es lograr un tratamiento con nanopartículas que calientan localmente el tumor y desencadenan la muerte de las células que lo componen. Espero lograrlo en el tiempo que me queda”</i>. (Ciencias Biológicas, Química y Física).
+        <br><br>  
+
+        <p><strong>X:</strong><i> “En física teórica de altas energías, mi área de estudio, estamos llenos de procesos y cuentas matemáticas que a priori son útiles pero después resulta o que no lo son o que lo son pero el cálculo matemático es tan complejo que no lo podemos realizar. Nunca es tiempo perdido, pero son pequeños fracasos”</i>. (Física teórica de altas energías).
+        <br><br> 
+        
+        <p><strong>David:</strong><i> “En mi tesis de grado tratamos de identificar 3 especies de ranas, 2 nativas del centro de Argentina y una exótica invasora, todo a través de un proceso molecular utilizando ADN ambiental del agua. El proceso de puesta a punto del protocolo nos llevó tiempo, y al momento de realizar la PCR para la identificación de las ranas (algo parecido a una PCR para un test de COVID pero siendo el objetivo una rana en vez de un virus, y usando agua en vez de mucosa nasal) dos de las tres ranas no dieron resultados debido a lo que creemos hoy en día que fue, en un caso, mal diseño de los primers y en el otro inhibidores de PCR que evitaban que la PCR funcionara correctamente. Para nuestro agrado, a la tercera rana, la invasora, sí fue posible identificarla. De todas formas, los resultados no fueron los esperados, pero creemos que es un avance hacia el desarrollo de una técnica eficaz en nuestro laboratorio, ya que no había antecedentes en la provincia o en el país”</i>. (Ecología - Biología molecular- David De la Cruz - @astrobiodavid).
+        <br><br> 
+
+        <p><strong>X:</strong><i> “El pánico de mi director de publicar algo y revisarlo 100 veces porque si llegábamos a publicar algo y después estaba mal, no podíamos corregirlo, o lo que sea, es todo el tiempo. Arrancamos trabajando con un programa, como no lo creía 100% terminamos haciendo uno nosotros (a veces teniendo que aprender todo yo) y ahí seguimos.
+        <br>¡Y otra cosa que me molesta mucho es no compartir datos ni procesos! Hace ya 1 año y medio que estoy haciendo el mismo trabajo y él cree que eso no es tan importante, que solamente los resultados lo son… no el proceso”. </i>. (Física).
+        <br><br> 
+
+         
+        <p><strong>X:</strong><i> “No me pasó a mí, pero un profesor siempre nos contaba que estaba él y su grupo trabajando en un modelo para vientos estelares o algo así. Que a la semana de estar terminando el paper (les había salido regio el modelo) parece que un grupo de California les ganó de mano y les publicó un modelo para exactamente lo mismo. Me parece que al final no lo publicaron en ningún lado, lo cual es muy triste porque el modelo no era un fracaso, ¡el fracaso fue el timing!”</i>. (Astronomía).
+        <br><br>  
+        
+        <p><strong>Anita:</strong><i> “Estaba desarrollando la tesis de grado en el área de ecotoxicología y queríamos probar el uso de plumas para monitorear contaminantes en ciudades. Para establecer una relación entre la cantidad de contaminante que ingresaba al organismo y lo que llegaba a plumas hicimos un ensayo en bioterio. Fueron 68 días de ir todos los días (a veces hasta dos veces por día) para realizar mediciones, y cuando finalizó el experimento no pudimos medir el contaminante que habíamos agregado al agua de bebida (Plomo) porque hubo una interferencia en la matriz que utilizábamos (sangre y plumas) con el equipo de masas (ICP-MS).  No pudimos responder al objetivo principal del experimento, pero aprendimos muchas otras cosas ✌🏻”</i> (Biología-Ecotoxicología).
+        <br><br>  
+        
+        <p><strong>X:</strong><i>“En mi plan de tesis doctoral se plantearon actividades que partían de una hipótesis. A medida que se fueron dando los resultados, el último objetivo del plan no se pudo cumplir. Así que tuvimos que elegir un camino alternativo. Creo que esto es un clásico…”</i> (Neurobiología).
+        <br><br>  
+
+        <p><strong>X:</strong><i> "Se probaron aceites esenciales en insectos y muchas de esas pruebas no dieron ningún resultado, nada. En pruebas con animales es muy complicado porque hay muchas variables que no se pueden controlar".</i>(Biología y química).
+        <br><br> 
+        
+        <p><strong>X:</strong><i> “En el área en que desarrollo mi tarea de investigación es muy usual encontrar obstáculos para llevar a cabo con éxito una idea inicial. En efecto, hay dos tipos de "fracasos" que suelen sufrirse: 1) propuestas teóricas que, una vez desarrolladas,  están en desacuerdo con resultados experimentales conocidos; 2) cálculos que se detienen por ignorar el modo de continuarlos.
+        En ambos casos, debido a la presión por publicar resultados, los intentos fallidos se dejan de lado para iniciar proyectos más previsibles (*). Algunos de esos intentos nunca se retoman y solo sirven como experiencia para el futuro. Otros se retoman, a veces, mucho tiempo más tarde, cuando las ideas se han aclarado, ya sea por la adquisición de nuevos conocimientos o por la simple elaboración involuntaria del cerebro. De hecho, algunos de mis trabajos con mayor repercusión (medida en citas, si es que esa es una medida válida) siguieron ese camino, es decir, provinieron de reconsideraciones de intentos «fallidos»"</i>. (Física Matemática).<br>
+        <strong>(*)</strong> pssst, al respecto, sobre la problemática de investigar bajo presión para publicar resultados, te recomendamos que leas <a href="https://www.nature.com/articles/d41586-022-04577-5" target="_blank" style="color: #8000FF;">este artículo</a> <i>“Disruptive science has declined”</i>.
+        <br><br> 
+
+        <p><strong>X:</strong><i> “En física experimental se obtienen en general resultados numéricos de sistemas particulares por lo que es más común terminar un paper y que este sea rechazado por los editores de varias revistas hasta que se deja de intentar publicarlo. La dinámica de trabajo hace que, después de varios rechazos, se vuelva más eficiente o motivador continuar con otra línea de investigación o sistema de estudio. También puede ocurrir que el trabajo sea inicialmente aceptado para ser evaluado y que uno o más de los evaluadores lo rechace o exija cambios mayores que son equivalentes a hacer un trabajo nuevo, o bien requieren recuperar insumos y muestras que para ese momento ya no están disponibles”</i>. (Física experimental en materiales aplicados)".
+        <br><br> 
+
+        </p>
+        <br>
+        <hr class="linea-divisoria">
+        <br> 
+        <p>Hasta acá las respuestas de nuestrxs científicxs participantes. Si bien era una encuesta anónima, tenía la opción de identificarse. Sobre este punto, no queremos dejar de mencionar que una participante aclaró que prefería no revelar su identidad para no exponerse a sí misma en su espacio de trabajo. Sería bueno, entonces, aprovechar esta oportunidad para reflexionar en torno a las dinámicas de poder y desigualdades que se dan dentro de las instituciones. Después de todo, nuestras experiencias de género también atraviesan nuestros procesos de investigación científica, y, contar esto, <strong>también es comunicar la ciencia -en contexto-</strong>.
+        <br><br>
+        Para concluir, quisiéramos acercarte algunas reflexiones: 
+        <br><br>
+        Si contamos con evidencia suficiente para considerar que la promoción de la cultura científica no se consigue con una práctica comunicacional resultadista,  ¿no es hora de cuestionar las lógicas de validación del conocimiento hacia adentro del sistema científico? ¿Solo es ciencia lo que publicamos en un paper? 
+        <br><br>
+        Si como científicxs no empezamos a mirar críticamente lo que sucede en nuestro trabajo, no podremos disputar la riqueza de los procesos de la investigación con quienes construyen agendas políticas e informativas. Como lo indica Antonio Mangione (2021, p. 10) <i>“Una ciencia narrada solo sobre la base de resultados es lineal, al mismo tiempo que fragmentaria, ahistórica y desprovista de la riqueza y profundidad que otros elementos como la política, la ética, la filosofía y la historia pueden otorgarle”</i>.
+        <br>
+        </p>
+        <br>
+        <small>
+        Bibliografía
+        <br>
+        Mangione, A. (2021). La noticia sobre ciencia: Sesgo hacia la comunicación de los resultados sobre los procesos de la investigación científica. SciComm Report, 1(1), 1-13.
+        <br>
+        Polino, C., Castelfranchi, Y. (2012). The ‘Communicative Turn’ in Contemporary Techno-science: Latin American Approaches and Global Tendencies. In: Schiele, B., Claessens, M., Shi, S. (eds) Science Communication in the World. Springer, Dordrecht. <a href="https://link.springer.com/chapter/10.1007/978-94-007-4279-6_1" target="_blank" style="color: #8000FF;">https://doi.org/10.1007/978-94-007-4279-6_1</a>
+        <br>
+        </small>
+
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <p>Agradecemos enormemente a quienes participaron contando sus experiencias para esta edición de Femiciencia</p> 
+        <p>Si llegaste hasta acá, te agradecemos la lectura atenta. Nos encontramos en la próxima edición y te mandamos un fuerte abrazo 💚</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+        <p style="color: #ff6666;">P/D: Hace poco salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. Pero este proyecto no termina acá, este miércoles 20/12 estará disponible para descargar en el mismo link su versión para colorear y regalar en estas fiestas 🎄.</p>
+        <br>
+        <p style="color: #c989d6;">P/D2: Les recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -renumerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs. 
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>`
+    },
+    {
+        id: 20,
+        img: "../media/ilustraciones/ilustracion_XIX.webp",
+        titulo: "Ciencia bajo una praxis feminista: desafíos actuales",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo están? Comenzamos el año con muchas ideas y ganas de compartirlas, esperamos que nos sigan acompañando. Ya casi terminando febrero les queremos compartir dos notas en las que participamos este mes, ya que el 11F se conmemoró el Día Internacional de la Mujer y la Niña en la Ciencia. Un día que en el contexto político actual no puede pasar desapercibido, ya que no solo se conmemora a las mujeres que trabajamos en ciencia e invita a niñeces a elegir carreras científicas, sino que además reivindica nuestro papel en la sociedad, a pesar de que hoy en día la ciencia argentina está en la cuerda floja - otra vez - peleando contra el ajuste cruel y desmesurado.<br>
+        
+        <br>Desde la revista sobre cultura digital <a href="https://www.instagram.com/islacyborg_/" target="_blank" style="color: #8000FF;">Isla Cyborg</a> nos invitaron a narrar un poco sobre este día. Ellas nos presentaron así: “Siempre es un buen momento para replantearse el rol de feminidades y disidencias en la ciencia, pero hoy (y desde Argentina) mucho más. Invitamos a Femiciencia a darse una vuelta por la Isla: Un grupo de mujeres investigadoras organizadas que desde 2021 buscan desandar las formas androcéntricas del conocimiento científico”. (Por cierto, ¡estamos cerca de nuestro 3er aniversario!) Les dejamos el link a la nota: <a href="https://islacyborg.com.ar/ciencia-y-genero-democratizar-las-bases-para-narrarnos/" target="_blank" style="color: #8000FF;">CIENCIA Y GÉNERO: DEMOCRATIZAR LAS BASES PARA NARRARNOS</a><br>
+        
+        <br>Por otro lado, una integrante de Femiciencia fue invitada por <a href="https://www.instagram.com/entretantaciencia/" target="_blank" style="color: #8000FF;">Entretantaciencia</a> para contar por qué eligió la carrera científica, qué derechos hemos conquistado y cuáles quedan aún por conquistar. Relatando un poco la historia personal que la trajo hasta el presente, Nabila nos dice: <a href="https://entretantaciencia.com.ar/2024/02/11/11f-nadie-puede-ser-lo-que-no-se-imagina/" target="_blank" style="color: #8000FF;">“NADIE PUEDE SER LO QUE NO SE IMAGINA”</a>. <br>
+        
+        <br>Ya para despedirnos, les recordamos que el año pasado lanzamos el ABC de flora, fauna y funga nativa de Argentina, el cual se encuentra disponible para descarga gratuita en nuestra página web (<a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">www.femiciencia.com</a>) en su versión a color y para colorear. <br>
+        
+        </p>
+
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <p>Si llegaste hasta acá, te agradecemos la lectura atenta. Nos encontramos en la próxima edición y te mandamos un fuerte abrazo 💚</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+        
+        <p style="color: #c989d6;">Les recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -renumerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs. 
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>`
+    },
+    {
+        id: 21,
+        img: "../media/ilustraciones/ilustracion_XX.webp",
+        titulo: "Edición Especial - 24M",
+        contenido: `<p class="first-child">¡Hola, buen martes! Breve antesala de un finde XXL que ojalá todxs puedan disfrutar. Como saben, el 24 de marzo vivimos una nueva conmemoración del Día Nacional de la Memoria por la Verdad y la Justicia, fecha que nos recuerda los trágicos y violentos sucesos que ocurrieron en la última dictadura militar en Argentina, especialmente la desaparición y asesinato de miles de inocentes, algunxs de los cuales aún no sabemos dónde están ni qué pasó con ellxs.<br>
+        
+        <br>Consideramos importante continuar rememorando el pasado de nuestro país, no solo para decir <strong>NUNCA MÁS</strong>, sino también porque aún queda historia por reconstruir, aún existen relatos que no se han escuchado o que han sido omitidos acerca de cómo se vivió aquel terrorismo de Estado que marcó un antes y un después para nuestro país. Es urgente hacerlo en el contexto actual en el que abundan discursos negacionistas que resultan ofensivos y peligrosos, y que lejos de discutir con fundamentos solo consiguen difamar e incitar mensajes de odio. Desde Femiciencia llamamos a contrarrestar estas provocaciones con más información y volviendo a explicar lo que creíamos obvio (y lo seguiremos haciendo las veces que haga falta).<br>
+        
+        <br>Es por eso que en esta edición queremos compartir con ustedes algunas vivencias (hay más, estamos segurxs) de cientificxs que durante la dictadura se vieron obligadxs a exiliarse, desaparecidxs o asesinadxs, una gran pérdida para el crecimiento de nuestra ciencia, sin mencionar el gran dolor que vivieron familiares y amigxs. <br>
+        </p>
+        <br>
+        <p class="preguntas-news"><Strong>¿Qué voces nos faltan en las narrativas sobre el 24M? ¿Dónde están las feminidades cuando hablamos de exilios? </Strong></p>
+        <p>
+        <br><strong>Dora Barrancos:</strong> Perdió su trabajo como socióloga en PAMI y se exilió en Brasil. El viaje se demoró porque para irse del país con sus dos hijas tenía que obtener el permiso legal del padre, ya que existía una patria potestad sumamente patriarcal. Él se negó, así que en 1977 partió solo con su marido e hija más pequeña, ya que confirmó que la estaban persiguiendo. En Belo Horizonte, se contactó con movimientos feministas y sociales que se posicionaban en contra de la dictadura e ingresó al campo de la historiografía, impulsando su militancia.<br>
+        <br>
+
+        <br><strong>Emilia Ferreiro:</strong> Psicóloga, pedagoga y escritora argentina que se exilió por primera vez en 1966, luego de vivir la Noche de los Bastones Largos. En Suiza se doctoró y se convirtió en la primera y única latinoamericana cuya tesis fue dirigida por Jean Piaget. Regresó a Argentina y formó un grupo de investigación íntegramente femenino para indagar acerca de la adquisición del lenguaje en barrios vulnerados, proyecto que suspendió en 1977 para exiliarse nuevamente. El equipo de mujeres se separó, pero aun así continuaron con sus investigaciones desde distintos países.<br>
+        <br>
+
+        <br><strong>Corina Eloísa Ratto:</strong> Matemática, docente investigadora y defensora de los DDHH y de la mujer, presidió la Junta de la Victoria, organización feminista antifascista, y fue fundadora de la Unión Internacional de Mujeres. En 1974 tuvo que exiliarse con su familia tras amenazas de la Triple A. Desde España contribuyó con las víctimas de la dictadura, denunciando sus injusticias. Falleció en 1981 y no pudo volver a Argentina.<br>
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>Desaparecidas y asesinadas</Strong></p>
+        <p><br>El año pasado, el CONICET reconoció a quienes fueron cesanteadxs, exoneradxs, exiliadxs, dadxs de baja y a quienes se les impidió continuar con sus investigaciones en el período de la dictadura, entre ellxs:<br>
+        <br>
+        
+        <br><strong>Alicia Graciela Cardoso:</strong> Trabajó en el Instituto de Astronomía y Física del Espacio, e ingresó al CONICET en 1972 en la carrera de Técnica Asistente, integrante de la Carrera del Personal de Apoyo a la Investigación y Desarrollo. El 29/9/1977 le enviaron un telegrama a la agente Alicia Cardoso intimándola a que se presentase a trabajar, ya que había finalizado hace días su licencia por maternidad. Días después, su padre les informó que  Alicia había sido secuestrada el 25 de agosto por personas desconocidas, ignorando su paradero. El Dr. Haedo Rossi, Interventor del CONICET, procedió a dejarla cesante. Luego se supo que ella y su pareja fueron asesinadxs en José León Suárez y enterradxs como NN en el Cementerio Municipal de Gral. San Martín.<br>
+        <br>
+        
+        <br><strong>Liliana Élida Galletti Bussi:</strong> Profesora de Historia (UNLP), docente y becaria CONICET. Fue docente del Departamento de Historia de FaHCE/UNLP, pero entre 1972 y 1973 solicitó licencia sin goce de sueldo en dicha Facultad para exiliarse en Chile. En 1974 ya estaba de vuelta en Argentina. Militó en el Movimiento de Izquierda Revolucionario Argentino (MIRA), en el Grupo La Plata y finalmente en la fundación PROA. En 1976 integró el núcleo fundador de la Comisión Argentina de Derechos Humanos (CADHU). Liliana fue secuestrada en su domicilio en Capital Federal el día 12 de junio de 1977, por un grupo de personas fuertemente armadas. Fue vista por sobrevivientes en el Centro Clandestino de Detención “Pozo de Banfield”, pero no se supo nada más: sigue desaparecida.<br>
+        <br>
+        
+        <br>Existe una deuda pendiente con las feminidades y aún más con las disidencias víctimas de la dictadura: un vaciamiento de relatos que se ha invisibilizado, relegado a la “esfera privada” o simplemente ignorado por completo. <strong>Ivanna Aguilera</strong>, militante y sobreviviente trans, actualmente coordinadora del Área Trans, Travesti y No Binarie de la FFyH-UNC, tenía 13 años en 1976 cuando fue secuestrada junto con un grupo de compañeras que se estaban iniciando en el trabajo sexual. Fue golpeada, insultada y abusada sexualmente, tras lo cual todas fueron liberadas en un descampado, 72 horas después. Las detenciones y torturas se repitieron con frecuencia. Hoy lucha para obtener justicia e igualdad, ya que aun cuando había vuelto la democracia, la comunidad LGBTIQ+ siguió siendo gravemente discriminada y violentada por edictos policiales que se habían creado en la dictadura.<br>
+        <br>
+        
+        <br>Queda mucha historia por reponer y un gran recorrido por delante para sostener la memoria y evitar que la sociedad subestime los crímenes de lesa humanidad que ocurrieron en nuestro país. Este 24 de marzo, Día Nacional por la Memoria, la Verdad y la Justicia, una vez más ratificamos que: no perdonamos, no olvidamos, no nos reconciliamos. Fueron 30.400 y decimos <strong>Nunca Más</strong>, al terrorismo de Estado y a los crímenes de lesa humanidad. <br>
+        <br>
+        </p>
+
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <p style="color: #c989d6;">Les recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -renumerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs. 
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>`
+    },
+    {
+        id: 22,
+        img: "../media/ilustraciones/ilustracion_XXI.webp",
+        titulo: "Activismos antirracistas para (de)construir la Otredad",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Bienvenidx a un nuevo número de Femiciencia, <strong>activismos antirracistas para (de)construir la Otredad</strong>. Hoy queremos hablar de un tema poco problematizado en ámbitos científicos y académicos: el antirracismo, y más precisamente, el activismo antirracista.<br>
+        
+        <br>Quizás pocas personas sepan que el pasado 21 de marzo se conmemoró el Día Internacional contra el Racismo en memoria de las víctimas de la masacre de Sharpeville, que se manifestaron por el régimen del apartheid en 1960. Seguro algunxs también ignoren que en Argentina, el Día de la Mujer Migrante conmemora el asesinato de Marcelina Meneses y de su bebé Joshua el 10 de enero de 2001.<br>
+        
+        <br>Para la antropóloga argentina <strong>Rita Segato</strong> el racismo puede definirse como "<i>cualquier distinción, exclusión, restricción o preferencia basada en la raza, color, descendencia u origen nacional o étnico que tenga el propósito o el efecto de anular o perjudicar el reconocimiento, gozo o ejercicio en pie de igualdad de los derechos humanos y de las libertades fundamentales</i>". Además, es importante señalar que el racismo se consolida como lenguaje colectivo en el discurso que acompaña nuestra infancia, crecimiento y rituales culturales.<br>
+        
+        <br>Podemos definir el antirracismo como un proyecto de rehumanización que, reconociendo el racismo presente en nuestro sistema de creencias, trabajar activamente en la deconstrucción de la cultura dominante.<br>
+        
+        <br>Pero desmontar los mecanismos de dominación social conlleva el desafío de interpelar uno de nuestros dispositivos centrales: el científico y académico, casa del conocimiento institucionalizado. <i>¿Cuántas racialidades fueron invisibilizadas en la historia del conocimiento? ¿Cómo funciona el racismo en la construcción de la Otredad? ¿Cómo es ser mujer, migrante e investigadora en Argentina?</i><br>
+
+        <br><strong>Victoria Lozano</strong> es docente, universitaria e investigadora. Oriunda de Bogotá D.C. (Colombia) y hace 12 años que eligió Argentina para realizar sus estudios en la Maestría en Estudios Culturales de la Universidad Nacional de Rosario, tras graduarse como Licenciada en Comunicación Social y Periodismo en la Universidad Externado de Colombia. Actual estudiante del Doctorado en Ciencias Sociales de la Universidad Nacional de Buenos Aires, e integrante de la Red Nacional de Mujeres y Disidencias Afrodescendientes, Victoria toma el antirracismo como enfoque para posicionarse frente a la temática de la movilidad urbana y migratoria. <br>
+        </p>
+        <br>
+
+        <hr class="linea-divisoria">
+        <br> 
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XXI/victoria _lozano1.webp" alt="Victoria Lozano" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XXI/victoria _lozano2.webp" alt="Victoria Lozano" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Victoria Lozano</h4>
+        <p><br></p>
+        </div>
+        
+
+        <p class="preguntas-news"><Strong>¿Cómo surgió el interés por centrarte en los estudios de movilidad  y el activismo antirracista?</Strong></p>
+        <p><i>Como docente, universitaria e investigadora me dedico particularmente a los estudios de movilidad urbana. Actualmente, estoy trabajando en el marco de mi tesis doctoral sobre las movilidades escolares en ciudades intermedias. Si bien mi escala de trabajo es la urbana, también entiendo la migración como una escala muchísimo más grande y que es constitutiva de mi vida, ya que nací en Colombia y estoy radicada en Argentina hace 12 años; desde lo experiencial de vivir lo que es convertirse en migrante y entender qué significa afrontar ese movimiento es que el tema migratorio se convirtió en una parte muy importante de mi vida.</i><br>
+        
+        <br><i>En 2014 trabajé para el Ente de la Movilidad de Rosario, a través de una encuesta anual. Me contrataron para el trabajo de relevar cómo la gente en Rosario evaluaba la calidad del sistema de transporte urbano en la ciudad. Durante esa etapa recorrí todos los distritos de Rosario, y eso me llevó a experimentar cómo la gente puede ser muy generosa y también muy violenta.</i><br>
+        
+        <br><i>En 2017 también tuve la oportunidad de viajar becada a la ciudad de San Pablo (Brasil) que en ese año realizaba la escuela de movilidades -SP Mobilities 2017-.  Había movilidad de pie, turismo, migraciones, turismo gastronómico, para mí esa experiencia fue bellísima y me permitió situarme conceptualmente. </i><br>
+        
+        <br><i>Actualmente, mii enfoque dentro de los estudios de movilidad tiene que ver con su análisis social. Lo que yo abordo básicamente tiene que ver con las formas culturales en las que nos desplazamos y cómo eso constituye una dimensión simbólica, material, económica y política que es determinante para las vidas de las personas.  El antirracismo para mí funciona como un enfoque dentro de lo que estudio, no es el tema específico al que yo me dedico como investigadora, pero sí es como una pata transversal. </i><br>
+        
+        <br><i>La forma en la que las miradas acerca de las nociones de raza y de género entran en mi trabajo de investigación tienen que ver con la manera en la que yo, como investigadora, era observada mientras hacía mi trabajo de campo. Comencé a notar cómo el hecho de ser una mujer negra y extranjera en una ciudad como Rosario podía funcionar en muchos casos como un puente que habilitaba a que la gente quisiera contarme cosas, o el efecto contrario, que se cerraran en señal de rechazo. Entonces ahí comencé a analizar también cómo se perciben estas cuestiones de las racialidades en el transporte público en el contexto sociocultural argentino.</i><br>
+
+        <br><i>Todas las cuestiones ligadas a lo negro o a la afrodescendencia también tienen matices o particularidades que son muy distintas a Colombia, y eso tiene que ver con todo este proceso de invisibilización del legado y de la historia africana en la Argentina. Sobre los activismos, estoy inserta en dos patas activas; una tiene que ver con la movilidad, desde ese lugar soy parte de una organización que se llama “Argentina en Bici”, que promueve el ciclismo urbano en las ciudades de Argentina. Además, fomenta la movilidad activa en su sentido más amplio, así que desde ahí también trabajo la perspectiva antirracista, justamente porque también hay que reconocer que <strong>las formas en las que nos movemos por las ciudades son desiguales dependiendo del tono de tu piel, de tu género y de tu clase.</strong></i><br>
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>En el campo de las ciencias sociales, los estudios de la colonialidad de Anibal Quijano son conocidos por retomar la idea de “raza” como mecanismo de dominación social. Pero la pensadora feminista María Lugones fue más allá: postuló la “colonialidad del género” para interpretar el vínculo de dominación existente entre género, raza y capitalismo. ¿Cómo creés que puede describirse esta interseccionalidad cuando también nos asumimos migrantes? Acorde a tu experiencia, ¿cómo se vive esto en América Latina, y más precisamente, en Argentina?</Strong></p>
+        <p><i>La experiencia del racismo o la noción de raza en las personas negras, es primero una experiencia corporizada y luego una experiencia que podemos elaborar, conceptualizar y teorizar, es decir que primero lo vivimos en el cuerpo y después construimos un discurso sobre tal o cual cosa que nos sucedió vinculada a los sistemas políticos, económicos, sociales y culturales que sostienen la ideología del racismo. Durante la niñez o en el transcurso de la vida adulta vivimos situaciones que sabemos que nos pasan únicamente por nuestras pieles o nuestros cuerpos negros, por nuestra cultura negra, pero que es cuando conversamos y compartimos con otras personas o cuando leemos autores y autoras, que el cuestionamiento se elabora y se completa.</i><br>
+        
+        
+        <br><i>En relación con la migración, es otra capa que se superpone en las formas de opresión, porque los distintos casos (los que se visibilizan y los que permanecen ocultos), demuestran que también en los procesos migratorios hay jerarquías, qué lugar nombra tu pasaporte, qué nacionalidad te define y si a eso le sumamos uno u otro color de piel, los desenlaces de las historias pueden ser muy diversos.</i><br>
+        
+        
+        <br><i>La influencia de la interseccionalidad será diferente para una mujer, especialmente si es heterocisgénero, blanca, universitaria, de clase media-alta, en comparación con una mujer marrona o de ascendencia boliviana o una mujer negra africana. Hay un montón de cosas que empiezan a cruzarse y que tienen matices.</i><br>
+        
+        
+        <br><i>Cuando tú me preguntas por cómo puede describirse esta interseccionalidad cuando también nos asumimos migrantes, esto tiene que ver con el hecho de que el moverse de un lugar al otro te despoja a ti de tus referencias más próximas: familiares, políticas, socioculturales, y de vínculos que tienen que ver con los amigos, la familia y el barrio. </i><br>
+        
+        
+        <br><i>Ahí aparece otra variable desde la cual pensarse, porque empiezas a anunciarte  -o por lo menos ese ha sido mi caso- desde otro lugar que dice: “ok, yo no soy de aquí, pero al estar habitando en este lugar también puedo verme permeada por las prácticas, por la comida, por la cultura, por las ideas políticas, aunque también reconociendo que mi origen es otro”. </i><br>
+        
+        
+        <br><i>Por último, mis referencias sobre el abordaje del racismo estructural son Angela Davis, Manuel Zapata Olivella, Mara Viveros,  bell hooks, Djamila Ribeiro, Chimamanda Ngozi y Rita Laura Segato (entre otrxs). </i><br>
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>Durante los últimos años, en Argentina surgieron organizaciones que exponen prácticas racistas y discriminatorias que acontecen en lo cotidiano. No solo hacia personas migrantes, sino también hacia argentinxs marrones y pueblos originarios. Sin embargo, creemos que muchas denuncias y observaciones se centran en la ausencia de visibilidad de estos sectores en los medios de comunicación y entretenimiento. ¿Hay activismos actuales centrados en visibilizar la discriminación racial en espacios académicos y/o educativos? Si no, ¿cuál creés que sería el rol a ocupar?</Strong></p>
+        <p><i>Coincido en que hay organizaciones que exponen prácticas racistas y discriminatorias en la Argentina, y que están haciendo foco sobre argentinos marrones, lo cual me parece muy positivo porque contribuye también a desmitificar esta idea de la nación-blanco-europea.</i><br>
+        
+        
+        <br><i>Es posible que se centren en la ausencia de visibilidad en medios de comunicación y/o entretenimiento, pero yo no coincido en que sea solo eso; quizás eso es lo más visible, pero a mí me parece que el trabajo es mucho más transversal y amplio, por el hecho de que el racismo, como estructura, sistema económico, político, cultural y religioso está presente en todas las estructuras de la sociedad. </i><br>
+        
+        
+        <br><i>Djamila Ribeiro y otras autoras sostienen que por el hecho de ser una persona blanca, ya eres racista. No porque realices prácticas racistas en tu vida, sino porque tu color de piel te ubica en una jerarquía social, cultural y política. Eres racista porque tienes una serie de privilegios, que desde ese lugar te han ubicado en otras posiciones en el mundo. </i><br>
+        
+        
+        <br><i>Entonces -y ahí si vuelvo a la respuesta-  hay luchas que por ahí no están tan organizadas, pero no quiere decir que por eso no se estén dando. Yo soy parte de la Red Nacional de Mujeres y Disidencias Afrodescendientes. En ese sentido, así como hay luchas para visibilizar la discriminación racial, que sabemos que existe y es frecuente y permanente, también están los modos en que se denuncia el extractivismo epistemológico. Hay gente realizando un trabajo superserio y riguroso por introducir la perspectiva antirracista en el Sistema Educativo argentino. Existe una pequeña lucha que parece simbólica, pero es un montón, y es la declaración del Día de los/las y les Afroargentines y la Cultura Afro el 8 de noviembre, en honor a María Remedios del Valle. Además, se ha vuelto a poner el foco en la idea errónea que plantea que las personas afroargentinas no existen, que son invisibles, que estuvieron por allá en una época histórica y ahora no. Cuando la realidad es que el componente migratorio es muy fuerte porque Argentina ha recibido y recibe muchas migraciones africanas. </i><br>
+        
+        
+        <br><i>Académicamente, también creo que como objeto de estudio se ha situado a lo negro y a la afrodescendencia como una otredad que merece ser estudiada. Me parece que ahí hay una cuestión a trabajar, que sería como un poco de autorreflexión. <strong>Los procesos de producción científica en Argentina también son negros, también son afros, también son prietos</strong>. Hay una gran cantidad de profesionales creando y produciendo información, investigando, contribuyendo al Sistema Científico argentino. Por ahí también se tiende a caer en este cliché o en el estereotipo de que solamente nos desempeñamos en áreas culturales o artísticas, pero lo cierto es que cada vez hay más profesionales jóvenes abocados a la tarea de hacer ciencia en la Argentina, y para mí eso es superrico y también nutre mis procesos de enunciación.</i><br>
+        <br>
+        </p>
+
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Hasta acá llegamos con este newsletter, no te pierdas de leer nuestras próximas entregas y de recorrer por nuestra web todas las ediciones anteriores 💚</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+        <p style="color: #ff6666;">P/D: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!</p>
+        <br>
+        <p style="color: #c989d6;">Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>`
+    },
+    {
+        id: 23,
+        img: "../media/ilustraciones/ilustracion_XXII.webp",
+        titulo: "¿Cuántxs somos y cómo estamos? 🏳️‍🌈",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo estás? Bienvenidx a un nuevo número de Femiciencia, edición en la que abordamos la inserción de la población trans y travesti en el ámbito educativo. <br>
+        
+        <br><strong>“¿Cuántxs somos lxs que estamos? Y lxs que estamos, ¿cómo estamos?”</strong>, es el primer relevamiento de población travesti, trans, no binarie e intersex impulsado desde el Área Trans, Travesti y No Binarie de la Facultad de Filosofía y Humanidades de la Universidad Nacional de Córdoba (UNC).<br>
+        
+        <br>Ivanna Aguilera, encargada del Área Trans, dialogó con Femiciencia sobre la accesibilidad y permanencia de las diversidades en el ámbito educativo y ofreció una mirada sobre este primer relevamiento. <br>
+        <br>
+
+        <center>
+        <img src="../media/ilustraciones/XXII/ivanna_aguilera1.webp" alt="Ivana Aguilera" style="max-width: 320px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Ivana Aguilera</h4>
+        </center>
+        
+        <br><strong>Ivanna Aguilera</strong> tiene 64 años. Oriunda de Rosario (Santa Fe), habita la ciudad de Córdoba desde 1984, cuando tomó la decisión de mudarse por una persecución policial encausada en su identidad de género.<br>
+        <br>Ivanna cuenta que su exclusión del sistema educativo inició a sus 9 años, cuando las autoridades escolares notificaron a su hermana mayor que sería expulsada del colegio por su “condición de inmoral”. En esa Rosario de sus inicios, Ivanna también conoció la amistad, habló con la primera mujer trans de su vida y vivenció en carne propia los tiempos oscuros de la última dictadura militar de nuestro país. <br>
+        <br>Su llegada a Córdoba marcó los inicios de una militancia activa por una causa común: “trabajar para que las nuevas generaciones puedan traducir en derechos las conquistas que tenemos”, nos dice Ivanna. <br>
+        </p>
+        <br>
+
+        <hr class="linea-divisoria">
+        <br> 
+        <p class="preguntas-news"><Strong>¿Cómo te presentarías, cuál es tu historia? </Strong></p>
+        <p><i>Mi nombre es Ivanna Aguilera, soy una mujer trans y tengo 64 años, nací en la ciudad de Rosario, provincia de Santa Fe. Desde el año 1984 vivo en la ciudad de Córdoba. Me mudé a Córdoba justamente por mi transexualidad, mi expresión y visualización desde muy niña. Somos seis hermanxs huérfanxs que nos criamos entre nosotrxs. A los 11 años dejé el colegio, no tenía lo que los otros niños tenían y mis hermanos me daban mi formación. </i><br>
+        
+        <br><i>A los 13 años viví en el centro de Rosario y conocí a otra compañerita trans que vivía al frente de mi casa. Nos reconocimos sin saber quiénes éramos realmente. Sabíamos que éramos mujeres, pero teníamos en claro que éramos diferentes. Un día salimos juntas por el centro y vimos a una mujer inmensa, con pelo batido y colorado, maquillada, hermosa, con vestido y piernas largas. Nos identificamos con esa mujer, fue la primera mujer trans que conocimos y de alguna manera, sin decirlo, sabíamos que éramos como ella. Íbamos todas las tardecitas a la esquina a verla y ella se quedaba un rato con nosotras, era trabajadora sexual. Compartíamos un rato y luego nos echaba, porque estaba trabajando. </i><br>
+        
+        <br><i>Una tarde, durante la dictadura cívico-eclesiástico-militar, estábamos hablando con ella y llegó un camión de militares y nos capturaron junto a esta compañera trans adulta mayor. Fuimos detenidas y secuestradas durante tres días en los que sufrimos diferentes tipos de torturas como picana eléctrica, golpizas y, en nuestro caso, el debut sexual con una violación grupal. En ese momento yo tenía 13 años. Pasadas las 72 horas nos sacaron y nos dejaron tiradas a la madrugada en un campo detrás del frigorífico Swift, que se encuentra en las afueras de Rosario. Un hombre que pasaba nos vió y nos recogió. Nos salvamos gracias a este ciudadano que se apiadó de nosotras. Así empezó un motivo de persecución bastante particular en Rosario, no solamente por la dictadura y los militares, sino también por la policía local que me seguía mucho. Me llevaban detenida, pero no a una jefatura o seccional, sino que me capturaban, me desnudaban, me golpeaban y me dejaban tirada siempre en algún descampado. Una especie de “corrección” que yo no entendía bien. Indagando, me enteré de que tenía medio-hermanos en la fuerza que habían dado esa orden, por lo que me fui de Rosario. </i><br>
+        
+        <br><i>Acá en Córdoba la situación no era diferente, porque la persecución policial también era continua, pero no tenía ese plus de ser una caza personal como en Rosario. Vine a Córdoba en el ‘84 huyendo de la violencia institucional. Acá no había ningún tipo de militancia, la población estaba diezmada y con mucho miedo.</i><br>
+    
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>¿Cómo surgió tu interés en la militancia por los derechos de la población travesti-trans-no binarie?</Strong></p>
+        <p><i>En Córdoba sufrimos una persecución constante a través de los edictos policiales con el artículo N° 19 del código de faltas, que era por “vestimenta indebida contraria a la identidad”, con el que se nos detenía y nos daban 90 días de arresto. A eso le aplicaban otro artículo, que era el N° 22 sobre “prostitución”. Pero no era una prostitución cualquiera, sino que era una “prostitución escandalosa”. Entonces, vos eras una “prostituta escandalosa”. </i><br>
+    
+        <br><i>En el año ‘89, casi ‘90, frecuentábamos el único boliche que había para la población de mujeres trans y travestis en Córdoba, porque tampoco teníamos aceptación dentro de los boliches gay que existían en ese momento, había un cartel que decía “se prohíbe la entrada a los varones vestidos de mujer”.</i><br>
+            
+        <br><i>Había un solo boliche llamado “Somos”, y era muy problemático llegar porque la policía te detenía con los artículos, pero siempre estaba lleno. Un día, a fines del ‘89, hicieron una razzia generalizada, pero obviamente quienes quedamos detenidas fuimos las mujeres trans y los dueños. A las mujeres nos apresaron por “prostitución” y a ellos por “facilitación de la prostitución”. </i><br>
+        
+        <br><i>Nosotras nos organizamos, apelamos la sentencia y hubo un juicio que fue muy reconocido en la época: “el juicio de los travestis”, como se llamó acá en Córdoba. La cuestión es que nos dieron 30 días de detención, y ese suceso nos hizo entender que teníamos que hacer algo al respecto.
+        Ahí comencé a viajar a Buenos Aires, a la CORREPI (Coordinadora Contra la Represión Policial e Institucional), para formarme en Derechos Humanos. En los ‘90 creamos la primera organización de diversidad de Córdoba, la Asociación contra la Discriminación Homosexual —porque en los ‘90 no teníamos siglas, sino que todes nos englobábamos en “homosexuales”—. </i><br>
+        
+        <br><i>A partir de esa primera organización, que armamos siendo cinco travas y dos gays, empezamos a reclamar derechos en Córdoba. Así empezó mi militancia por un reclamo claro y contundente, porque yo siempre digo que anteriormente mi visualización y expresión eran mi militancia, pero mi compromiso político, social y personal lo tomé en los ‘90, con la formación de esta organización con la que hicimos un trabajo sumamente importante en Córdoba. </i><br>
+        
+        <br><i>Así inició un camino de militancia. En el ‘98 se llevó adelante el tercer Encuentro Nacional GLTGTB, en ese momento teníamos esas siglas. Acá en Córdoba no teníamos un espacio, pero un compañero gay que estaba en el ámbito universitario consiguió un lugar allí para los talleres y demás. Así fue como conocí la universidad. </i><br>
+        
+        <br><i>Tiempo más tarde, cuando en el año 2016 se llevó adelante una campaña sobre inclusión laboral trans y travesti, presenté un proyecto en la Cámara de Diputados de Buenos Aires junto a la diputada nacional Gabriela Estévez. Se trataba de un proyecto de inclusión laboral trans y travesti, que implicó un trabajo a nivel nacional con todas las organizaciones y que luego se materializó en la actual Ley de Inclusión Laboral Trans y Travesti Diana Sacayán Lohana Berkins.</i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿En qué contexto se crea el Área Trans, Travesti y no Binarie de la FFyH-UNC? ¿Cuáles son sus funciones?</Strong></p>
+        <p><i>Desde el ‘98 tengo un trabajo militante y territorial dentro del espacio universitario, principalmente en ese momento trabajando con los centros de estudiantes amigables para poder poner la voz, mostrarme, expresarme. El ámbito universitario no es muy amigable hoy en día, y en esos años menos que menos. Pero bueno, así empecé con un trabajo militante en diferentes facultades, donde podía. Un trabajo de visualización y de formación, por así decirlo. Siempre fui contenida y abrazada por la Facultad de Filosofía y Humanidades. </i><br>
+        
+        <br><i>Luego de mucho trabajo de campo en el ámbito universitario, fui convocada por la gestión que ingresó en 2016, conformada por Juan Pablo Abratte y la actual decana, Flavia Dezzutto. En ese momento, me dijeron “nosotros entendemos tu reclamo, entendemos lo que vos decís sobre que el saber académico sin el saber territorial y vivencial hace agua. Entonces, ¿qué mejor que fusionar esos dos saberes para llevar adelante un trabajo en conjunto?”. </i><br>
+        
+        <br><i>Con esa invitación se conformó el Área Trans y Travesti, de la que me pusieron al frente para implementar políticas concernientes al colectivo y específicamente a la población trans y travesti, que pudiese estar dentro del ámbito educativo terciario. </i><br>
+        
+        <br><i>Lo que hacemos desde este área es velar para que la ciudadanía universitaria abrace y contenga a esos cuerpos trans y travestis. Primero eso, y después llevamos adelante políticas de acción, como el primer relevamiento sobre identidades dentro del ámbito educativo terciario, para saber cuántos éramos, y conocer nuestras circunstancias. A partir de ahí veríamos que tipo de políticas se podrían llevar adelante para contener el ingreso y permanencia de estudiantes. </i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿Cuáles creés que son las razones por las cuales sigue siendo bajo el porcentaje de personas travesti-trans que comienzan estudios universitarios de grado y aún más de posgrado?</Strong></p>
+        <p><i>El primer gran problema es el laboral; más allá de que el estudio dentro de las universidades nacionales sea “libre y gratuito”, sabemos que no es tan así y que para una persona trans sin trabajo fijo es mucho más complicado. Y segundo, porque la mayoría de la población trans y travesti —sobre todo la femenina— es expulsada del ámbito educativo desde temprana edad, entonces es muy bajo el porcentaje de personas que tienen estudios formales y que llegan al ámbito secundario y después al terciario. Y aquellos que llegan, por una razón u otra tienen un gran problema con la permanencia, porque el ámbito educativo sigue siendo violento. </i><br>
+        
+        <br><i>Entonces, cuando la persona trans llega a sortear esas problemáticas, se encuentra con esa violencia dentro del ámbito educativo, como es la falta de que mínimamente te llamen por tu nombre. En el caso de las mujeres trans, por ejemplo, cuando empiezan a hacer su construcción ya dejan de ser el varón feminizado, esa “mariquita escandalosa” que mal que mal es mariquita, pero sigue siendo varón. Pero cuando la mujer trans hace esa transición y da ese otro paso, que es el de transgredir las normas, y pasa a transformarse y expresarse como un género que en teoría no le corresponde, cambia la expresión y cambia el trato. Esa “mariquita escandalosa”, que tenía una determinada aceptación, ahora es una trava y debe encontrarse con esos mismos compañeros, profesores, no docentes y demás que cambian su manera de comunicarse con ella o le dejan de hablar.</i><br>
+        
+        <br><i>Pasa mucho con las mujeres, ahí también hay una gran deserción. Si vos sos mujer y hacés tu transición a varón tenes más aceptación. Nosotras, en cambio, somos castigadas por nuestra identidad femenina, por ser mujeres. ¿Cómo se nos ocurre? Si vas a una universidad vas a ver que es más común ver varones trans y travestis formados. Pero bueno, ese es el problema: la feminidad, el ser mujer también acarrea una gran problemática. Se nos castiga por ser mujeres, por expresar una identidad femenina.</i><br>
+        
+        <br><i>Entonces ese es el gran problema de los cuerpos dentro del ámbito educativo. Cuando te visualizás te expulsan y, en el caso de que hagas tu transición, te encontrás con que ser trans es un problema y ser mina aún más. </i><br>
+
+        <br><i>El porcentaje actual no es nada, hay una sola científica dentro de Conicet que es trans. No podemos seguir con esto, porque es la política de “lo correcto". “Tenemos una, entonces estamos fantásticos”. No, minga, no estamos “fantásticos” cuando a vos desde niña te quitan todos tus derechos por tu expresión de género, cuando pertenecés a una población que tuvo trabajo gracias a un proyecto de ley, cuando sos ciudadana argentina y sin embargo no podés hacer uso del derecho a la identidad que te otorga la Constitución Nacional.</i><br>
+        
+        <br><i>Nosotrxs tuvimos que trabajar sobre un proyecto y convertirlo en ley para que después esa ley haga cumplir lo que ya estaba establecido en la Constitución Nacional, imaginate qué tan desiguales somos. Es la Constitución y no puedo acceder a mis derechos porque el gran problema es la transexualidad.</i><br>
+        
+        <br><i>Todas queremos trabajar. ¿Sabés por qué todas trabajamos y reclamamos poder hacerlo? Para poder elegir y decidir, nada más. Que mi transexualidad no sea un problema, que una pibita que se exprese como mujer no tenga dificultades en la escuela por hacerlo, que la expresión y la visualización de una persona no sean un limitante que te quite todos tus derechos.</i><br>
+
+        <br><i>Vivimos en una sociedad pacata que se asusta de las personas trans y travestis, pero ¿quiénes consumen a lxs trans y travestis, mi amor? ¿De qué vivimos? ¿Del maná? No, no cae maná, tampoco existe, no cae nada del cielo. Incluso también es una cuestión desde adentro de nuestra casa. En los centros educativos, todavía siguen diciéndole a los pibes “no llores porque sos maricón”.</i><br>
+        
+        <br><i>Es una construcción que empezó hace muchos años, y hace poco —12 años— que tenemos conquistas y estamos trabajando para que estas propicien un futuro mejor. Un futuro que yo no voy a ver y otras compañeras más jóvenes tampoco, pero en algún momento esas conquistas se van a transformar en derechos para que las generaciones venideras puedan hacer uso de su ciudadanía como corresponde, y para que su transexualidad no sea un impedimento para construir una familia y una vida.</i><br>
+        
+        <br><i>El problema es que los ámbitos educativos son expulsivos con los cuerpos trans. Aún si esas personas ingresan al ámbito académico, luego también serán excluidas. Tenemos compañeras trans que tienen título y lo tienen colgadito, porque no se las convoca, no las llaman para cumplir horas, entonces no pueden hacer una carpeta con antecedentes para poder concursar y demás, porque las limita su transexualidad. Eso también es un gran problema desde el ámbito de formación primario hasta el terciario. </i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿Qué políticas socioeducativas podrían proyectarse para que todas las corporalidades e identidades sexogenéricas puedan iniciar y  permanecer en los estudios universitarios plenamente y en ejercicio de sus derechos?</Strong></p>
+        <p><i>Todas las problemáticas que sufrimos la población trans y travesti, sobre todo la femenina, se solucionarían en gran medida con un solo trabajo, con acceso laboral. Lo laboral nos permitiría desarrollarnos en todo lo demás. El trabajo nos va a dar la autonomía que dignifica, y la posibilidad de desarrollarnos. </i><br>
+        
+        <br><i>Con trabajo vamos a poder resolver las problemáticas que tenemos, no el 100% porque vamos a seguir teniendo los conflictos que tienen todos los demás ciudadanos, pero apuntamos primero a tener los mismos derechos y después a renegar de la misma forma en que reniegan todos, todas y todes.</i><br>
+        
+        <center>
+        <img src="../media/ilustraciones/XXII/ivanna_aguilera2.webp" alt="Ivana Aguilera" style="max-width: 320px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Ivana Aguilera</h4>
+        </center>
+        
+        <br><i>“Antes de finalizar la entrevista les digo una cosa” agrega Ivanna: “hoy en día, con 64 años, me encuentro con que algunas cosas parecieran resueltas en mi vida, pero no. Soy un cuerpo viejo que tiene un montón de problemas, tengo que trabajar para que las nuevas generaciones puedan traducir en derechos las conquistas que tenemos, y tengo que trabajar para ver cómo puedo acceder a esos poquitos derechos que tienen lxs demás viejxs en mi país”.</i><br>
+        
+        <br><i>A su edad, Ivanna pudo culminar su formación, se convirtió en madre y abuela. Como ex presa política, fue la primera mujer trans en participar de un juicio por delitos de lesa humanidad en Rosario. Incluso tiene una sentencia de la justicia federal que confirma que la persecución que sufrió durante la última dictadura militar fue producto de su identidad de género. </i><br>
+
+        <br><i>Ivanna reflexiona sobre la situación de las vejeces trans y asegura “las leyes no me abrazan a mí como vieja trans, porque la vejez no está pensada para los cuerpos trans”. Así, quienes logran atravesar la barrera de la corta expectativa de vida de la comunidad —comprendida entre los 35 y 40 años— no sólo deben luchar para que las nuevas generaciones travesti y trans puedan ejercer sus derechos, sino también adentrarse al campo de batalla que implica formar parte de la tercera edad en Argentina. </i><br>
+        
+        <br><i><strong>“Mirá cómo es el batallar continuo de una persona trans y travesti, que ni siquiera siendo vieja puedo descansar. Celebro la vejez, pero esta vieja tiene que seguir luchando para poder acceder a los poquitos derechos que tienen lxs demás. Es un continuo batallar y en la medida que podamos, acá vamos a estar”</strong>, concluye.</i><br>
+        <br>
+        </p>
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Hasta acá llegamos con este newsletter, no te pierdas de leer nuestras próximas entregas y de recorrer por nuestra web todas las ediciones anteriores 💚</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+        <p style="color: #ff6666;">P/D: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!</p>
+        <br>
+        <p style="color: #c989d6;">Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>`
+    }
 ]
 /* FIN array de newsletters */
 
