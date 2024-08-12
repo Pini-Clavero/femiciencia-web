@@ -1674,6 +1674,86 @@ let news = [
         <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
         <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
         <br>¡Toda ayuda es bienvenida! </p>`
+    },
+    {
+        id: 24,
+        img: "../media/ilustraciones/ilustracion_XXIII.webp",
+        titulo: "Migrar es un derecho",
+        contenido: `<p class="first-child">¡Hola! Bienvenidx a una nueva entrega de Femiciencia, “<strong>Migrar es un derecho</strong>”, en esta ocasión queremos compartir con ustedes algunas reflexiones en torno a los movimientos migratorios y qué situaciones de vulnerabilidad se presentan, sobre todo para feminidades y disidencias que optan o se ven obligadxs a hacerlo. <br>
+        
+        <br>Migrar es un derecho humano protegido por nuestra Constitución Nacional y diversos tratados internacionales; sin embargo, en muchas ocasiones las personas migrantes sufren discriminación, racismo y/o xenofobia y no logran tener una vida plena y en condiciones de igualdad. Además, son pocos los países cuyas políticas migratorias contemplan la perspectiva de género, pese a que esto podría ayudar no solo a elaborar estrategias para ofrecer mejores oportunidades a los grupos desfavorecidos, sino también hacer un seguimiento de las condiciones en que esas personas viven y se desarrollan en su actual lugar de residencia.
+        
+        <br>Para hablar sobre el tema que nos convoca, entrevistamos a <strong>Agustina Bordigoni</strong>, Licenciada en Relaciones Internacionales que realizó formaciones de posgrado en migración, género y refugio. Trabajó como periodista en diversos medios y actualmente escribe sobre economía para el diario Perfil. También creó su <a href="https://aldea-global.com/" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank">propia página web sobre migraciones</a> y el documental <i>“La salud de las que cuidan. Historias de mujeres migrantes”</i> que relata la vida de mujeres migrantes que se dedican al cuidado de otras personas. <br>
+        <br>
+
+        <center>
+        <img src="../media/ilustraciones/XXIII/agustina_bordigoni1.webp" alt="Agustina Bordigoni" style="max-width: 320px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Agustina Bordigoni</h4>
+        </center>
+        
+        <p>
+        <br><strong>Agustina Bordigoni</strong> nació en Tandil, Buenos Aires, y su vida está atravesada por la migración; primero, de sus ancestros, que –como muchxs argentinxs– llegaron al país por la Primera Guerra Mundial. Después por sus padres, y finalmente por su propio proceso migratorio. Actualmente, vive en la Ciudad de San Luis. 
+        <br>Su papá nació en Avellaneda, Buenos Aires, y su mamá era de Tandil, donde se conocieron y hacia donde él decidió migrar por amor. Según Agustina, la migración tiene múltiples causas y tantas razones como personas que migran. Solemos hablar de migración como un proceso forzoso (por una guerra, una crisis, por persecución, por el cambio climático), pero a veces olvidamos motivos como el amor. Para ella, entender que la migración es un proceso que nos atraviesa –pero no nos define– nos acerca más a ese costado humano que nunca deberíamos perder de vista cuando hablamos de estos temas. 
+        <br>Su interés por escribir sobre migraciones surgió por primera vez con Aylan Kurdi, el niño que apareció en las costas de Turquía en 2015 y que conmovió a muchas personas. En ese momento, Agustina recuerda que todos hablaban de “la humanidad que trajo la marea”. A ella, en cambio, le pareció una de las peores muestras de una pérdida de humanidad que se va acentuando con el tiempo. Esa fue la primera vez que escribió para un medio de comunicación.
+        <br><i>“Lamentablemente, la marea se volvió a llevar a Aylan. Los medios se olvidaron del tema, pasaron unos días y poco se hablaba ya de las vidas perdidas en el Mediterráneo. Dos años después empecé a escribir de manera más permanente para una revista. Una de las primeras notas que hice fue el relato de diez conflictos mundiales explicados a través de diez dibujos de niños que tuvieron que dejar sus países de origen. Investigar sobre esas realidades de las que tuvieron que huir, sobre las vulneraciones de derechos en el trayecto y en los países de destino, me despertó la necesidad de perfeccionarme en eso”</i>, dice Agustina.
+        </p>
+        <br>
+
+        <hr class="linea-divisoria">
+        <br> 
+        <p class="preguntas-news"><Strong>Hay mucha producción académica que refiere a la población migrante como una comunidad expuesta a mayor vulnerabilidad. ¿Cómo creés que esta situación afecta a mujeres, disidencias e infancias?</Strong></p>
+        <p><i>Las niñas y los niños representan el 30% de la población mundial, pero son el 40% de las personas desplazadas por la fuerza. Y las mujeres son cada vez más protagonistas de estos procesos. Esto último se conoce, en términos académicos, como “feminización” de las migraciones. Claro que tiene que ver con múltiples razones: una de ellas es que antes eran los hombres los que salían de su casa para buscar un trabajo en otro lugar con la idea de juntar dinero suficiente para traer al resto de su familia. Hoy muchas mujeres son las que inician ese camino solas. </i><br>
+        
+        <br><i>En Argentina, por ejemplo, según el último censo, son el 54,9% del total. En parte esto tiene que ver con un avance positivo en el rol de las mujeres. Pero también con otra cuestión: las cadenas globales de cuidados. En países ricos las mujeres que pueden salir a trabajar necesitan de alguna persona que se ocupe de las tareas del hogar (que antes hacían ellas) y que terminan haciendo otras mujeres, muchas de ellas migrantes. La vulneración, en este caso, está ligada a la precariedad de estos trabajos, y a la sobrecalificación de las mujeres que los realizan.</i><br>
+        
+        <br><i>En el caso de las infancias, una de las principales vulneraciones pasa por la separación de sus familias. Lo vimos en los Estados Unidos, con esos centros de detención que había instalado Donald Trump, pero también lo vemos en aquellos que cruzan el tapón del Darién que divide Panamá y Colombia y que lo hacen a pie, o en aquellos que cruzan el océano en embarcaciones precarias. No se trata solamente del peligro que eso implica para ellos y sus familias; la pregunta que cabe hacerse en este caso es qué pasa con derechos como el acceso a la educación para un niño o niña que hace este recorrido y termina luego en un campamento de refugiados.</i><br>
+        
+        <br><i>Miles de personas migran en el mundo a causa de su orientación o identidad sexual, y otras tantas son maltratadas en los lugares de tránsito o destino. Uno de los casos más conocidos fue el de Johanna, una mujer trans migrante de El Salvador, que fue detenida por migrar irregularmente a los Estados Unidos y enviada a un centro de detención de hombres, en el que fue abusada sexualmente. Su caso no es el único, pero se hizo notorio porque más de 100 organizaciones lo denunciaron en 2014. </i><br>
+    
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>¿Qué implicancias tiene el “derecho a migrar”? ¿Implica para los Estados la responsabilidad de garantizar políticas públicas que protejan los derechos de estas comunidades? </Strong></p>
+        <p><i>Creo que antes de hablar del derecho a migrar tenemos que hablar del derecho a no migrar. Que la migración sea una decisión libre debería ser la primera obligación a cumplir por un Estado: para eso no deberían existir conflictos bélicos, corrupción, cambio climático y tantos otros motivos que obligan a una persona a dejar su lugar de origen. Después, la migración está presente en diferentes instrumentos internacionales, pero en ninguno está reconocido claramente como un derecho. Uno de los principales es el Pacto para una Migración Ordenada, Segura y Regular, que compromete a los Estados parte a cumplir con esos tres requisitos. El problema de esto es que la política migratoria sigue siendo una facultad exclusiva de los gobiernos nacionales, que en muchos casos violan los acuerdos que ellos mismos firmaron. La legislación argentina reconoce a la migración como un derecho, y otorga las mismas garantías a las personas nacidas en el país que a las que nacieron en otro lugar. Pero siempre existieron diferencias en la práctica. Creo que esto tiene que ver con una división desde la cual parte nuestro pensamiento sobre el mundo: “ellos” y “nosotros”. Por eso es necesario insistir en esto: todos nacimos dentro de un Estado-nación cuya existencia es muy posterior a los movimientos de los humanos. El ser humano migra desde el comienzo de los tiempos, los países fueron creados mucho después. Sin embargo, vemos a las fronteras (una creación artificial) como naturales, y a las migraciones como el problema.</i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿Creés que existen intersecciones en la discriminación por migración?</Strong></p>
+        <p><i>Como en toda vulneración de derechos, la interseccionalidad juega un rol importante. No es lo mismo ser un hombre migrante que una mujer migrante e indígena, por ejemplo. Cada uno de estos factores se interrelacionan y se convierten en una vulneración específica de derechos. Lo importante es saber que no se trata de personas vulnerables sino de derechos vulnerados. En esos términos, las culpas recaen sobre quienes tienen que recaer y evitamos encasillar a las personas como vulnerables.</i><br>
+        
+        <br><i>En Argentina se da particularmente otro fenómeno: hay una visión diferente del migrante europeo que del regional. El primero es visto con buenos ojos, en cambio, el migrante de la región –que es la migración que más creció en las últimas décadas– no es considerado de la misma manera, y es quien más vulneración de derechos sufre. </i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>Sabemos que los procesos migratorios en Argentina son históricos. Podemos hablar de la “fuga de cerebros”, comprendida entre los años 1980 y 2000 o el exilio forzado durante las dictaduras militares. Actualmente, creemos que se asiste a un nuevo proceso por el que las personas deciden dejar Argentina en búsqueda de nuevas oportunidades laborales. ¿Cuáles creés que sean los factores determinantes? ¿Qué sensaciones atraviesan las personas que encarnan estos procesos migratorios? </Strong></p>
+        <p><i>Como dije antes, la migración tiene múltiples causas. Una puede ser la económica, pero, aunque en algunos casos sea la principal, por lo general no es la única. Existen diferentes motivos que seguramente influyen en tomar esa decisión (que a veces puede ser libre y en otros casos no, aunque creo que la diferencia es muy difusa) de dejar el país o ciudad de origen y sobre cuál será el destino. </i><br>
+        
+        <br><i>Es difícil hablar de las sensaciones que atraviesan las personas que inician un proceso migratorio, porque creo que todos podemos vivirlo de manera diferente. Lo que puede influir son las causas y la forma en la que se produce esta migración: si es obligada, no se puede planificar, y el camino fue difícil, claramente el proceso será más traumático. En todos los casos, afirman los profesionales que estudian el tema, la migración supone un duelo por el desarraigo.</i><br>
+        
+        <br><i>Todos necesitamos pertenecer, aunque sea a esas fronteras artificiales dentro de las que nacimos. Por eso creamos costumbres que nos identifican, que nos unen. Migrar es un poco perder ese hábitat que se nos hace natural y que nos pertenece. El cómo se lleve ese proceso depende de la experiencia y el camino de cada persona. </i><br>
+        
+        <br><i>En mi caso, cada vez que vuelvo a Tandil, siento que es un poco mi lugar en el mundo. Es complicado de explicar, pero hasta el aire que se respira parece distinto. </i><br>
+
+        <br><i>Sin embargo, esa es mi sensación personal. Que alguien se sienta identificado con mis palabras no haría más que confirmar que somos humanos, más parecidos de lo que pensamos, aunque también –y afortunadamente– lo suficientemente diferentes para darle a este mundo la diversidad que necesita. Y cuán importante es la migración en esa diversidad que somos y con la que convivimos: la música, la comida, la literatura, la vida misma se ve enriquecida por esos viajes que nos preceden.</i><br>
+        <br>
+        </p>
+
+        
+        <center>
+        <img src="../media/ilustraciones/XXIII/agustina_bordigoni2.webp" alt="Agustina Bordigoni" style="max-width: 320px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Agustina Bordigoni</h4>
+        </center>
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Hasta acá llegamos con este newsletter, no te pierdas de leer nuestras próximas entregas, y están invitadxs a recorrer nuestra web para leer todas las ediciones anteriores. Si conocés a alguien a quien le pueda interesar nuestro contenido, ¡compartile el dato! 💚</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+        <p style="color: #ff6666;">P/D: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!</p>
+        <br>
+        <p style="color: #c989d6;">Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
+        <br>¡Toda ayuda es bienvenida! </p>`
     }
 ]
 /* FIN array de newsletters */
