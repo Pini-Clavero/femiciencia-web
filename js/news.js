@@ -1754,6 +1754,95 @@ let news = [
         <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
         <br>Si querés, nos podés invitar un “<a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">cafecito</a>” o ahora también sumamos links de Mercado Pago para lxs que deseen seguir bancando el proyecto: <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/11ec2768-3f08-42f9-b82a-6f0fda87b719/review/?source=link&preference-id=197963787-27b0bc0b-6a74-4063-9553-5f1fd342b271&sniffing-rollout=sniffing-api&router-request-id=cef97608-6606-44f6-91e6-84a22a29fb8f&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $200</a> - <a href="https://www.mercadopago.com.ar/checkout/v1/payment/redirect/f0d39822-bf23-45da-a12e-2d72cb288891/review/?source=link&preference-id=197963787-2bb6b35e-69cd-498d-be7c-514f66ea643b&sniffing-rollout=sniffing-api&router-request-id=1c3032a8-8e72-489f-b00e-1b546f7a39a2&p=1959ec8807482dec9b17ac5e570ee595" target="_blank" style="color: #8000FF;">Hacé clic y colaborá con $500</a>.
         <br>¡Toda ayuda es bienvenida! </p>`
+    },
+    {
+        id: 25,
+        img: "../media/ilustraciones/ilustracion_XXIV.webp",
+        titulo: "Energía nuclear y mes de la Cultura Científica",
+        contenido: `<p class="first-child">¡Hola! Nos reencontramos de nuevo por aquí para acercarles una nueva edición, esta vez acerca de la ingeniería nuclear. Pero primero, un recordatorio: ¿sabían que estamos en el <strong>mes de la cultura científica</strong>? Se celebra cada 28 de septiembre como una forma de visibilización acerca de la importancia de la cultura científica y el trabajo diario que realizan las personas dedicadas a la comunicación pública de la ciencia y el periodismo científico.<br>
+        
+        <br>Cuando hablamos de cultura científica, no solo nos referimos a las prácticas profesionales de las personas involucradas en el sector científico, sino a su vinculación con la sociedad. Invocamos una práctica que, a través de actividades como la comunicación pública de la ciencia y la divulgación científica, busca interpelar a la ciudadanía para consolidar e incrementar su vínculo con la actividad científica y tecnológica.<br> 
+        
+        <br>Pero la ardua tarea de movilizar a los públicos no solo está comprendida por científicxs y periodistas. Como en todo trabajo de relevancia pública, existe una politicidad que es inherente a la actividad científica, que implica discusiones colectivas sobre significados que pueden estar en disputa, y que son cruciales para las orientaciones estratégicas de la política científica. Esto también alude de forma directa a la relevancia que los Estados otorgan al desarrollo de su sistema científico.<br>
+
+        <br>Sí, sabemos que quizás no son tiempos ideales para festejar porque el ámbito científico y de investigación está siendo particularmente desfinanciado y vulnerado. Sin embargo, creemos que no debemos dejar que esos discursos se instalen en la sociedad. Al contrario, debemos fortalecer lazos con la comunidad para dialogar y comprender qué es eso que llamamos ciencia y qué implicancias tiene en nuestra vida diaria, así como también conocer cómo se desarrollan las investigaciones científicas, en qué contexto y cómo se respaldan sus conclusiones <a href="https://www.instagram.com/p/C_lJjVMxj2o/" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank">(que nunca son definitivas)</a>.<br>
+        
+        <br>¿Así que la ciencia es importante para nuestras vidas? Bien, <strong>que lo demuestre</strong>. Solo a través de un acceso democrático al conocimiento y la visibilización de la importancia del desarrollo de la ciencia y su impacto en nuestras vidas podemos aspirar a que juntxs (entre toda la comunidad en general, cientificxs, periodistas y personas dedicadas a la comunicación pública de la ciencia) podamos proteger e incentivar una construcción colectiva del conocimiento.  ¡Celebremos nuestro trabajo y llenémonos de fuerzas para continuar!<br>
+        <br>
+        <hr class="linea-divisoria">
+        <br> 
+
+        <p><strong>Ahora sí, conozcamos a la entrevistada de esta ocasión, Julieta Romero <a href="https://www.instagram.com/jdragones/" style="color:#007c89;font-weight:normal;text-decoration:underline" target="_blank">@jdragones</a></strong>.<br>
+
+        <br>Ella es ingeniera nuclear y hace tres años que trabaja en la Asociación Mundial de Operadores Nucleares como analista de datos en el área de análisis de desempeño (<i>Performance Analysis</i>) en París, Francia. Durante más de 10 años trabajó en Nucleoeléctrica Argentina S.A, en el área de Regulaciones Nucleares, Seguridad y Salvaguardias, que involucra todos los aspectos a tener en cuenta para que la Central Nuclear funcione de forma segura y confiable.  
+        <br>
+        <br>Nació en Quilmes (Buenos Aires) pero a los nueve años se mudó a Bariloche. De chica no tenía muy claro qué hacer de su vida, le gustaban muchas cosas, en particular la ciencia y el arte. Finalmente, gracias a referentes como Karen Hallberg y profesorxs de su colegio, se inclinó por la  Licenciatura en Física en el Instituto Balseiro. El Instituto está en Bariloche y ofrecía becas completas, representando un alivio importante para la familia. 
+        <br>
+        <br>Para rendir el ingreso al Instituto, uno de los requisitos previos era tener cursados y aprobados los dos primeros años de física o alguna ingeniería en otra universidad. Fue entonces cuando se anotó en Ingeniería Mecánica en la Universidad Nacional del Comahue, y ahí fue donde se enamoró de la ingeniería (¡que no conocía para nada!).  Una vez rendido y aprobado el ingreso, conoció un poco más sobre la carrera de ingeniería nuclear, que también se encontraba en el Balseiro, le fascinó la mezcla entre física e ingeniería y solicitó el cambio de carrera.
+        </p>
+        <br>
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XXIV/julieta_romero1.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XXIV/julieta_romero2.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Julieta Romero</h4>
+        <p></p>
+        </div>
+        
+        <br> 
+        <p class="preguntas-news"><Strong>¿Cuál fue tu experiencia personal al desarrollar una carrera como ingeniera en un área histórica y mayoritariamente habitada por varones?</Strong></p>
+        <p><i>Esta respuesta va cambiando a medida que avanzo en la carrera, y creo que se debe a dos factores:</i><br>
+        
+        <br><i><strong>1) El cambio de paradigma en la sociedad.</strong> Cuando empecé a trabajar, recién salida de la carrera (2011), la historia era distinta. Hay que pensar que durante un tiempo no hubo recambio generacional porque no había gente interesada en estudiar ingeniería nuclear luego de Chernobyl, creando un “gap” de edad fuerte en la industria. Esto derivó en un “envejecimiento” del área de la ingeniería nuclear, que llevó a tener colegas con más de 20 años de diferencia, con otros códigos. Aún había muchas actitudes, machismos y micromachismos, que estaban presentes y con un gran nivel de impunidad. Tratar a las mujeres de secretarias, que ellas escriban la minuta, no considerar la opinión/idea de una colega mujer o atribuírsela como propia son algunos de los ejemplos que evoco de mis primeros años. Esto cambió a medida que fue pasando el tiempo y hubo más recambio. Si bien algunas diferencias persisten, hoy los colegas están más aggiornados y entienden cuando planteamos que tal o cual actitud está fuera de lugar. Hoy la sociedad en general es más consciente de estos actos.</i><br>
+        
+        <br><i><strong>2) La adquisición de experiencia y posicionamiento en el lugar de trabajo.</strong> Creo que todas hemos sufrido, en mayor o menor medida, el síndrome del impostor: que no estoy lista para la responsabilidad que me dan, que seguro alguien lo hace mejor… Me parece que nos pega más fuerte a las mujeres, y más aún (lógico) al principio de la carrera. Recuerdo que alguien escribió algo así como “Dios, dame la autoconfianza de un hombre blanco mediocre”, y no puedo más que coincidir. Acá el entorno es fundamental: si tenés mentoras (o por qué no, mentores) que te den su voto de confianza, y que te avisen cuando estás “razonando fuera del recipiente”, inevitablemente vas a construir esa autoconfianza que tanto cuesta al principio. Una vez que se construye esa base, todo fluye mejor. Por eso, creo yo, es muy importante que más mujeres estén en posiciones de liderazgo: no solo porque son capaces, sino también porque más mujeres se pueden ver reflejadas en estas líderes.</i><br>
+        
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>Como divulgadora y comunicadora científica, ¿creés que es posible contribuir a que más niñas y jóvenes se adentren a los estudios de ingeniería? </Strong></p>
+        <p><i>¡Espero que sí! He tenido conversaciones con jóvenes interesadas en el área que se decidieron a estudiar ingeniería nuclear, o que se animaron a la ciencia en general, en parte gracias a la difusión que hago sobre estos temas. Es increíblemente satisfactorio sentir que mi amor por la ciencia es un factor multiplicador. Hay lugar para todas ellas en las áreas STEM (Ciencia, tecnología, ingeniería, matemáticas), ¡mientras más seamos, mejor!</i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿Cuándo surgieron tus intereses por la comunicación científica y las artes plásticas? ¿Creés que hay prejuicios -dentro y fuera de la comunidad de especialistas- sobre las actividades que debería desempeñar una ingeniera nuclear?</Strong></p>
+        <p><i>El arte siempre estuvo presente en mi vida: siempre me gustó dibujar, crear mis propios mundos. Ilustrar me ayudó a atravesar mi carrera también sin perder el eje: era mi cable a tierra. </i><br>
+        
+        <br><i>La divulgación surgió como una forma de explicarle a mi entorno qué estaba estudiando yo. Mi mamá es maestra jardinera y creo que de ella heredé la didáctica. Al ser ella y mis amistades mi público principal, explicar en palabras simples conceptos complejos me resultaba un desafío fascinante y divertido, y siempre tenía un papel a mano para ilustrar mis palabras. Un día me dije: ¿por qué no hacer un video con dibujos simples para explicar lo que siempre explico? Y ahí empezó todo. </i><br>
+        
+        <br><i>No tuvo intención de ser algo constante, mi vida se caracteriza por ser una serie de etapas desordenadas (ilustrar, cantar, bailar, escalar, coser, ¡hasta retapizar un sillón!). Por ejemplo, ahora desde hace tiempo que no publico videos explicativos porque estoy muy involucrada en una iniciativa que se llama “Nuclear for Climate”, donde soy Jefa de Comunicación. La idea de esta iniciativa es compartir información y abogar por el uso de la energía nuclear como parte de la solución al cambio climático, junto con las energías renovables. </i><br>
+        
+        <br><i>En cuanto a los prejuicios: puede ser que haya una idea de que la gente que es muy técnica es muy “cuadrada”. La realidad es que hay de todo: cuando te adentrás en los mundos interiores de mis colegas te encontrás con que hacen todo tipo de actividades por fuera de lo técnico: gente que toca el saxofón en una banda, bailarines de break-dance, fotógrafos semi profesionales… la lista es larga. </i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿Cuál es tu mirada sobre la actual inversión en ciencia y tecnología? En la actualidad, sabemos que la Comisión Nacional de Tecnología Atómica tiene tres proyectos en proceso de construcción: el Reactor argentino CAREM, el Reactor multipropósito RA-10 y el Centro Argentino Protonterapia  ¿Cuáles creés que sean las proyecciones futuras de estas iniciativas? </Strong></p>
+        <p><i>Actualmente la situación es muy preocupante. La pobrísima inversión en ciencia y tecnología actual conlleva un problema ahora y uno a futuro: ahora, que se pierdan recursos por tener condiciones laborales mucho más favorables en el exterior. A futuro, que baje la cantidad y calidad de profesionales que trabajarán cuando los actuales ya no puedan hacerlo. Tenemos en Argentina gente altamente calificada, de una educación técnica espectacular y con una capacidad de afrontar dificultades que el resto del mundo considera extraordinaria. Me apena pensar que ese legado está en peligro.</i><br>
+        
+        <br><i>Mi magra esperanza es que al menos no detengan estos proyectos que están actualmente en construcción, porque además de ser redituables y que nos posicionan estratégicamente a muy alto nivel, representan una cantidad de conocimiento adquirido valiosísima para nuestro país.</i><br>
+        <br>
+        </p>
+
+        
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XXIV/julieta_romero3.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XXIV/julieta_romero4.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Julieta Romero</h4>
+        <p><br></p>
+        </div>
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Hasta acá llegamos con este newsletter, no te pierdas de leer nuestras próximas entregas, y están invitadxs a recorrer nuestra web para leer todas las ediciones anteriores. Si conocés a alguien a quien le pueda interesar nuestro contenido, ¡compartile el dato! 💚</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #ff6666;">P/D2: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
+        </p>`
     }
 ]
 /* FIN array de newsletters */
