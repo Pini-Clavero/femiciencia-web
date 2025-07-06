@@ -1843,6 +1843,107 @@ let news = [
         <br>
         <p style="color: #ff6666;">P/D2: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
         </p>`
+    },
+    {
+        id: 26,
+        img: "../media/ilustraciones/ilustracion_XXV.webp",
+        titulo: "Energías nucleares (y las últimas del 2024)",
+        contenido: `<p class="first-child">¡Hola! ¿Cómo están terminando el año? Por aquí nos faltan y sobran energías; faltan porque desde diciembre pasado la situación sociopolítica de Argentina nos mantuvo en vilo constantemente (nunca mantenerse al tanto de la actualidad nos dejó tan agotadxs y agobiadxs); a la vez, aun sobran energías: el mismo avasallaje sobre nuestros derechos y oportunidades nos lleva a seguir insistiendo en una revisión constante de lo que está ocurriendo, sobre todo en materia de género, y mantenernos alerta respecto a los derechos que debemos resguardar. <br>
+        
+        <br>Y hablando de energías —o de cómo manejarlas sin colapsar—, decidimos ir al núcleo del asunto, literalmente. Por eso, entrevistamos a Adriana Serquis, doctora en Física del Instituto Balseiro, investigadora principal del CONICET y ex presidenta de la Comisión Nacional de Energía Atómica (CNEA) durante el período 2021-2024, para continuar hablando sobre energía nuclear, su relación con la sostenibilidad y cambio climático, y la situación del desarrollo nuclear en nuestro país. <br> 
+        
+        <br>Desde muy chica, Adriana se interesó por  jugar con experimentos y tratar de descubrir cómo funcionaba el mundo. Cuando llegó a la secundaria supo que existía algo llamado física que le permitía estudiar todo tipo de fenómenos. A partir de sus ganas de aprender también descubrió que los problemas relacionados con la energía siempre le apasionaron y le gustaba pensar en las aplicaciones tecnológicas. No quería una ciencia motivada por la curiosidad de resolver el <strong>qué</strong> o el <strong>por qué</strong>, quería una ciencia para problematizar <strong>para qué</strong> o <strong>cómo</strong>.<br>
+
+        <br>En la universidad supo que, para poder resolver ciertos problemas tecnológicos, “un área enorme y muy divertida” era la Ciencia de Materiales, y desde allí se dedicó a aprender muchas técnicas complementarias que permitieran trabajar con distintos fenómenos a diferentes escalas, como el área de la nanociencia y la nanotecnología, donde hoy tiene una amplia trayectoria de investigación.<br>
+        
+        <br>
+        <hr class="linea-divisoria">
+        <br> 
+        
+        <br> 
+        <p class="preguntas-news"><Strong>Cuando asumiste como presidenta de la CNEA se destacó desde un principio el hecho de que fueras la tercera mujer que presidía el organismo desde su creación.
+        <br>¿Cuál fue tu experiencia personal al desarrollar una carrera como física en un área histórica y mayoritariamente habitada por varones?</Strong></p>
+        
+        <p><i>Quisiera desmitificar que en las carreras como Física hay pocas mujeres, ya que en muchos lugares del país como en la Universidad de Buenos Aires o de La Plata o de Córdoba en la carrera de Física hay aproximadamente un poco más de un 40% de mujeres.  No ocurre lo mismo en otros lugares del país y probablemente Bariloche sea también un caso claro de muy pocas mujeres. Es cierto que ciertos laboratorios o talleres donde hay tareas más tecnológicas con una mayor cantidad de ingenieros terminan siendo una zona más habitada por varones.</i><br>
+        
+        <br><i>De todas maneras, usualmente hay que estar demostrando todo el tiempo que sos mejor o que podés hacer las cosas, explicar que no necesitás que te expliquen cómo usar herramientas, que no somos las secretarias, que no queremos comentarios o chistes ofensivos, ni comentarios acerca de nuestra forma de vestirnos. Esas situaciones a algunas nos pesan más o menos que a otras, pero, aunque muchas lo nieguen, hace que nuestra carrera tenga más obstáculos. </i><br>
+        
+        <br><i>También en los momentos de querer o no tener hijxs somos cuestionadas, o las tareas de cuidado hacen más compleja la dedicación que querríamos tener en nuestro desarrollo profesional. No conozco a ningún padre varón al que las docentes de un jardín de infancias le pregunten con quién se quedan les niñes si tiene que viajar por razones laborales. </i><br>
+
+        <br><i>Por otro lado, cuando estás en una posición de mayor jerarquía, es simplemente una mayor responsabilidad, y resulta difícil explicar que no es necesario un perfil autoritario machista y que armar equipos de trabajo buscando consensos no es un rasgo de debilidad, o que habilitar las diferentes opiniones no implica que estás concediendo a otros ser ofensivos (como no se animarían a serlo frente a una autoridad “masculina”).</i><br>
+        
+        <br>
+        </p>
+        <p class="preguntas-news"><Strong>Durante tu gestión, ¿qué protocolos o medidas conseguiste institucionalizar para mejorar las condiciones de trabajo y la inclusión de mujeres y disidencias sexo-genéricas en el área? ¿Qué medidas creés que es necesario implementar aún en pos de la igualdad de género?</Strong></p>
+        <p><i>La tarea de lograr espacios de trabajo libres de violencia y de acoso es una larga tarea que requiere un cambio cultural y no se logra por conseguir simplemente emitir resoluciones como autoridad de un organismo. Sin embargo, creo que es necesario implementar protocolos que al menos puedan servir de referencia o de paraguas ante ciertas situaciones. En un lugar de trabajo como la CNEA conviven personas que dependen de diferentes instituciones y este tipo de tareas es más complejo. Aun así se logró crear el “Departamento de Mujeres, Géneros, Diversidad e Inclusión Laboral” y también aprobar un protocolo (en cuya reglamentación todavía no se avanzó lo suficiente).</i><br>
+
+        <br><i>Al mismo tiempo, empezamos a dar el ejemplo de contratar personas pertenecientes al Cupo Trans en el sector de Presidencia, para poder cumplir con la Ley. También se promovió que más cantidad de mujeres pudieran acceder a lugares de poder o a cargos jerárquicos: cuando yo asumí el cargo de presidenta, había 24 hombres (todos hombres) en el primer nivel de apertura de la institución; cuando dejé el cargo, como modificamos el organigrama, había 13 lugares con paridad de género en la ocupación de esos cargos.</i><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>El desfinanciamiento de la ciencia está afectando seriamente a distintos sectores de
+desarrollo tecnológico que apostaban a la soberanía energética de Argentina y a un
+considerable potencial económico y estratégico. ¿Qué riesgos implica la reducción
+de fondos en proyectos estratégicos como la energía nuclear? ¿En qué situación se
+encuentra la energía nuclear hoy, en particular el Centro Argentino Protonterapia y
+los reactores nucleares Carem y el RA 10 cuyos avances en su construcción fueron
+retrasados?
+</Strong></p>
+        <p><i>El desfinanciamiento de la ciencia afecta no sólo por la falta de progreso de los proyectos que venían ejecutándose y que ahora deben ser demorados o se dejan de ejecutar sino también porque afecta a la continuidad de las personas que se capacitaron para poder trabajar en esos sectores. En este momento hay un nuevo auge en el mundo de la energía nuclear y sus aplicaciones y les jóvenes profesionales se ven atraídes por dejar nuestro país o dedicarse a otras cosas.  </i><br>
+        
+        <br><i>El financiamiento de parte de gobiernos nacionales que impulsan el desarrollo tecnológico permitió recuperar y hacer crecer sustancialmente al sector nuclear, mientras que cuando ocurre lo contrario se retrasan o frenan algunos proyectos, con la consecuente pérdida de personal y de capacidad. Particularmente, en esos períodos, ha disminuido el número de integrantes tanto de la CNEA como del resto del ecosistema nuclear. Las obras que se detienen y luego son retomadas implican una inversión mucho mayor de lo que hubieran costado sin interrupciones, y esos costos extras son un malgasto de los fondos públicos y muchas veces no se les atribuye la responsabilidad a quienes tomaron la decisión de frenar esas obras.</i><br>
+        
+        <br><i>En particular, sobre los proyectos estratégicos del sector nuclear podría comentar lo siguiente:</i>
+
+        <br><li><i>El RA-10, un reactor multipropósito, aun siendo uno de los proyectos con mayor apoyo de las actuales autoridades de la institución, no cuenta con el financiamiento necesario para continuar con el cronograma que tenía. Su puesta en marcha se demorará uno o dos años, perdiendo parte importante de la ventana de tiempo donde teníamos la oportunidad como país de aumentar nuestra capacidad de producir radioisótopos para poder entrar en otros mercados, o sea, exportar y agregar valor a la producción argentina.<br>
+        Esta ventana se da porque dejaron de funcionar algunos reactores y otros recién están empezando a ser construidos, como el caso del Pallas en Países Bajos (Holanda) y del RMB en Brasil.
+Hasta que se pongan en marcha, habría una gran oportunidad de estar en el mercado exportador de radioisótopos, así como la de avanzar en otros negocios como la irradiación de materiales semiconductores para la industria microelectrónica o el avance en el testeo de combustibles nucleares.
+</i></li><br>
+
+        <br><li><i>En el caso del CAREM es un poco más grave porque no hay una definición clara de seguir, ni siquiera avanzando a un menor ritmo. Hay que tener en cuenta que es un proyecto de un reactor modular pequeño (SMR, por sus siglas en inglés), nuestro primer reactor de potencia (o sea, capaz de producir energía eléctrica) con diseño completamente nacional y una integración de industria argentina de más del 70%. Existen unos 80 proyectos en el mundo de SMRs, pero el nuestro es uno de los pocos que se encuentra en construcción, lo que significaba que podía llegar mucho antes que el resto de los proyectos a demostrar su funcionamiento y ser pioneros en esa tecnología.
+Igual que el resto de las centrales de potencia nuclear, es una fuente de energía limpia que puede llegar a ser utilizada dentro de nuestra matriz energética para poder mitigar el cambio climático, disminuyendo la emisión de gases de efecto invernadero. Además es una gran oportunidad de negocios ya que se lograría la expansión de un proyecto tecnológico demostrador a un proyecto comercial que pueda ser exportable con un valor de más de 4.000 millones de dólares cada central de cuatro módulos de 120 MeV.
+</i></li><br>
+
+        <br><li><i>En el sector de Medicina Nuclear, el centro de Protonterapia está a punto de ser finalizado pero uno de los factores que detienen su puesta en marcha es la falta de personal calificado, que ya se había formado pero que, por la demora que tuvo el proyecto, se ha ido.  Este caso es también una oportunidad única en América Latina para facilitar el tratamiento de cánceres muy particulares, en especial el infantil. Pero aún después de toda la inversión que hubo, no está rindiendo sus frutos. </i></li><br>
+        
+        <br><li><i>En el área de Medicina Nuclear había varios proyectos en marcha que se están desfinanciando, como el proyecto de remodelación del sector de radioterapia del hospital Garrahan, donde se trata al 80% de los casos de cáncer infantil de nuestro país. Es fundamental seguir apoyando este proyecto y otros donde la densidad poblacional lo amerita, como es el caso de un centro oncológico en La Plata, provincia de Buenos Aires. Es interesante señalar que en esta área el Organismo Internacional de Energía Atómica (OIEA) ha designado a este sector común Anchor Center, lo que significa que podemos recibir mucho apoyo del organismo y al mismo tiempo colaborar desde allí con otros países de la región.</i></li><br>
+        <br>
+        </p>
+
+        <p class="preguntas-news"><Strong>¿Qué mitos existen alrededor de la energía nuclear como fuente de energía limpia y
+cómo se puede comunicar mejor su potencial? ¿Cómo ves el futuro de la energía
+nuclear en Argentina/mundo en términos de sostenibilidad, transición energética y
+lucha contra el cambio climático?
+</Strong></p>
+        <p><i>Es interesante el nuevo rol que está jugando la energía nuclear. Ya en las cumbres de cambio climático desde la COP26 se está afirmando que la energía nuclear es la llave para llegar a alcanzar los objetivos puestos para revertir el calentamiento global, porque implica utilizar fuentes de energía que no agregan gases de efecto invernadero, pero que requieren una inversión a nivel mundial para poder lograr ese cambio en tiempo y forma. Esto no significa dejar de lado las energías renovables, pero estas no lograrán a tiempo el cambio en las matrices energéticas de la mayor parte del mundo, debido a que todavía tienen problemas tecnológicos (como es el almacenamiento que requieren debido a su intermitencia, por ej: el sol o el viento que no siempre están presentes) y la energía nuclear es una de las pocas que garantiza tener una base constante que pueda llegar a balancear la necesaria provisión de energía eléctrica en muchas aplicaciones.</i><br>
+        
+        <br><i>Se ha reconocido que la energía nuclear es crucial en el rol de acelerar la transición energética para poder llegar a la meta de bajar y mitigar las emisiones de dióxido de carbono a la atmósfera hacia 2050. También son un incentivo la evolución tecnológica hacia formas más seguras (como el CAREM con sistemas de seguridad pasivos) y controladas de sus residuos, y cuando se analizan los efectos integrados de otras fuentes es la que menor contaminación y muertes ha causado. </i><br>
+
+        <br><i>Cuando se analiza el rol de los diferentes tipos de energía en la transición energética hay que pensar en que son cuatro los pilares en los cuales se sustenta este cambio.  En primer lugar, garantizar la seguridad energética, o sea, que esté disponible y que tengamos soberanía sobre esa disponibilidad. En segundo lugar, la equidad energética: que sea económicamente viable, y la tercera, la sostenibilidad ambiental ese rol que ya describimos. Pero también hay otro pilar muy importante que es la oportunidad de desarrollo tecno-industrial: la energía nuclear representa una posibilidad en nuestro país en todos estos aspectos, ya que podemos contar con el desarrollo que nos permita tener todo el ciclo de combustible y garantizar esa disponibilidad y esa soberanía.</i><br>
+
+        <br><i>Luego de conversar con Adriana, no se puede evitar reflexionar sobre cuánto necesitamos una ciencia situada, que reconozca los contextos sociales y políticos en los que se desarrolla y que contribuya a construir una sociedad más justa, equitativa y sostenible. El diálogo que mantuvimos no solo nos recuerda los desafíos específicos del sector nuclear sino también los obstáculos cotidianos que enfrentamos para crear espacios laborales, educativos y sociales libres de violencia y con igualdad de oportunidades para todxs. En un contexto tan incierto como el que atravesamos, la apuesta por estas transformaciones sigue siendo urgente y vital.</i><br>
+
+        <br><i>Queremos aprovechar estas líneas finales para agradecer profundamente a quienes nos han acompañado durante estos tres años. En tiempos de crisis, las redes que tejemos y el compromiso colectivo que mantenemos son nuestro mayor refugio y fortaleza. Gracias por leernos, por compartir y por sostener este espacio, que existe gracias a ustedes.</i><br>
+
+        <br>
+        </p>
+
+        
+        
+        <hr class="linea-divisoria">
+        <br>
+        <p>Esperamos reencontrarnos el próximo año con muchas novedades guiño misterioso. ¡Nos vemos en 2025!</p>
+        <p><strong>Equipo de Femiciencia</strong></p> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #ff6666;">P/D2: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
+        </p>`
     }
 ]
 /* FIN array de newsletters */
