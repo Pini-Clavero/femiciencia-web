@@ -88,7 +88,13 @@ a:hover {
     transform: translateY(-85%);
   }
 }
-.newsletters-heading-2, .integrantes-heading-2 {
+.newsletters-heading-2 {
+  font-family: "Inter", sans-serif;
+  font-size: 28px;
+  color: white;
+  text-align: center
+}
+.integrantes-heading-2 {
   font-family: "Inter", sans-serif;
   font-size: 28px;
   color: white;

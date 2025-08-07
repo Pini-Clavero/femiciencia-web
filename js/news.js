@@ -1944,6 +1944,92 @@ lucha contra el cambio climático?
         <br>
         <p style="color: #ff6666;">P/D2: El año pasado salió nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina. Un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
         </p>`
+    },
+    {
+        id: 27,
+        img: "../media/ilustraciones/ilustracion_27.webp",
+        titulo: "El ambiente como territorio en disputa: saberes, cuerpos y desigualdad",
+        contenido: `<p class="first-child"><i>Ni la tierra ni las mujeres son territorios de conquista.</i> <br>
+        
+        <br>Hay palabras que parecen cómodas, indiscutidas, universales. “Ambiente” es una de ellas. Ocho letras, una palabra, a veces dos. Un error de traducción, dicen algunxs, porque claro, fue el discurso ambiental moderno, de matriz estadounidense y europea, el que empezó a marcar agenda. Pero eso, en todo caso, no es lo más importante. O no al menos para quien escribe.<br>
+        
+        <br>Lo que sí parece urgente es detenerse en la complejidad que esa palabra intenta nombrar: el <i>flyer</i> con la hojita verde y el círculo del reciclado, los discursos apocalípticos que claman “el colapso ecológico llegó”, el auge de los “ecoproductos” con <i>packaging</i> compostable que prometen salvar el planeta mientras refuerzan el mismo circuito de consumo acelerado. Guau, chicxs, cuánta polarización, ¿no?.<br> 
+        
+        <br>Ahora sí, la pregunta (no las intrusivas, sino las importantes): <strong>¿De qué hablamos cuando hablamos de ambiente? ¿Desde dónde lo decimos? ¿A quiénes nombramos —y a quiénes no— cuando lo definimos?</strong>.<br>
+
+        <br>Desde los discursos biocéntricos, el ambiente suele aparecer como objeto de estudio, como un conjunto de variables físico‑químicas. Desde los organismos oficiales, como un “recurso” que hay que proteger. Desde el mercado, como un nicho rentable para nuevas formas de consumo “verde”. Pero hay otras voces, muchas veces desoídas, que no hablan del ambiente: lo habitan, lo trabajan, lo resisten, lo sostienen.<br>
+
+        <br>Las mujeres indígenas que defienden el monte frente al avance del agronegocio.<br>
+            Las trabajadoras de la economía popular que sostienen circuitos de reciclado informal.<br>
+            Las campesinas que siembran sin agroquímicos, no por militancia ecológica, sino porque saben —por historia más que por teoría— lo que implica contaminar la tierra.<br>
+            Las Madres de Ituzaingó que pusieron el cuerpo para denunciar el vínculo entre fumigaciones y enfermedades, y convirtieron el dolor en lucha colectiva. Porque, como tantas otras veces en nuestra historia, son mujeres las que se atan un pañuelo, salen a la calle y convierten el duelo en organización.<br>
+            Las académicas que interpelan los discursos científicos dominantes, denunciando su sesgo androcéntrico y descontextualizado.<br>
+        
+        <br>Pensar el ambiente desde una perspectiva feminista no es “sumar una mirada”. Es revisar las matrices epistemológicas, disputar sentidos, desorganizar las jerarquías que definen qué es conocimiento y quién tiene autoridad para producirlo. Es incomodar al saber técnico, abrirlo a otras gramáticas: las de la experiencia, el arraigo, la memoria, el conflicto.<br>
+        
+        <br>Porque el ambiente no es neutro, ni inocente, ni universal. Es un campo de disputa. Y como todo campo de disputa, merece ser narrado desde múltiples voces —sobre todo desde aquellas que históricamente fueron silenciadas.<br>
+
+        <br><strong>¿Qué formas de habitar lo ambiental conocés que nunca aparecen en los discursos oficiales?</strong><br>
+        
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <p><strong>¡Hola lectorx que estás del otro lado!<br>
+            Estuvimos un poco desaparecidas —lo sabemos—, pero es que anduvimos trabajando en múltiples proyectos hermosos que iremos compartiendo con esta comunidad a medida que los vayamos, como diría mi madre, finiquitando.<br>
+            Queremos contarles que estamos muy contentxs porque nuestro Abecedario Ilustrado de flora, fauna y funga del centro de Argentina (realizado junto a <a href="https://www.instagram.com/irene_behrens/" target="_blank" style="color: #8000FF;">@irene_behrens</a>) fue seleccionado como publicación destacada para participar de la 49.ª Feria Internacional del Libro de Buenos Aires, gracias a la gestión de la editorial <a href="https://www.instagram.com/generacionsemilla/" target="_blank" style="color: #8000FF;">@generacionsemilla</a>. Es un reconocimiento que nos llena de alegría y confirma que los proyectos colectivos, sensibles y territoriales tienen lugar y resonancia.</strong></p> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #ff6666;">P/D2: Nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina es un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
+        </p>`
+    },
+    {
+        id: 28,
+        img: "../media/ilustraciones/ilustracion_28.webp",
+        titulo: "Un mapa vivo de la lengua",
+        contenido: `<p class="first-child"><i>Ni la tierra ni las mujeres son territorios de conquista.</i> <br>
+        
+        <br>Hay palabras que parecen cómodas, indiscutidas, universales. “Ambiente” es una de ellas. Ocho letras, una palabra, a veces dos. Un error de traducción, dicen algunxs, porque claro, fue el discurso ambiental moderno, de matriz estadounidense y europea, el que empezó a marcar agenda. Pero eso, en todo caso, no es lo más importante. O no al menos para quien escribe.<br>
+        
+        <br>Lo que sí parece urgente es detenerse en la complejidad que esa palabra intenta nombrar: el <i>flyer</i> con la hojita verde y el círculo del reciclado, los discursos apocalípticos que claman “el colapso ecológico llegó”, el auge de los “ecoproductos” con <i>packaging</i> compostable que prometen salvar el planeta mientras refuerzan el mismo circuito de consumo acelerado. Guau, chicxs, cuánta polarización, ¿no?.<br> 
+        
+        <br>Ahora sí, la pregunta (no las intrusivas, sino las importantes): <strong>¿De qué hablamos cuando hablamos de ambiente? ¿Desde dónde lo decimos? ¿A quiénes nombramos —y a quiénes no— cuando lo definimos?</strong>.<br>
+
+        <br>Desde los discursos biocéntricos, el ambiente suele aparecer como objeto de estudio, como un conjunto de variables físico‑químicas. Desde los organismos oficiales, como un “recurso” que hay que proteger. Desde el mercado, como un nicho rentable para nuevas formas de consumo “verde”. Pero hay otras voces, muchas veces desoídas, que no hablan del ambiente: lo habitan, lo trabajan, lo resisten, lo sostienen.<br>
+
+        <br>Las mujeres indígenas que defienden el monte frente al avance del agronegocio.<br>
+            Las trabajadoras de la economía popular que sostienen circuitos de reciclado informal.<br>
+            Las campesinas que siembran sin agroquímicos, no por militancia ecológica, sino porque saben —por historia más que por teoría— lo que implica contaminar la tierra.<br>
+            Las Madres de Ituzaingó que pusieron el cuerpo para denunciar el vínculo entre fumigaciones y enfermedades, y convirtieron el dolor en lucha colectiva. Porque, como tantas otras veces en nuestra historia, son mujeres las que se atan un pañuelo, salen a la calle y convierten el duelo en organización.<br>
+            Las académicas que interpelan los discursos científicos dominantes, denunciando su sesgo androcéntrico y descontextualizado.<br>
+        
+        <br>Pensar el ambiente desde una perspectiva feminista no es “sumar una mirada”. Es revisar las matrices epistemológicas, disputar sentidos, desorganizar las jerarquías que definen qué es conocimiento y quién tiene autoridad para producirlo. Es incomodar al saber técnico, abrirlo a otras gramáticas: las de la experiencia, el arraigo, la memoria, el conflicto.<br>
+        
+        <br>Porque el ambiente no es neutro, ni inocente, ni universal. Es un campo de disputa. Y como todo campo de disputa, merece ser narrado desde múltiples voces —sobre todo desde aquellas que históricamente fueron silenciadas.<br>
+
+        <br><strong>¿Qué formas de habitar lo ambiental conocés que nunca aparecen en los discursos oficiales?</strong><br>
+        
+        <br>
+        <hr class="linea-divisoria">
+        <br>
+        <p><strong>¡Hola lectorx que estás del otro lado!<br>
+            Estuvimos un poco desaparecidas —lo sabemos—, pero es que anduvimos trabajando en múltiples proyectos hermosos que iremos compartiendo con esta comunidad a medida que los vayamos, como diría mi madre, finiquitando.<br>
+            Queremos contarles que estamos muy contentxs porque nuestro Abecedario Ilustrado de flora, fauna y funga del centro de Argentina (realizado junto a <a href="https://www.instagram.com/irene_behrens/" target="_blank" style="color: #8000FF;">@irene_behrens</a>) fue seleccionado como publicación destacada para participar de la 49.ª Feria Internacional del Libro de Buenos Aires, gracias a la gestión de la editorial <a href="https://www.instagram.com/generacionsemilla/" target="_blank" style="color: #8000FF;">@generacionsemilla</a>. Es un reconocimiento que nos llena de alegría y confirma que los proyectos colectivos, sensibles y territoriales tienen lugar y resonancia.</strong></p> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
+        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #ff6666;">P/D2: Nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina es un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
+        </p>`
     }
 ]
 /* FIN array de newsletters */
