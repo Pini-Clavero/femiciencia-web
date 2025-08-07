@@ -1992,43 +1992,71 @@ lucha contra el cambio climático?
         id: 28,
         img: "../media/ilustraciones/ilustracion_28.webp",
         titulo: "Un mapa vivo de la lengua",
-        contenido: `<p class="first-child"><i>Ni la tierra ni las mujeres son territorios de conquista.</i> <br>
+        contenido: `<p class="first-child">
+        <i>“Nuestras lenguas maternas son nuestros linajes lingüísticos, la lengua hogareña,</i> <br>
+        <i>la lengua que se cocinó en las ollas de nuestras casas.</i> <br>
+        <i>Porque no hay un solo español ni un solo guaraní;</i> <br>
+        <i>porque cada casa, cada barrio, cada madre es un dialecto”.</i> <br>
+        Liliana Bodoc <br>
         
-        <br>Hay palabras que parecen cómodas, indiscutidas, universales. “Ambiente” es una de ellas. Ocho letras, una palabra, a veces dos. Un error de traducción, dicen algunxs, porque claro, fue el discurso ambiental moderno, de matriz estadounidense y europea, el que empezó a marcar agenda. Pero eso, en todo caso, no es lo más importante. O no al menos para quien escribe.<br>
+        <br>Una mujer se adentra en un pueblo en la zona rural de San Luis, conversa con vecinxs y docentes. Anota todo lo que puede  y continúa su viaje. Es el año 1950, aproximadamente, y su propósito no es poca cosa: <strong>recorrer el país y elaborar un mapa de variaciones lingüísticas del español argentino</strong>.<br>
         
-        <br>Lo que sí parece urgente es detenerse en la complejidad que esa palabra intenta nombrar: el <i>flyer</i> con la hojita verde y el círculo del reciclado, los discursos apocalípticos que claman “el colapso ecológico llegó”, el auge de los “ecoproductos” con <i>packaging</i> compostable que prometen salvar el planeta mientras refuerzan el mismo circuito de consumo acelerado. Guau, chicxs, cuánta polarización, ¿no?.<br> 
-        
-        <br>Ahora sí, la pregunta (no las intrusivas, sino las importantes): <strong>¿De qué hablamos cuando hablamos de ambiente? ¿Desde dónde lo decimos? ¿A quiénes nombramos —y a quiénes no— cuando lo definimos?</strong>.<br>
+        <br><strong>Berta Vidal de Battini</strong> nació un 10 de julio de 1900, en San Luis. Terminó el colegio y se tituló como Maestra Normal Nacional. Fue profesora en Letras, egresada de la Facultad de Filosofía y Letras de la UBA, donde luego ella misma ejerció la docencia y la investigación: estuvo a cargo de las cátedras de Filología Hispánica y Folklore Argentino, además de ser supervisora técnica en el Consejo Nacional de Educación. Por su constante compromiso con el estudio de la lengua fue elegida en 1983 como Académica de número de la Academia Argentina de Letras.<br> 
+        <br>
 
-        <br>Desde los discursos biocéntricos, el ambiente suele aparecer como objeto de estudio, como un conjunto de variables físico‑químicas. Desde los organismos oficiales, como un “recurso” que hay que proteger. Desde el mercado, como un nicho rentable para nuevas formas de consumo “verde”. Pero hay otras voces, muchas veces desoídas, que no hablan del ambiente: lo habitan, lo trabajan, lo resisten, lo sostienen.<br>
-
-        <br>Las mujeres indígenas que defienden el monte frente al avance del agronegocio.<br>
-            Las trabajadoras de la economía popular que sostienen circuitos de reciclado informal.<br>
-            Las campesinas que siembran sin agroquímicos, no por militancia ecológica, sino porque saben —por historia más que por teoría— lo que implica contaminar la tierra.<br>
-            Las Madres de Ituzaingó que pusieron el cuerpo para denunciar el vínculo entre fumigaciones y enfermedades, y convirtieron el dolor en lucha colectiva. Porque, como tantas otras veces en nuestra historia, son mujeres las que se atan un pañuelo, salen a la calle y convierten el duelo en organización.<br>
-            Las académicas que interpelan los discursos científicos dominantes, denunciando su sesgo androcéntrico y descontextualizado.<br>
         
-        <br>Pensar el ambiente desde una perspectiva feminista no es “sumar una mirada”. Es revisar las matrices epistemológicas, disputar sentidos, desorganizar las jerarquías que definen qué es conocimiento y quién tiene autoridad para producirlo. Es incomodar al saber técnico, abrirlo a otras gramáticas: las de la experiencia, el arraigo, la memoria, el conflicto.<br>
-        
-        <br>Porque el ambiente no es neutro, ni inocente, ni universal. Es un campo de disputa. Y como todo campo de disputa, merece ser narrado desde múltiples voces —sobre todo desde aquellas que históricamente fueron silenciadas.<br>
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XXVIII/berta_vidal_de_battini1.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
+        <img src="../media/ilustraciones/XXVIII/berta_vidal_de_battini2.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
+        <h4 style="color: black; font-size: 11px;display: block;">Berta Vidal de Battini</h4>
+        <p><br></p>
+        </div>
 
-        <br><strong>¿Qué formas de habitar lo ambiental conocés que nunca aparecen en los discursos oficiales?</strong><br>
+
+        Pero bueno, no queremos solo desarrollar su CV. Hablemos de sus aportes a los estudios lingüísticos. La docencia siempre fue un trabajo feminizado, pero no la investigación. Berta Vidal supo ingresar en ese ámbito y abrirse paso para estudiar sobre lo que le interesaba.<br>
+
+        <br>Comenzó a adentrarse primero en el estudio de la lengua oral tradicional de su propia provincia. Compiló mitos y leyendas de sus pueblos, y luego de juntar sus notas publicó El habla rural de San Luis (1949)  a través del Instituto de Filología, que algunxs colegas llamaron “la perla” de la Biblioteca de Dialectología Hispanoamericana.<br>
+
+        <br>Luego, desde el Consejo Nacional de Educación se le propuso una tarea ambiciosísima (y única en ese momento), que ella aceptó con entusiasmo: elaborar un material que recopile y estudie el uso de la lengua en todo el territorio nacional. Ese titánico trabajo culminó en 1964 con la publicación de El español de la Argentina.<br>
+            
+        <br>Le interesaba, ante todo, elaborar un material que fuera de utilidad para docentes, un texto que, sin perder rigurosidad en su investigación ni desarrollo teórico, fuera claro, didáctico y útil para la enseñanza de la lengua, y no un documento que solo circulara en el ámbito académico-universitario.<br>
+        
+        <br>Vidal distribuyó encuestas para que lxs docentes de todo el país fueran sus mediadores y recopilaran datos sobre el uso de la lengua de sus vecinos,  pero también ella misma recorrió el país de punta a punta; a veces en coche, a veces en mula, a veces a pie, <strong>realizó más de 150 viajes de exploración</strong>. Llegó incluso hasta la Patagonia, aunque se lamentó de no haber podido acceder a las Islas Malvinas (pero igual escribió un libro sobre el léxico malvinense. ¿Las Malvinas? Argentinas 🇦🇷).<br>
+
+        <br>Esta recopilación y análisis evidenció las variaciones sociodialectales del español en Argentina, y si bien para Berta Vidal tuvo un interés normativo, mencionando la necesidad de “estandarizar” la lengua, no fue una purista del lenguaje. Al contrario, <strong>visibilizó la diversidad y elaboró material científico que serviría de punto de inicio para profundizar en futuros estudios dialectales</strong>, incluso más allá de Argentina. Reconoció las voces y relatos de pueblos originarios y lo que ocurría con las lenguas en contacto.<br>
+
+        <br>Fue una pionera en la descripción de la riqueza y dinamismo de nuestra lengua, y de cómo las condiciones socioculturales se traducen en un amplio repertorio léxico. Supo demostrar la relación interdependiente entre lengua, cultura, trabajo, naturaleza y memoria. <strong>Creía en la educación pública y elemental, en la necesidad de comunicar los resultados (nunca definitivos) de sus investigaciones</strong> para fomentar la formación continua de lxs maestrxs.<br>
+
+        <br><strong>El 10 de julio se conmemora el “Día de lxs lingüistas”</strong>, en honor a Berta Vidal de Battini. Pero, si quieren conocer a más lingüistas argentinas, pueden echarle un ojo a este proyecto del Instituto de Lingüística de la UBA: <a href="https://il.institutos.filo.uba.ar/linguistas-argentinas%C2%A0" target="_blank" style="color: #8000FF;">link</a><br>
+            
+        <br>¿Qué quisiéramos poner en cuestión hoy a través de la lingüística? ¿Qué debates están pendientes o se encuentran en plena tensión? Seguramente pensaron en el lenguaje inclusivo, ¿no?.<br>
+        
+        <br>En Argentina, una de las primeras en visibilizar esta problemática en 1973 fue la lingüista <strong>Delia Esther Suardíaz</strong>. Fue docente del área de Lingüística en la Universidad Nacional de San Luis, y su tesis de maestría, "El sexismo en la lengua española", es considerado un texto precursor de la crítica feminista del lenguaje, el primero referido a la lengua española. Allí analiza la ausencia de las mujeres en diversos usos de la lengua castellana y afirma la necesidad de un cambio lingüístico.<br>
+
+        <br><strong>Alicia María Zorrilla</strong>, lingüista especializada en normativa de la lengua y actual presidenta de la Academia Argentina de Letras, sostiene que para analizar el lenguaje inclusivo “indefectiblemente, deben recorrerse dos caminos: el lingüístico y el sociopolítico”. El lenguaje inclusivo es una lucha que pone en evidencia las desigualdades y las exclusiones de un orden machista, que se ha traducido en un lenguaje androcéntrico, sexista y clasista.<br>
+
+        <br>Este debate supera lo estrictamente lingüístico y debe contemplar variables e impactos sociopolíticos e históricos (hola qué tal, glotopolítica). Las lenguas se transforman, y son las prácticas sociales las que provocan que el lenguaje mute, y no las imposiciones de instituciones y sectores aferrados a “los usos correctos”.<br>
+
+        <br>En las lenguas se materializan formas de comprender, llamar y valorar el mundo que nos rodea. Creemos que <strong>utilizar un lenguaje libre de sexismos en el ámbito académico es necesario</strong>, dada la misión social que tienen las universidades públicas en la construcción, circulación y democratización de conocimientos. Además, sostenemos que es una forma concreta de reafirmar el compromiso con la no invisibilización ni subordinación de mujeres y disidencias en los discursos que históricamente han reproducido las instituciones patriarcales.<br>
+            
+        <br>El español argentino se defiende, no porque queramos conservarlo intacto y “correcto” (léase: acorde a las reglas del español peninsular culto), sino por el deseo de reconocer su extensa riqueza y la influencia de las lenguas originarias que coexisten. Además, porque expresa nuestra identidad, que se encuentra siempre en un vaivén entre tradición y novedad, entre memoria y transformación.<br>
+        
+        <br>Hoy, mapear nuestra lengua hubiera sido para Berta un desafío delicioso.<br>
         
         <br>
         <hr class="linea-divisoria">
         <br>
         <p><strong>¡Hola lectorx que estás del otro lado!<br>
-            Estuvimos un poco desaparecidas —lo sabemos—, pero es que anduvimos trabajando en múltiples proyectos hermosos que iremos compartiendo con esta comunidad a medida que los vayamos, como diría mi madre, finiquitando.<br>
-            Queremos contarles que estamos muy contentxs porque nuestro Abecedario Ilustrado de flora, fauna y funga del centro de Argentina (realizado junto a <a href="https://www.instagram.com/irene_behrens/" target="_blank" style="color: #8000FF;">@irene_behrens</a>) fue seleccionado como publicación destacada para participar de la 49.ª Feria Internacional del Libro de Buenos Aires, gracias a la gestión de la editorial <a href="https://www.instagram.com/generacionsemilla/" target="_blank" style="color: #8000FF;">@generacionsemilla</a>. Es un reconocimiento que nos llena de alegría y confirma que los proyectos colectivos, sensibles y territoriales tienen lugar y resonancia.</strong></p> 
+            Queremos recordarles que nuestro Abecedario Ilustrado de flora, fauna y funga del centro de Argentina (realizado junto a <a href="https://www.instagram.com/irene_behrens/" target="_blank" style="color: #8000FF;">@irene_behrens</a>) sigue disponible en nuestra <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">página web</a> para ser descargado. Además, fue editado por <a href="https://www.instagram.com/generacionsemilla/" target="_blank" style="color: #8000FF;">@generacionsemilla</a> y también pueden conseguir el libro en su versión impresa <a href="https://articulo.mercadolibre.com.ar/MLA-2047099700-libro-abecedario-ilustrado-de-flora-fauna-y-funga-nativa-_JM" target="_blank" style="color: #8000FF;">acá</a> 💜</strong></p> 
         <br>
     
         <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
-        <br>Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br>👉 Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
         <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
         </p>
 
         <br>
-        <p style="color: #ff6666;">P/D2: Nuestro abecedario ilustrado de Flora, Fauna y Funga nativa del centro de Argentina es un proyecto de Femiciencia y Proyecto Sibylla. Si todavía no lo descargaste, lo podés hacer <a href="https://www.femiciencia.com/pages/abecedarioNativas.html" target="_blank" style="color: #8000FF;">acá</a>. ¡También está la versión para colorear!
+        <p style="color: #c989d6; ">💜 Gracias por estar del otro lado.
         </p>`
     }
 ]
