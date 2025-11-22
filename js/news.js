@@ -1949,9 +1949,10 @@ lucha contra el cambio climático?
         id: 27,
         img: "../media/ilustraciones/ilustracion_27.webp",
         titulo: "El ambiente como territorio en disputa: saberes, cuerpos y desigualdad",
-        contenido: `<p class="first-child"><i>Ni la tierra ni las mujeres son territorios de conquista.</i> <br>
-        
-        <br>Hay palabras que parecen cómodas, indiscutidas, universales. “Ambiente” es una de ellas. Ocho letras, una palabra, a veces dos. Un error de traducción, dicen algunxs, porque claro, fue el discurso ambiental moderno, de matriz estadounidense y europea, el que empezó a marcar agenda. Pero eso, en todo caso, no es lo más importante. O no al menos para quien escribe.<br>
+        contenido: `<div class="poem-init-news"><i>Ni la tierra ni las mujeres son territorios de conquista.</i> <br><br>
+        </div>
+            
+        <p class="first-child">Hay palabras que parecen cómodas, indiscutidas, universales. “Ambiente” es una de ellas. Ocho letras, una palabra, a veces dos. Un error de traducción, dicen algunxs, porque claro, fue el discurso ambiental moderno, de matriz estadounidense y europea, el que empezó a marcar agenda. Pero eso, en todo caso, no es lo más importante. O no al menos para quien escribe.<br>
         
         <br>Lo que sí parece urgente es detenerse en la complejidad que esa palabra intenta nombrar: el <i>flyer</i> con la hojita verde y el círculo del reciclado, los discursos apocalípticos que claman “el colapso ecológico llegó”, el auge de los “ecoproductos” con <i>packaging</i> compostable que prometen salvar el planeta mientras refuerzan el mismo circuito de consumo acelerado. Guau, chicxs, cuánta polarización, ¿no?.<br> 
         
@@ -1992,19 +1993,19 @@ lucha contra el cambio climático?
         id: 28,
         img: "../media/ilustraciones/ilustracion_28.webp",
         titulo: "Un mapa vivo de la lengua",
-        contenido: `<p class="first-child">
-        <i>“Nuestras lenguas maternas son nuestros linajes lingüísticos, la lengua hogareña,</i> <br>
+        contenido: `<div class="poem-init-news"><i>“Nuestras lenguas maternas son nuestros linajes lingüísticos, la lengua hogareña,</i> <br>
         <i>la lengua que se cocinó en las ollas de nuestras casas.</i> <br>
         <i>Porque no hay un solo español ni un solo guaraní;</i> <br>
         <i>porque cada casa, cada barrio, cada madre es un dialecto”.</i> <br>
-        Liliana Bodoc <br>
-        
-        <br>Una mujer se adentra en un pueblo en la zona rural de San Luis, conversa con vecinxs y docentes. Anota todo lo que puede  y continúa su viaje. Es el año 1950, aproximadamente, y su propósito no es poca cosa: <strong>recorrer el país y elaborar un mapa de variaciones lingüísticas del español argentino</strong>.<br>
+        Liliana Bodoc <br><br>
+       </div> 
+       <p class="first-child">
+        Una mujer se adentra en un pueblo en la zona rural de San Luis, conversa con vecinxs y docentes. Anota todo lo que puede  y continúa su viaje. Es el año 1950, aproximadamente, y su propósito no es poca cosa: <strong>recorrer el país y elaborar un mapa de variaciones lingüísticas del español argentino</strong>.<br>
         
         <br><strong>Berta Vidal de Battini</strong> nació un 10 de julio de 1900, en San Luis. Terminó el colegio y se tituló como Maestra Normal Nacional. Fue profesora en Letras, egresada de la Facultad de Filosofía y Letras de la UBA, donde luego ella misma ejerció la docencia y la investigación: estuvo a cargo de las cátedras de Filología Hispánica y Folklore Argentino, además de ser supervisora técnica en el Consejo Nacional de Educación. Por su constante compromiso con el estudio de la lengua fue elegida en 1983 como Académica de número de la Academia Argentina de Letras.<br> 
         <br>
 
-        
+
         <div style="max-width: 600px; text-align:center">
         <img src="../media/ilustraciones/XXVIII/berta_vidal_de_battini1.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
         <img src="../media/ilustraciones/XXVIII/berta_vidal_de_battini2.webp" alt="Julieta Romero" style="max-width: 290px;padding: 5px;">
@@ -2013,7 +2014,7 @@ lucha contra el cambio climático?
         </div>
 
 
-        Pero bueno, no queremos solo desarrollar su CV. Hablemos de sus aportes a los estudios lingüísticos. La docencia siempre fue un trabajo feminizado, pero no la investigación. Berta Vidal supo ingresar en ese ámbito y abrirse paso para estudiar sobre lo que le interesaba.<br>
+        <p>Pero bueno, no queremos solo desarrollar su CV. Hablemos de sus aportes a los estudios lingüísticos. La docencia siempre fue un trabajo feminizado, pero no la investigación. Berta Vidal supo ingresar en ese ámbito y abrirse paso para estudiar sobre lo que le interesaba.<br>
 
         <br>Comenzó a adentrarse primero en el estudio de la lengua oral tradicional de su propia provincia. Compiló mitos y leyendas de sus pueblos, y luego de juntar sus notas publicó El habla rural de San Luis (1949)  a través del Instituto de Filología, que algunxs colegas llamaron “la perla” de la Biblioteca de Dialectología Hispanoamericana.<br>
 
@@ -2052,6 +2053,79 @@ lucha contra el cambio climático?
     
         <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.  
         <br>👉 Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #c989d6; ">💜 Gracias por estar del otro lado.
+        </p>`
+    },
+    {
+        id: 29,
+        img: "../media/ilustraciones/ilustracion_29.webp",
+        titulo: "Narrativas desde el cuerpx",
+        contenido: `<div class="poem-init-news"><br><i>“Instaría a todas las personas, sean de la orientación sexual que sean,</i> <br>
+        <i>de la identidad de género, de la nacionalidad, de la etnia, de la raza</i> <br>
+        <i>a que realmente se atrevan a vivir en sus propios términos,</i> <br>
+        <i>porque sino,</i> <br>
+        <i>¿Qué sentido tiene la vida?”.</i> <br>
+        Lohana Berkins<br><br><br>
+       </div> 
+       <p class="first-child">
+        Un fantasma recorre las calles de Argentina, es el fantasma del denominado “progresismo woke” o “progresismo caviar”. Es la tozudez por la inclusión y el respeto irrestricto a los derechos humanos consolidados democráticamente, hoy puestos en riesgo.<br>
+        
+        <br>Corría el año 2010 cuando Lohana Berkins - “Capitana de las mariposas”- conformaba el Frente Nacional por la Ley de Identidad de Género que impulsó la sanción de la normativa nacional en 2012. La camarada salteña, fue la primera travesti en ser candidata a diputada nacional, fue asesora de la legislatura porteña por el Partido Comunista, y también la primera integrante de la comunidad travesti trans en acceder a un empleo en el Estado.<br> 
+                
+        <br>En 1993, Claudia Pía Baudracco fundaba la Asociación de Travestis, Transexuales y Transgéneros de Argentina (ATTTA), la primera red nacional de personas trans a nivel mundial; y Diana Sacayán inauguraba el Movimiento Antidiscriminatorio de Liberación (M.A.L), uniéndose al Frente Nacional por la Ley de Identidad de Género.<br> 
+        
+        <br>Pero las luchas que se libran al calor de los movimientos sociales no son personalistas, sino colectivas. Es el pueblo alzado en las calles que reclama su ausencia a un Estado que a veces no lo nombra. Pero como las batallas de mujeres y disidencias no pueden darse por ganadas, el mismo Congreso que asentó un precedente histórico con la sanción de la Ley de Identidad de Género en 2012, hoy busca rediscutir y reducir sus alcances.<br> 
+                
+        <br><a href="https://www.instagram.com/reel/DNZFRgZgf7k/" target="_blank" style="color: #8000FF;">“Narrativas desde el cuerpx”</a> es nuestro nuevo proyecto inspirado en la lucha histórica de la comunidad argentina travesti trans para acceder al derecho a la identidad de género. Es una producción federal que recorre los sinuosos caminos personales y políticos para alcanzar lo establecido en una ley consolidada democráticamente.<br> 
+        
+        <br>Las historias de Majo, Narella, SaSa, Martín, Octavio, Karla y Alondre narran los procesos y barreras que atravesaron para asumir y resignificar sus identidades. Víctor, Dana y Julieta son lxs profesionalxs de la salud que nos brindan información sobre los campos de la psicología, la biología, la química y la medicina, y sus contribuciones en etapas de transición y hormonización.<br> 
+        
+        <br>La serie documental está compuesta por tres capítulos que abordan distintas instancias del derecho a la identidad de género: el reconocimiento de la identidad autopercibida y autodeterminada, la relevancia e implicancias de las políticas públicas, las cirugías y procesos de hormonización, como también las experiencias y barreras en el acceso a la salud.<br> 
+        
+        <br>El estreno del primer capítulo será en la Ciudad de San Luis, este viernes 29 a las 20:30 en Pimienta Club (Estado de Israel 1480). El resto del documental se mostrará en forma de ciclo los días jueves 4 y 11 de septiembre en la misma sede. 
+Los próximos estrenos serán en las ciudades de Córdoba y Mendoza, como también en la provincia de Buenos Aires. Para conocer las próximas proyecciones te recomendamos seguirnos en instagram: <a href="https://www.instagram.com/femiciencia_" target="_blank" style="color: #8000FF;">@femiciencia_</a><br> 
+        <br>
+
+        <div style="max-width: 600px; text-align:center">
+        <img src="../media/ilustraciones/XXIX/narrativas.webp" alt="Narrativas desde el Cuerpx" style="max-width: 600px;padding: 5px;">
+        <p><br></p>
+        </div>
+
+        <p>Por último, no queremos dejar de agradecer al equipo de “Narrativas desde el cuerpx”:<br>
+
+        <br><u>Entrevistadxs:</u> Alondre Colaut, Dana Negretti Borga, Julieta Dahbar,  Karla Heredia, Martín Roda,  Majo Ochoa, Narella Ledesma, Octavio Francetic, Sasa Testa y Víctor Andrés Martínez Núñez.<br>
+
+        <br><u>Dirección, Producción y Guion:</u> Antonella Biondi, Eliana Cabrera y Nabila María Gomez Mansur
+Idea original: Antonella Biondi.<br>
+            
+        <br><u>Asesor externo:</u> SaSa Testa.<br>
+        
+        <br><u>Ilustraciones y animación:</u> Camila Pérez Roig.<br>
+
+        <br><u>Equipo de gestión y co-producción:</u> Ana Clara Denaro, Florencia Nuñez y Camila Pérez Roig.<br>
+
+        <br><u>Gestión web:</u> Maximiliano Clavero.<br>
+        
+        <br><u>Cámaras:</u> Antonella Biondi, Matias Traub Flores, Patricio Ocaranza Nieto, Rodrigo Jofré.<br>
+
+        <br><u>Música original:</u> “El día que me quieras” versión por Alondre Colaut.<br>
+
+        <br><u>Montaje y Edición:</u> Patricio Ocaranza Nieto.<br>
+
+        <br><u>Agradecimientos:</u> Manuel Castillo Soro, Desiré Blair, Martes Trece, Colegio de Psicólogos de San Luis, Sofía Gomez Mansur, Cecilia Andrada y Yamila Maribel.<br>
+
+
+        
+        <br>
+        <hr class="linea-divisoria"> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.<br>  
+        <br>👉 Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.<br>
         <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
         </p>
 
