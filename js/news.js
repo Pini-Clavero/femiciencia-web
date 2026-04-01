@@ -2132,6 +2132,105 @@ Idea original: Antonella Biondi.<br>
         <br>
         <p style="color: #c989d6; ">💜 Gracias por estar del otro lado.
         </p>`
+    },
+    {
+        id: 30,
+        img: "../media/ilustraciones/ilustracion_30.webp",
+        titulo: "Día Nacional de la Memoria por la Verdad y la Justicia",
+        contenido: `<div class="">
+       </div> 
+       <p class="first-child" style="border-bottom: 1px solid #e8dcc8;">
+        Luego de un largo tiempo en el que estuvimos enfocadas en la producción y estreno de nuestro documental <a href="https://femiciencia.com/pages/documentary.html" target="_blank" style="color: #8000FF;"><i>“Narrativas desde el cuerpx”</i></a>, hoy regresamos con este newsletter sobre el 24 de marzo: <strong>Día Nacional de la Memoria por la Verdad y la Justicia</strong>.  En esta entrega, nos permitimos escribir en primera persona porque hay algo que sucede en el cuerpo al estar frente a nuestras heroínas nacionales, las Madres y Abuelas de Plaza de Mayo, que difícilmente pueda contarse de otra manera.        
+        <br>
+        <br>
+        </p>
+        <br>
+        <div class="">
+        <p style="font-size: 10px; letter-spacing: 2.5px; text-transform: uppercase; color: #c0392b; font-weight: bold; margin-bottom: 14px;">
+          A 50 años del golpe
+        </p>
+        <h1 style="font-family: Georgia, serif; font-size: 30px; font-weight: bold; color: #1a2e3e; line-height: 1.25; margin-bottom: 14px;">
+          Cuando la genética se puso al servicio de los derechos humanos
+        </h1>
+        <p style="font-size: 13px; color: #3a6b9e; font-style: italic; font-weight: 300;">
+          La historia de cómo las Abuelas de Plaza de Mayo convirtieron la ciencia en un
+          instrumento de justicia e identidad.
+        </p>
+      </div>
+      <p>
+        <br>
+        <br>Este año se conmemoran 50 años del golpe cívico eclesiástico militar que azotó a Argentina en 1976. Por mi edad, yo no lo viví, pero cuando me encontré reflexionando acerca de qué escribir sobre este día pensé que es una fecha que me atraviesa, no solo por tratarse de uno de los períodos más dolorosos de la historia argentina, sino porque en nuestra vida familiar, entre amigxs o conocidxs, todxs tenemos alguna historia que nos toca de cerca sobre la dictadura.<br> 
+                
+        <br>Hace 10 años vivo en CABA y nunca había ido un jueves a la ronda de las Madres y Abuelas en Plaza de Mayo. El año pasado fui por primera vez por invitación de mis tíos que estaban de visita. Cuando estaba ahí, caminando, pensaba en ese dolor de no saber dónde están tus seres queridos, en no entender a las personas que niegan la dictadura, pero sobre todo pensaba en la lucha incansable de las Abuelas, y que gracias a eso la genética se puso al servicio de los derechos humanos e hizo posible algo que parecía imposible: restituir el derecho a la identidad. En este newsletter te quiero contar resumidamente cómo…<br> 
+        <br>
+        <div class="preguntas-news" style="margin-top: 20px;">
+          ✦ ✦ ✦
+        </div>
+        <p>
+        <br>
+        <br>El ADN se encuentra en nuestras células y se hereda de progenitorxs a hijxs. En los últimos 100 años, los descubrimientos y avances sobre el estudio del ADN fueron enormes. Entonces, ¿qué tiene que ver el ADN con las Madres y Abuelas de Plaza de Mayo? <br>
+        
+        <br>Allá por fines de los ‘70, las Madres y Abuelas de Plaza de Mayo vieron una noticia en la que se corroboraba una filiación mediante un test de paternidad, y se les ocurrió utilizar algo parecido para probar la identidad de sus nietxs. Sólo con fotos o los parecidos con sus hijos e hijas biológicxs, no bastaba. Sumado a que muchxs de ellxs habían nacido en cautiverio, por lo que ni siquiera tenían sus datos. En este escenario, era un desafío para la ciencia y la genética demostrar un vínculo entre abuelos/as y nietxs, porque había una generación desaparecida en el medio .<br> 
+        
+        <br>A partir de esto, las Abuelas se preguntaron: <i>“¿Existirá un elemento constitutivo de la sangre que sólo aparece en personas pertenecientes a la misma familia?”</i>. Así comenzó un largo viaje, buscando la respuesta a esta pregunta.<br> 
+                
+        <br>En 1982 conocieron a Víctor Penchaszadeh, quien estaba exiliado en EE.UU. Él relata en el libro “Las abuelas y la genética”: <i>“Fui consciente en ese momento de que la sociedad le estaba haciendo un reclamo a la ciencia genética, y de que de esa realidad social se debía generar una respuesta de ciencia”</i>.<br>
+        <br>No había antecedentes mundiales respecto a este tema, por lo que llevó un tiempo conformar un equipo e involucrar a más personas en la causa. Mediante la colaboración de Cristian Orrego, un científico chileno, se sumó Mary-Claire King, una genetista californiana dedicada al estudio de la epidemiología genética, entre otras áreas. Ella era la persona que podía ayudar a elaborar el tratamiento estadístico necesario para analizar los datos y establecer un índice de correlación entre abuelo/as y nietxs. Junto a la colaboración de Pierre Darlu (estadístico francés),  Ana María Di Lonardo (jefa de la unidad de Inmunología del Hospital Durand de Buenos Aires), Eric Stover (Asociación Americana para el Avance de la Ciencia - AAAS) y el hematólogo Fred Allen, se logró arribar al tan esperado <strong>“Índice de abuelidad”: una fórmula estadística que establece con altísima certeza el parentesco entre un/a abuelo/a y su nietx</strong>.<br> 
+        
+        <br>Sin embargo, como hasta ese momento los estudios sobre el ADN no estaban tan avanzados, se utilizaron proteínas (moléculas codificadas a partir del ADN) como referencia. Este primer índice constaba de una serie de pruebas de sangre, entre las cuales estaban los antígenos de histocompatibilidad (HLA), de gran importancia para la compatibilidad en trasplantes, que tienen mucha variabilidad entre individuos. Entonces, si hay coincidencia, las chances de parentesco son muy elevadas.<br> 
+        
+        <br>El <strong>“Índice de abuelidad”</strong> marcó un hito histórico: por primera vez, la justicia aceptó esta evidencia científica como prueba de filiación. El primer caso fue el de Paula Eva Logares, en 1984, la nieta número 23 en recuperar su identidad, y la primera en hacerlo gracias a este índice.<br>
+        <br>
+        <div style="margin: 24px 0; padding: 20px 26px; background-color: #6ba3c8; text-align: center;"> 
+        <otro style="font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; margin-top: 6px; color: #e8dcc8;">
+        Desde entonces, ya son<br>
+        <h2 style="font-family: Georgia, serif; font-size: 52px; font-weight: bold; display: block; line-height: 1; color: #f8f5f0;">
+        140</h2>
+        lxs nietxs que han recuperado su identidad.<br> 
+        </otro></div>
+        <p><br>A nivel mundial, en materia de genética forense, este índice demostró que era posible establecer vínculos de segundo grado con altísima certeza estadística. Otro gran aporte en esta lucha de madres y abuelas fue que la Convención Internacional sobre los Derechos del Niño incluyó sus aportes y hoy establece que <strong>la identidad es un derecho para todos los niños y niñas del mundo (artículo 8)</strong>.<br> 
+        
+        <br>El índice fue evolucionando al ritmo de las nuevas tecnologías para estudiar ácidos nucleicos, como lo es el ADN. Con el tiempo, se sumaron otros marcadores a este índice para aumentar la precisión del análisis y reducir la probabilidad de error, tales como el <strong>ADN mitocondrial</strong> (material genético circular localizado en las mitocondrias), el cual solo se hereda por vía materna, ya que es aportado por el óvulo. Actualmente, además del ADN mitocondrial, el análisis se basa en medir secuencias cortas del ADN nuclear llamadas <strong>STR</strong> (del inglés, <i>Short Tandem Repeats</i>). La cantidad de veces que estos pequeños fragmentos de ADN se repiten varía entre individuos. La probabilidad de que se repita el mismo fragmento el mismo número de veces entre dos personas que no están emparentadas es ínfima. Esto significa que si dos personas los comparten, la probabilidad de que estén emparentadas es muy alta, con niveles de certeza de al menos un 99,9%. Además, para fortalecer el análisis se incorpora el marcador <strong>Y-STR</strong>, que se transmite por línea paterna a través del cromosoma Y.<br>
+        
+        <br>No se puede dejar de mencionar que como parte de esta larga lucha, en 1984 se fundó el Equipo Argentino de Antropología Forense (EAAF). Según el testimonio de uno de sus fundadores, Luis Bernardo Fondebrider, el EAAF <i>“brindó la posibilidad de romper esa separación entre ciencia y sociedad, ciencia y derechos humanos, tratando de integrar las dos partes, haciendo a los familiares el centro de la tarea, teniendo muy en claro que ellos son los protagonistas, no los científicos”</i>. Y en 1987 se creó el Banco Nacional de Datos Genéticos (BNDG), con el propósito de garantizar el archivo público y sistemático de material genético y muestras biológicas de familiares de personas secuestradas. Este banco tiene el potencial de guardar y preservar muestras que pueden ser usadas en el futuro, incluso cuando sus donantes hayan fallecido.<br>
+        
+        <br>Con el actual desmantelamiento de la ciencia y la educación públicas, estos organismos también están en peligro. No permitamos que se destruyan.<br>
+        
+        <br>Hoy más que nunca: <strong>Fueron 30.400.</strong><br>
+        
+        <div style="background-color: #3a6b9e; color: #d0e4f4; text-align: center; padding: 24px 40px; font-size: 11px; line-height: 1.9; font-weight: 300;">
+        <h3 style="    font-family: Georgia, serif; font-size: 17px; font-style: italic; font-weight: 300; color: #f8f5f0; display: block; margin-bottom: 10px;"><br>A 50 años del golpe: Memoria, Verdad y Justicia<br>Nunca Más</h3>
+    
+        ¡Nos vemos en el próximo newsletter!<br>
+        
+        <h3 style="font-family: Georgia, serif; font-size: 17px; font-style: italic; color: #d0e4f4; text-align: left;">
+        <br>Nabila</h3>
+        <h3 style="font-size: 11px; color: #d0e4f4; letter-spacing: 1.5px; text-transform: uppercase; margin-top: 2px; font-weight: bold; text-align: left;">
+        Equipo Femiciencia</h3>
+        </div>
+        <div style="padding: 20px 44px; background-color: #e8dcc8; border-top: 1px solid #d4c8b0;">
+        <div style="font-size: 11px; color: #4a3728; line-height: 1.7; margin-bottom: 4px; display: block; text-decoration: none; font-weight: 300;">
+        <br>Bibliografía:
+    
+        <br>Las abuelas y la genética (2008), Abuelas de Plaza de Mayo.
+        <br>Jerez MB, Seguin LR, Baldini P, Castillo M, Juri Ayub M (2023) “Historia del taller: las abuelas, la genética y los derechos humanos”-  UNSL e Instituto San Marcos.
+        <br><a href="https://agencia.unq.edu.ar/?p=2374" target="_blank">Chiaramoni N (2026/03/19)  “Genética forense: la receta amorosa de las Abuelas” - Agencia UNQ</a> 
+        
+        <br><br></div>
+        </div>
+        
+        <br>
+        <hr class="linea-divisoria"> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.<br>  
+        <br>👉 Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.<br>
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #c989d6; ">💜 Gracias por estar del otro lado.
+        </p>`
     }
 ]
 /* FIN array de newsletters */
