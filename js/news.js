@@ -1958,7 +1958,7 @@ lucha contra el cambio climático?
         
         <br>Ahora sí, la pregunta (no las intrusivas, sino las importantes): <strong>¿De qué hablamos cuando hablamos de ambiente? ¿Desde dónde lo decimos? ¿A quiénes nombramos —y a quiénes no— cuando lo definimos?</strong>.<br>
 
-        <br>Desde los discursos biocéntricos, el ambiente suele aparecer como objeto de estudio, como un conjunto de variables físico‑químicas. Desde los organismos oficiales, como un “recurso” que hay que proteger. Desde el mercado, como un nicho rentable para nuevas formas de consumo “verde”. Pero hay otras voces, muchas veces desoídas, que no hablan del ambiente: lo habitan, lo trabajan, lo resisten, lo sostienen.<br>
+        <br>Desde los discursos biocéntricos, el ambiente suele aparecer como objeto de estudio, como un conjunto de variables físico‑químicas. Desde los organismos oficiales, como un “recurso” que hay que proteger. Desde el mercado, como un nicho rentable para nuevas formas de consumo “verde”. Pero hay otras voces, muchas veces desoídas, a quienes no siempre nombramos cuando pensamos en esa dimensión física, emocional, cultural, tangible y no tangible a la que llamamos ambiente. <br>
 
         <br>Las mujeres indígenas que defienden el monte frente al avance del agronegocio.<br>
             Las trabajadoras de la economía popular que sostienen circuitos de reciclado informal.<br>
@@ -1966,9 +1966,9 @@ lucha contra el cambio climático?
             Las Madres de Ituzaingó que pusieron el cuerpo para denunciar el vínculo entre fumigaciones y enfermedades, y convirtieron el dolor en lucha colectiva. Porque, como tantas otras veces en nuestra historia, son mujeres las que se atan un pañuelo, salen a la calle y convierten el duelo en organización.<br>
             Las académicas que interpelan los discursos científicos dominantes, denunciando su sesgo androcéntrico y descontextualizado.<br>
         
-        <br>Pensar el ambiente desde una perspectiva feminista no es “sumar una mirada”. Es revisar las matrices epistemológicas, disputar sentidos, desorganizar las jerarquías que definen qué es conocimiento y quién tiene autoridad para producirlo. Es incomodar al saber técnico, abrirlo a otras gramáticas: las de la experiencia, el arraigo, la memoria, el conflicto.<br>
+        <br>Pensar el ambiente desde una perspectiva feminista es revisar las matrices epistemológicas, disputar sentidos y desorganizar las jerarquías impuestas por un sistema heteropatriarcal. Es incomodar al saber técnico, abrirlo a otras gramáticas: las de la experiencia, el arraigo, la memoria y el conflicto.<br>
         
-        <br>Porque el ambiente no es neutro, ni inocente, ni universal. Es un campo de disputa. Y como todo campo de disputa, merece ser narrado desde múltiples voces —sobre todo desde aquellas que históricamente fueron silenciadas.<br>
+        <br>Porque el ambiente es un campo de disputa. Y como todo campo de disputa, merece ser narrado desde múltiples voces —sobre todo desde aquellas que históricamente fueron silenciadas.<br>
 
         <br><strong>¿Qué formas de habitar lo ambiental conocés que nunca aparecen en los discursos oficiales?</strong><br>
         
