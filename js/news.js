@@ -2186,7 +2186,7 @@ Idea original: Antonella Biondi.<br>
         Desde entonces, ya son<br>
         <h2 style="font-family: Georgia, serif; font-size: 52px; font-weight: bold; display: block; line-height: 1; color: #f8f5f0;">
         140</h2>
-        lxs nietxs que han recuperado su identidad.<br> 
+        lxs nietxs que han recuperado su identidad<br> 
         </otro></div>
         <p><br>A nivel mundial, en materia de genética forense, este índice demostró que era posible establecer vínculos de segundo grado con altísima certeza estadística. Otro gran aporte en esta lucha de madres y abuelas fue que la Convención Internacional sobre los Derechos del Niño incluyó sus aportes y hoy establece que <strong>la identidad es un derecho para todos los niños y niñas del mundo (artículo 8)</strong>.<br> 
         
@@ -2199,7 +2199,8 @@ Idea original: Antonella Biondi.<br>
         <br>Hoy más que nunca: <strong>Fueron 30.400.</strong><br>
         
         <div style="background-color: #3a6b9e; color: #d0e4f4; text-align: center; padding: 24px 40px; font-size: 11px; line-height: 1.9; font-weight: 300;">
-        <h3 style="    font-family: Georgia, serif; font-size: 17px; font-style: italic; font-weight: 300; color: #f8f5f0; display: block; margin-bottom: 10px;"><br>A 50 años del golpe: Memoria, Verdad y Justicia<br>Nunca Más</h3>
+        <h3 style="font-family: Georgia, serif; font-size: 17px; font-style: italic; font-weight: 300; color: #f8f5f0; display: block; margin-bottom: 10px;">
+        <br>"A 50 años del golpe: Memoria, Verdad y Justicia"<br>- Nunca Más -</h3>
     
         ¡Nos vemos en el próximo newsletter!<br>
         
