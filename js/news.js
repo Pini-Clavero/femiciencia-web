@@ -2252,8 +2252,6 @@ Idea original: Antonella Biondi.<br>
         )
     }
 };*/
-const params = new URLSearchParams(window.location.search);
-const id = parseInt(params.get("id"));
 
 /* ---------------- funcion para renderizar la new dependiendo donde se hace click --------------------- */
 
