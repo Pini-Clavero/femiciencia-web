@@ -2236,10 +2236,10 @@ Idea original: Antonella Biondi.<br>
 ]
 /* FIN array de newsletters */
 
-/* INICIO Logica para renderizar las newsletter*/
+/* INICIO Logica para renderizar las newsletter
 
 /* ------------------------- funcion para atrapar el evento de clickeado ------------------------- */
-function atraparIdBotonClickeado() {
+/*function atraparIdBotonClickeado() {
     //agarro todos los botones
     const botones = document.querySelectorAll('.columna-1 a');
     for (let i = 0; i < botones.length; i++) {
@@ -2251,11 +2251,13 @@ function atraparIdBotonClickeado() {
         }
         )
     }
-};
+};*/
+const params = new URLSearchParams(window.location.search);
+const id = parseInt(params.get("id"));
 
 /* ---------------- funcion para renderizar la new dependiendo donde se hace click --------------------- */
 
-function renderizarNew(news) {
+/*function renderizarNew(news) {
     //agarro donde voy a renderizar
     const nodoTitulo = document.querySelector('.titulo');
     const nodoImagen = document.querySelector('.img');
@@ -2279,9 +2281,34 @@ function renderizarNew(news) {
             nodoImagen.innerHTML += `<img src=${news[i].img}>`;
         }
     }
-};
+};*/
+function renderizarNew(news) {
+    const nodoTitulo = document.querySelector('.titulo');
+    const nodoImagen = document.querySelector('.img');
+    const nodoContenido = document.querySelector('.contenido');
 
-atraparIdBotonClickeado();
+    // 🔥 obtenemos el id desde la URL
+    const params = new URLSearchParams(window.location.search);
+    const id = parseInt(params.get("id"));
+
+    // limpiar contenido
+    nodoTitulo.innerHTML = "";
+    nodoContenido.innerHTML = "";
+    nodoImagen.innerHTML = "";
+
+    // buscar la noticia
+    for (let i = 0; i < news.length; i++) {
+        if (id === news[i].id) {
+            nodoTitulo.innerHTML = news[i].titulo;
+            nodoContenido.innerHTML = news[i].contenido;
+            nodoImagen.innerHTML = `<img src="${news[i].img}">`;
+        }if (isNaN(id)) {
+    nodoTitulo.innerHTML = "No se encontró la noticia";
+}
+    }
+}
+
+/*atraparIdBotonClickeado();*/
 renderizarNew(news);
 
 
