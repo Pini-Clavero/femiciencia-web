@@ -21,6 +21,27 @@
     margin-top: 7%;
   }
 }
+.news-ind-div1 {
+    height: auto;
+    overflow: visible;
+    padding-top: 20px;
+}
+.heading-t2.titulo {
+    white-space: normal;
+    line-height: 1.2em;
+    max-width: 100%;
+}
+@media (max-width: 768px) {
+    .heading-t2.titulo {
+        font-size: 2rem;
+    }
+}
+@media screen and (max-width: 480px) {
+    .heading-t2.titulo {
+        font-size: 1.0rem;
+    }
+}
+
 
 * {
   margin: 0;
@@ -67,7 +88,13 @@ a:hover {
   position: absolute;
   overflow: hidden;
   /*el height pega el titulo a la linea, regular en querys*/
+  text-shadow: /*para que se marque la sombra de las letras en la linea*/
+    -1px -1px 0 white,
+     1px -1px 0 white,
+    -1px  1px 0 white,
+     1px  1px 0 white;
 }
+
 
 @-webkit-keyframes slide-top {
   0% {
