@@ -2232,6 +2232,79 @@ Idea original: Antonella Biondi.<br>
         <br>
         <p style="color: #c989d6; ">💜 Gracias por estar del otro lado.
         </p>`
+    },
+    {
+        id: 31,
+        img: "../media/ilustraciones/ilustracion_31.webp",
+        titulo: "Endocrinología y género",
+        contenido: `<div class="poem-init-news"><br><i>No vemos ni entendemos el mundo, lo percibimos destrozándolo a través de las estrechas categorías que nos habitan. El dolor que a menudo sentimos al estar vivos es el dolor de esta negación del mundo y de su sentido.</i> <br>
+        — Paul B. Preciado, <br>Dysphoria mundi<br><br>
+       </div> <div class="">
+       </div> 
+       <p class="first-child" style="border-bottom: 0px solid #e8dcc8;">
+        Anita y Danu se conectan a una reunión porque surgió a través de Instagram la posibilidad de hacer una colaboración. <i style="color: #3a6b9e;">“Tenemos que hacer circular esta investigación”</i>, acuerdan. A las corridas, con agendas explotadas entre color y colorcito, ambas hacen una pausa un viernes a la siesta porque siguen creyendo, aún cansadas, aún desbordadas, que otros mundos más justos pueden construirse.
+        <br>
+        <br>Una no llegó a comer. Almuerza mientras le cuenta a la otra cómo viene, qué la tiene desvelada, qué cosas la entusiasman y cuáles la agotan. La otra escucha, toma notas en el primer papel que encontró a mano; son unas notas adhesivas amarillas, que terminan todas intervenidas. Se ríen, comparten sus enojos, se abrazan a la distancia: las dos saben que transitar los dolores de forma colectiva repara. Y bastante.<br> 
+        <br>La conversación iba a ser para pensar un Newsletter sobre una Tesis de Maestría de Psicoinmunoneuroendocrinología <i style="color: #3a6b9e; font-weight: bold;">(¿Qué? Sí, eso)</i>. Rápidamente toma un rumbo un tanto distinto. Durante mucho tiempo, las identidades travesti-trans fueron abordadas por buena parte de las instituciones médicas desde una lógica patologizante. Inclusive hoy, en muchos lugares del mundo, para acceder a hormonización o a determinadas intervenciones corporales, hay que atravesar filtros psiquiátricos, diagnósticos obligatorios o recorridos institucionales diseñados para comprobar que una persona es, efectivamente, quien dice ser. Como si el deseo, la identidad o el derecho a decidir sobre el propio cuerpo necesitaran ser validados desde afuera.<br>
+        <br>En Argentina, la Ley de Identidad de Género, que este año cumple 14 años, despatologizó. Hizo una diferencia concreta: el acceso a tratamientos hormonales integrales quedó ligado al consentimiento informado y no a una autorización judicial, ni a un diagnóstico, ni a la necesidad de encajar en narrativas estandarizadas sobre el sufrimiento. El sistema de salud sigue teniendo violencias, prejuicios y barreras. <i style="color: #3a6b9e; font-weight: bold;">Pero este marco legal, inclusive con el contexto de retroceso de derechos actual, sigue siendo una excepción en el mundo</i>.<br>
+        <br>La tesis de la nueva magíster, Agostina Santi, fue dirigida por Dana Negretti Borga y se titula <i style="color: #3a6b9e;">“Terapias hormonales de transición de género masculinizantes y alteraciones metabólicas: un análisis psico-biomédico”</i>.<br>
+        <br>Este trabajo importa por más de un motivo. Importa porque aborda un tema sobre el que todavía falta mucha investigación. Y porque no reduce los cuerpos a datos: articula una dimensión biomédica sobre el uso de testosterona en varones trans y no binarixs al mismo tiempo que integra factores psico-sociales. En esta intersección aparece un concepto clave: <i style="color: #1a2e3e; font-weight: bold;">las corporalidades no existen por fuera de las condiciones sociales en las que viven</i>.<br>
+        <br>En nuestro documental “Narrativas desde el cuerpx”, una persona entrevistada nos dice (en relación con el acceso a centros de atención primaria y hospitales): <i style="color: #3a6b9e;">“tengo pánico de que me llamen por el nombre que aparece en mi DNI y no por mi nombre autopercibido”; “buscamos la posibilidad de encontrar espacios donde no haya que justificarse para ser atendidxs”</i>.<br>
+        <br>Yendo a la tesis...<br>
+        <br>
+        <br>
+        <div style="font-family: Georgia, serif; font-size: 22px; font-weight: bold; color: #1a2e3e; line-height: 1.25; margin: 26px 0 12px;">
+          El cuerpo
+        </div>
+        <hr class="linea-divisoria">
+        La tesis evaluó los cambios clínicos asociados al uso de testosterona en pacientes del Hospital Córdoba, Córdoba-Argentina, entre 2018 y 2024. Luego de un año de hormonización se observaron cambios en el peso, el perfil lipídico y las enzimas hepáticas, que se mantienen dentro de lo reportado en guías internacionales. Una de las preguntas que abre el trabajo es la <i style="color: #1a2e3e; font-weight: bold;">necesidad de contar con valores de referencia específicos para esta población</i>, que ayuden a guiar el monitoreo clínico.<br>
+        <br>
+        <br>
+        <div style="font-family: Georgia, serif; font-size: 22px; font-weight: bold; color: #1a2e3e; line-height: 1.25; margin: 26px 0 12px;">
+          El contexto
+        </div>
+        <hr class="linea-divisoria">
+        A través de encuestas anónimas validadas, la tesis también examinó la relación entre los parámetros metabólicos, el estrés percibido y las experiencias de discriminación. Los varones trans y personas no binarias encuestadxs mostraron altos niveles de estrés y experiencias frecuentes de discriminación, especialmente en contextos sanitarios. <i style="color: #1a2e3e; font-weight: bold;">Los resultados subrayan la necesidad de un abordaje interdisciplinario que contemple tanto los efectos biológicos de la testosterona como los determinantes psicosociales</i>.<br>
+        <br>Hacer investigación clínica con hospitales no es fácil. Los comités de ética tienen sus tiempos. Articular entre instituciones tiene los suyos. Y más profundo que todo eso, una serie de preguntas que no son menores: buena parte de la investigación clínica está dominada por la lógica farmacéutica y de mercado. ¿Qué se investiga? ¿Para quién? ¿Desde dónde?<br>
+        <br>
+        <div class="preguntas-news" style="margin-top: 20px; color: #c0392b; font-size: 18px; letter-spacing: 8px; text-transform: uppercase; font-weight: bold;">
+          ✦ ✦ ✦
+        </div>
+        <p>
+        <br>
+        <br>Una de las cosas más valiosas de esta tesis es que reconoce, en primer lugar, que <i style="color: #1a2e3e; font-weight: bold;">existe una trama entre derechos, salud y producción de conocimiento que necesita seguir creciendo</i>. E insiste en abrir preguntas necesarias para reparar deudas históricas. Como militantes feministas dentro del sistema científico, creemos que falta investigación. Faltan seguimientos a largo plazo. Faltan datos sistematizados. Faltan perspectivas diversas. Falta una ciencia menos fascinada con sus propias métricas y más atenta a los problemas concretos de la vida. Falta, también, una decisión más firme de poner recursos, tiempo y legitimidad en temas que importan para comunidades históricamente relegadas.<br>
+        
+        <br>Pero incluso en este escenario de deudas, algo se mueve:<br> 
+        
+        <br>Se mueve cuando Danu y Agostina deciden que no les interesa producir conocimiento para dejarlo guardado en un cajón. Se mueve cuando una conversación por Instagram se convierte en una reunión, y una reunión en una posible colaboración, y una colaboración en esta necesidad medio urgente de escribir, compartir, hacer circular. Se mueve cuando Anita y Danu, agotadas pero tercas, se hacen un rato para pensar juntas porque siguen confiando en que el conocimiento puede ser también una forma de cuidado.<br> 
+                
+        <br>Porque, como dijo una colega de la Universidad Autónoma de México en un congreso, presentando un trabajo sobre enfoques feministas en la universidad: <i style="color: #3a6b9e; font-weight: bold;">“nos organizamos y actuamos desde la dignísima rabia”</i>.<br>
+        <br>Tal vez por ahí empiecen otras narrativas. Otras formas de habitar el mundo.<br> 
+        
+        <br>En el gesto más humilde y más necesario de poner a circular estas discusiones. De decir: esto se está pensando. Esto se está investigando. Sin la fantasía de que una investigación, por sí sola, vaya a reparar siglos de violencia médica, social e institucional. Pero sí con la convicción de que vale la pena.<br> 
+        
+        <br>Transcurridas las dos horas de ese huequito en el medio del caos, una vianda a medio terminar, una conversación que se va por las ramas hablando del Eje Hipotálamo-Hipófisis-Tiroides y de las hormonas T3 y T4, nos abrazamos a la distancia y nos decimos que nos encontramos en el <a href="https://www.instagram.com/39encuentropluri.cba/" target="_blank" style="color: #8000FF;">39.° Encuentro Plurinacional de Mujeres, Lesbianas, Trans, Travestis, Bisexuales, Intersexuales y No Binaries (MLTTBINB) de 2026</a>.<br>
+        <br>
+        
+        <h3 style="font-family: Georgia, serif; font-size: 17px; font-style: italic; color: #08090a; text-align: left;">
+        <br>Femiciencia</h3>
+        
+        </div>
+        
+        </div>
+        
+        <br>
+        <hr class="linea-divisoria"> 
+        <br>
+    
+        <p style="color: #c989d6;">P/D: Te recordamos que Femiciencia es un proyecto autogestivo, que se sustenta gracias a los trabajos -remunerados- de quienes lo integran, como así también por la colaboración de nuestrxs seguidorxs.<br>  
+        <br>👉 Por eso te invitamos a colaborar con nosotrxs y apoyar a Femiciencia, para que todas las propuestas crezcan y podamos sumar aún más.<br>
+        <br><a href="https://cafecito.app/femiciencia" target="_blank" style="color: #8000FF;">Invitanos un cafecito</a>.
+        </p>
+
+        <br>
+        <p style="color: #c989d6; ">💜 Gracias por estar del otro lado.
+        </p>`
     }
 ]
 /* FIN array de newsletters */
